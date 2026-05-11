@@ -449,11 +449,6 @@ export default class Planes {
   private pointerDown?: (e: PointerEvent) => void;
   private pointerMove?: (e: PointerEvent) => void;
   private pointerUp?: (e: PointerEvent) => void;
-  /** Two-finger vertical pan → same depth scroll as mouse wheel (touch has no wheel). */
-  private twoFingerDepth = { active: false, lastMidY: 0 };
-  private twoTouchStart?: (e: TouchEvent) => void;
-  private twoTouchMove?: (e: TouchEvent) => void;
-  private twoTouchEnd?: (e: TouchEvent) => void;
   private onWheelBound: (e: WheelEvent) => void;
 
   /** Smoothed NDC pointer (-1..1, +Y up) for GPU proximity. */
@@ -1043,7 +1038,12 @@ export default class Planes {
 
       const wx = -dx * worldPerPixelX;
       this.drag.xTarget += wx;
-      this.drag.yTarget += dy * worldPerPixelY;
+      // Touch: no mouse wheel — vertical swipe drives depth (scrollY) like the wheel; horizontal still pans X.
+      if (e.pointerType === "touch") {
+        this.applyDepthScrollFromWheelDelta(dy);
+      } else {
+        this.drag.yTarget += dy * worldPerPixelY;
+      }
       this.drag.xVel = this.drag.xVel * 0.55 + wx * 0.45;
     };
 
@@ -1061,31 +1061,6 @@ export default class Planes {
     element.addEventListener("pointerdown", this.pointerDown);
     window.addEventListener("pointermove", this.pointerMove);
     window.addEventListener("pointerup", this.pointerUp);
-
-    this.twoTouchStart = (e: TouchEvent) => {
-      if (e.touches.length === 2) {
-        this.twoFingerDepth.active = true;
-        this.twoFingerDepth.lastMidY =
-          (e.touches[0]!.clientY + e.touches[1]!.clientY) / 2;
-      }
-    };
-    this.twoTouchMove = (e: TouchEvent) => {
-      if (!this.twoFingerDepth.active || e.touches.length !== 2) return;
-      const mid =
-        (e.touches[0]!.clientY + e.touches[1]!.clientY) / 2;
-      const dy = mid - this.twoFingerDepth.lastMidY;
-      this.twoFingerDepth.lastMidY = mid;
-      this.applyDepthScrollFromWheelDelta(dy);
-    };
-    this.twoTouchEnd = (e: TouchEvent) => {
-      if (e.touches.length < 2) this.twoFingerDepth.active = false;
-    };
-    element.addEventListener("touchstart", this.twoTouchStart, {
-      passive: true,
-    });
-    element.addEventListener("touchmove", this.twoTouchMove, { passive: true });
-    element.addEventListener("touchend", this.twoTouchEnd);
-    element.addEventListener("touchcancel", this.twoTouchEnd);
   }
 
   /** Same mapping as `wheel` `deltaY` (positive ≈ scroll down / fingers move down). */
@@ -1206,12 +1181,6 @@ export default class Planes {
     if (this.pointerMove) window.removeEventListener("pointermove", this.pointerMove);
     if (this.pointerUp) window.removeEventListener("pointerup", this.pointerUp);
     window.removeEventListener("wheel", this.onWheelBound);
-    if (this.dragElement && this.twoTouchStart && this.twoTouchMove && this.twoTouchEnd) {
-      this.dragElement.removeEventListener("touchstart", this.twoTouchStart);
-      this.dragElement.removeEventListener("touchmove", this.twoTouchMove);
-      this.dragElement.removeEventListener("touchend", this.twoTouchEnd);
-      this.dragElement.removeEventListener("touchcancel", this.twoTouchEnd);
-    }
 
     this.scene.remove(this.mesh);
     this.geometry.dispose();
