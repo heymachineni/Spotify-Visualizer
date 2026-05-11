@@ -1,0 +1,3390 @@
+{
+  "generatedAt": "2026-04-21T07:50:24.102Z",
+  "maxTracksPerPlaylist": 60,
+  "playlists": [
+    {
+      "id": "12rEkz0g1nd0FXSDH5BXf1",
+      "name": "ms sub",
+      "description": "",
+      "coverImage": "https://mosaic.scdn.co/640/ab67616d00001e022de97b73bd97223591baec97ab67616d00001e02b16b233832cac34f7d64c93eab67616d00001e02bcedbef0a8e30f89f4c690b5ab67616d00001e02d234ffcf1f606df4f584952a",
+      "tracks": [
+        {
+          "id": "6DND2TO9wBkkCKbjEUICqm",
+          "title": "Ninnukori",
+          "artist": "K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b16b233832cac34f7d64c93e",
+          "spotifyUrl": "https://open.spotify.com/track/6DND2TO9wBkkCKbjEUICqm",
+          "previewUrl": "https://p.scdn.co/mp3-preview/7c2b8564247746e35aee18757d400d976fcbf46e"
+        },
+        {
+          "id": "46IqUkQTOH7aEaZFUcpSON",
+          "title": "Andangalena",
+          "artist": "Suneetha",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d234ffcf1f606df4f584952a",
+          "spotifyUrl": "https://open.spotify.com/track/46IqUkQTOH7aEaZFUcpSON",
+          "previewUrl": "https://p.scdn.co/mp3-preview/476e269e1af860c6665fa177a318a13c2f6ab005"
+        },
+        {
+          "id": "7MpYcu3JJMgbnHOoe55gT2",
+          "title": "Vasudeva Mssubbulakshmi",
+          "artist": "M. S. Subbulakshmi, Radha Viswanathan",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273bcedbef0a8e30f89f4c690b5",
+          "spotifyUrl": "https://open.spotify.com/track/7MpYcu3JJMgbnHOoe55gT2",
+          "previewUrl": "https://p.scdn.co/mp3-preview/0f5b7630aaecdda1824b599bdc56d0ef18647b2a"
+        },
+        {
+          "id": "5jVZ2TvUUf1DC9kRA61U3D",
+          "title": "Jaamurathiri",
+          "artist": "M. M. Keeravani, Sirivennela Seetharama Sastry, S. P. Balasubrahmanyam, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2732de97b73bd97223591baec97",
+          "spotifyUrl": "https://open.spotify.com/track/5jVZ2TvUUf1DC9kRA61U3D",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a20f59b06199ec1ca3ec103b7bb8a09fffc59f22"
+        },
+        {
+          "id": "54KFPok0VqW2Wzp3VMFiOX",
+          "title": "Kallallo Kala Varamai",
+          "artist": "Chinmayi, Shreshta, Prashanth R Vihari",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273623a4c74a06d1b3e208ffe25",
+          "spotifyUrl": "https://open.spotify.com/track/54KFPok0VqW2Wzp3VMFiOX",
+          "previewUrl": "https://p.scdn.co/mp3-preview/fa30dc34f4b1659a90beda5f0876a6f578639d8a"
+        },
+        {
+          "id": "3Rr2iovbWm9jY03oWmPtTn",
+          "title": "Sada Nannu",
+          "artist": "Mickey J. Meyer, Charulatha Mani",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273bf5ab155bf70168551be90d3",
+          "spotifyUrl": "https://open.spotify.com/track/3Rr2iovbWm9jY03oWmPtTn",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b55e631f09832fa6dc59969bf6a0816e6b0e5c58"
+        },
+        {
+          "id": "7JxJFtObGTr1R9cHFDGv9y",
+          "title": "Subhalekha",
+          "artist": "Ilaiyaraaja, S. P. Balasubrahmanyam, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d45651b92fe682003f53c286",
+          "spotifyUrl": "https://open.spotify.com/track/7JxJFtObGTr1R9cHFDGv9y",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b6ec80a0ec835303422e8a1b6569ce45066faf20"
+        },
+        {
+          "id": "0sYNZqHarbkRCJ1TOIkhqB",
+          "title": "Neeli Meghamulalo (From \"35 Chinna Katha Kaadu\")(TeIugu)",
+          "artist": "Vivek Sagar, Prithvi Harish, Kalyan Vasanth, Bharadwaj Gali",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273dd9090ebca88ed5cdc5a3aba",
+          "spotifyUrl": "https://open.spotify.com/track/0sYNZqHarbkRCJ1TOIkhqB",
+          "previewUrl": "https://p.scdn.co/mp3-preview/9f732727cabaf05ade378497ef8aca4fee1570f8"
+        },
+        {
+          "id": "2XIpnX1b6157m197jymrfq",
+          "title": "Manasulone Nilichipoke",
+          "artist": "Chinmayi",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2737214c0a87da09a79c2139b56",
+          "spotifyUrl": "https://open.spotify.com/track/2XIpnX1b6157m197jymrfq",
+          "previewUrl": "https://p.scdn.co/mp3-preview/af5265cab39fcaa5267f983433b7f6bf724685d1"
+        },
+        {
+          "id": "7L2D6W7e8mn0zf8cH78Ch4",
+          "title": "Sirivennela",
+          "artist": "Anurag Kulkarni, Mickey J. Meyer",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273463410f6597db5e9f484c399",
+          "spotifyUrl": "https://open.spotify.com/track/7L2D6W7e8mn0zf8cH78Ch4",
+          "previewUrl": "https://p.scdn.co/mp3-preview/af481ab83ca885b4de3c9fcd89675919f0e770ec"
+        },
+        {
+          "id": "61fXT6uwJ2THPkbmxa65OI",
+          "title": "Arerey Manasa (From \"Falaknuma Das\")",
+          "artist": "Vivek Sagar, Sid Sriram, Kittu Vissapragada",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2732c6ba723e32466661f636d7a",
+          "spotifyUrl": "https://open.spotify.com/track/61fXT6uwJ2THPkbmxa65OI",
+          "previewUrl": "https://p.scdn.co/mp3-preview/219e8fa5096fa098fbdcc19dd1fe30a68f030f10"
+        },
+        {
+          "id": "6vsPBbLGfeLraBanG4HJaR",
+          "title": "Em Sandeham Ledu",
+          "artist": "Sunitha, Kalyani Mallik",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27317af156fcdf5248a8a29708d",
+          "spotifyUrl": "https://open.spotify.com/track/6vsPBbLGfeLraBanG4HJaR",
+          "previewUrl": "https://p.scdn.co/mp3-preview/59046e2260a3f82813362edec775dd358bfd6176"
+        },
+        {
+          "id": "4Dk6QsZI1Zbqwfpu9sVjbH",
+          "title": "Madhuram Madhuram",
+          "artist": "Padma, Sridevi",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273988b17ccf9ff5e70625b6dea",
+          "spotifyUrl": "https://open.spotify.com/track/4Dk6QsZI1Zbqwfpu9sVjbH",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ef95039efc88d51638870e762621e3066ca666b6"
+        },
+        {
+          "id": "3bqyItBBgnOHSBzk0ft5Yt",
+          "title": "Chuttu Chutti",
+          "artist": "S. P. Balasubrahmanyam, Harini",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ea90b0bbdefdccc987cd6982",
+          "spotifyUrl": "https://open.spotify.com/track/3bqyItBBgnOHSBzk0ft5Yt",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a3fcd826c3890a3205db8a634c90d8640669827a"
+        },
+        {
+          "id": "0H1tRwYEx9gEAqgRKbGfvk",
+          "title": "Gira Gira Gira (From \"Dear Comrade\")",
+          "artist": "Gowtham Bharadwaj, Yamini Ghantasala, Justin Prabhakaran, Rehman",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27370ef2a7c7d01dc7a99183bd6",
+          "spotifyUrl": "https://open.spotify.com/track/0H1tRwYEx9gEAqgRKbGfvk",
+          "previewUrl": "https://p.scdn.co/mp3-preview/92bd9db085ddd17ef28728c90fb3005f54692c5b"
+        },
+        {
+          "id": "59GkTG2KaR4CfiSU60yMCk",
+          "title": "Oohale - From \"Jaanu\"",
+          "artist": "Govind Vasantha, Chinmayi",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273c9115cd45b4571d513e4202e",
+          "spotifyUrl": "https://open.spotify.com/track/59GkTG2KaR4CfiSU60yMCk",
+          "previewUrl": "https://p.scdn.co/mp3-preview/e32cf421cea87d8a7bb05f86d2d9ac7a8a037aae"
+        },
+        {
+          "id": "23FWuB6iqak1iQst6AsxUK",
+          "title": "Deva Devam",
+          "artist": "Devi Sri Prasad, Palakkad Shreeram, Rita",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27360ab1f6e9a316dda0fab036f",
+          "spotifyUrl": "https://open.spotify.com/track/23FWuB6iqak1iQst6AsxUK",
+          "previewUrl": "https://p.scdn.co/mp3-preview/548e470781450ebae849d75be91fc257e4497942"
+        },
+        {
+          "id": "4cq7SK8w7RKMBrJGeJgKmD",
+          "title": "Samayama",
+          "artist": "Prashanth R Vihari, Harini, Yazin Nizar",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273f6ed8f4f15e1b44403d6f076",
+          "spotifyUrl": "https://open.spotify.com/track/4cq7SK8w7RKMBrJGeJgKmD",
+          "previewUrl": "https://p.scdn.co/mp3-preview/c28a8ff1c3b24e6322d6935eb5fab6d515eac981"
+        },
+        {
+          "id": "24Cg7bLCGCbClBGzWvU7GX",
+          "title": "Madhuram",
+          "artist": "Radhan, Sameera Bharadwaj",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273acf25692c90544b6d218f642",
+          "spotifyUrl": "https://open.spotify.com/track/24Cg7bLCGCbClBGzWvU7GX",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ffd72175b00226acb3e068cae60b06fe3b23c8d2"
+        },
+        {
+          "id": "7l5fS4lbkdwzteVyE6s2IO",
+          "title": "Ramachakkani Sitha",
+          "artist": "Gayathri",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d234ffcf1f606df4f584952a",
+          "spotifyUrl": "https://open.spotify.com/track/7l5fS4lbkdwzteVyE6s2IO",
+          "previewUrl": "https://p.scdn.co/mp3-preview/12c78f9a7eb1bae3022f7a5a253e7312130dec39"
+        },
+        {
+          "id": "40eaEmJNnUYXQoR94vyJkT",
+          "title": "Sankaraa Naadasareeraparaa",
+          "artist": "S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736f8d0047486f1f00e9850d15",
+          "spotifyUrl": "https://open.spotify.com/track/40eaEmJNnUYXQoR94vyJkT",
+          "previewUrl": "https://p.scdn.co/mp3-preview/d40ed28c1a6efaa641d783d63e29effe613e748b"
+        },
+        {
+          "id": "3kP3qURfjkwUTCbpTiRsrx",
+          "title": "Raghuvamsa Sudha",
+          "artist": "Saindhavi",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273eb943f1b8303a5e8863685a2",
+          "spotifyUrl": "https://open.spotify.com/track/3kP3qURfjkwUTCbpTiRsrx",
+          "previewUrl": "https://p.scdn.co/mp3-preview/e66a79a21d938349f14efb1968768276b5c39f1f"
+        },
+        {
+          "id": "6FsfdA9HYh8blDetyHCBEQ",
+          "title": "Brochevaarevarura",
+          "artist": "Karthik",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273251a59868f2ee4a56183f2fe",
+          "spotifyUrl": "https://open.spotify.com/track/6FsfdA9HYh8blDetyHCBEQ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/49a2f039316bbc307fed340813b3aefa72419cd5"
+        },
+        {
+          "id": "2u1R78pPnSeKHjgZ3JyzOp",
+          "title": "Nagumomu",
+          "artist": "Karthik",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273251a59868f2ee4a56183f2fe",
+          "spotifyUrl": "https://open.spotify.com/track/2u1R78pPnSeKHjgZ3JyzOp",
+          "previewUrl": "https://p.scdn.co/mp3-preview/07177fb55f02a948c299a3ec360dd9eea8834cf8"
+        },
+        {
+          "id": "6OfjrpORq2SP4TlT6wHqyJ",
+          "title": "Taralirada",
+          "artist": "Ilaiyaraaja, S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d1fe3ca3636cada5a8f8b5a3",
+          "spotifyUrl": "https://open.spotify.com/track/6OfjrpORq2SP4TlT6wHqyJ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b54621e8ac36a865c4ce51e94b0cbc74dd414354"
+        },
+        {
+          "id": "6GAXNqgiEXST8mJIA5jtBm",
+          "title": "Ganesa Pancharatnam - Ragamalika",
+          "artist": "M. S. Subbulakshmi, Radha Viswanathan",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b48c454bee0f3f623ad21f8d",
+          "spotifyUrl": "https://open.spotify.com/track/6GAXNqgiEXST8mJIA5jtBm",
+          "previewUrl": "https://p.scdn.co/mp3-preview/727fd2ed561f3101f7297ebef14a86984a3ee03b"
+        }
+      ]
+    },
+    {
+      "id": "6ut7pit5G4Zs8NCjtJK7HQ",
+      "name": "aaaww",
+      "description": "",
+      "coverImage": "https://mosaic.scdn.co/640/ab67616d00001e023feeceaf6adaa22e57791da0ab67616d00001e02478f243c557031f035f9a804ab67616d00001e02a5850ac5d04d600f9e2436b7ab67616d00001e02fb6b64d74a39c88ffb8737d9",
+      "tracks": [
+        {
+          "id": "1uQU9b93tlMlMoZ0h2bRgf",
+          "title": "Sithira Puthiri - From \"Think Indie\"",
+          "artist": "Sai Abhyankkar, Vivek",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273478f243c557031f035f9a804",
+          "spotifyUrl": "https://open.spotify.com/track/1uQU9b93tlMlMoZ0h2bRgf",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ad579fca481fb03091d0c47a04b8b238c04d48d8"
+        },
+        {
+          "id": "3hZg8oiTOWFZWaFudFi610",
+          "title": "Jinguchaa (From \"Thug Life\") (Tamil)",
+          "artist": "A.R. Rahman, Kamal Haasan, Vaishali Samant, Shakthisree Gopalan, Adithya RK",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a5850ac5d04d600f9e2436b7",
+          "spotifyUrl": "https://open.spotify.com/track/3hZg8oiTOWFZWaFudFi610",
+          "previewUrl": "https://p.scdn.co/mp3-preview/29f38fa5850c5edff65a1a4b9dcfbf4a0e5b010a"
+        },
+        {
+          "id": "4ipcv9eHC6w5xKXxX0Z1Zu",
+          "title": "Powerhouse (From \"Coolie\") (Tamil)",
+          "artist": "Anirudh Ravichander, Arivu",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273fb6b64d74a39c88ffb8737d9",
+          "spotifyUrl": "https://open.spotify.com/track/4ipcv9eHC6w5xKXxX0Z1Zu",
+          "previewUrl": "https://p.scdn.co/mp3-preview/770cc813b17cc83468009ddfaf7d9d81d87acb8a"
+        },
+        {
+          "id": "4tJz5wXpwIvG2KMKPbYWwz",
+          "title": "Kannadi Poove (From \"Retro\")",
+          "artist": "Santhosh Narayanan, Vivek",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2733feeceaf6adaa22e57791da0",
+          "spotifyUrl": "https://open.spotify.com/track/4tJz5wXpwIvG2KMKPbYWwz",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5c67a10faec185a35e84febbc68dcd7f18c6e5bf"
+        },
+        {
+          "id": "41PL8Ng9jO3Pe98WKByHfT",
+          "title": "Kaamaatchi",
+          "artist": "Sunder Chandran",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27387501c280719e2e2ebf2ec96",
+          "spotifyUrl": "https://open.spotify.com/track/41PL8Ng9jO3Pe98WKByHfT",
+          "previewUrl": "https://p.scdn.co/mp3-preview/66b289e3f93047381b3b01f754257fe410d255d9"
+        },
+        {
+          "id": "5GENwU66wYztXVqEOLubyF",
+          "title": "Golden Sparrow (From \"Nilavuku En Mel Ennadi Kobam\")",
+          "artist": "G. V. Prakash, Arivu, Dhanush, Sublahshini",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e6b308eb272f77c2e282e616",
+          "spotifyUrl": "https://open.spotify.com/track/5GENwU66wYztXVqEOLubyF",
+          "previewUrl": "https://p.scdn.co/mp3-preview/18229858a1ac857c974226a89ea6d26930436be3"
+        },
+        {
+          "id": "3Oh1zx6YSpHMk7R4grBIiI",
+          "title": "Thangamey",
+          "artist": "Anirudh Ravichander, Vignesh Shivan",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736a1471aa1944bde42342e119",
+          "spotifyUrl": "https://open.spotify.com/track/3Oh1zx6YSpHMk7R4grBIiI",
+          "previewUrl": "https://p.scdn.co/mp3-preview/1c5fabcb4a2066f4e1e17f0c296ceb56c63b84d9"
+        },
+        {
+          "id": "2JlzHPGIVaLNAppX1viq7f",
+          "title": "Kanimaa (From \"Retro\")",
+          "artist": "Santhosh Narayanan, The Indian Choral Ensemble, Vivek",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273116633561ca7705cdbcc9656",
+          "spotifyUrl": "https://open.spotify.com/track/2JlzHPGIVaLNAppX1viq7f",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a6ddaec77b13d778e91288f4d026722ed3ff3c8a"
+        },
+        {
+          "id": "4Hvf9xIeJWp5p9FkJerQhN",
+          "title": "Malare",
+          "artist": "Vijay Yesudas, Rajesh Murugesan",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2737f66de7f3ab6f971b6c13504",
+          "spotifyUrl": "https://open.spotify.com/track/4Hvf9xIeJWp5p9FkJerQhN",
+          "previewUrl": "https://p.scdn.co/mp3-preview/42ee11745d29ebb976c416bd35b9069f4eea2fe9"
+        },
+        {
+          "id": "1a1xLj9W8libnO9PvJf6ao",
+          "title": "Illuminati",
+          "artist": "Sushin Shyam, Dabzee, Vinayak Sasikumar",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2731d93bb16bf3025587d001f45",
+          "spotifyUrl": "https://open.spotify.com/track/1a1xLj9W8libnO9PvJf6ao",
+          "previewUrl": "https://p.scdn.co/mp3-preview/dffc674150ec3e1f11d19662bced711d23843e78"
+        },
+        {
+          "id": "3aC37L4SYKAIftxFmIF3jN",
+          "title": "Poyiraa Mama (From \"Kuberaa\")",
+          "artist": "Devi Sri Prasad, Dhanush, Bhaskarabhatla",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27390c6a6db4cd7d781f84302a6",
+          "spotifyUrl": "https://open.spotify.com/track/3aC37L4SYKAIftxFmIF3jN",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ce47e071db8bc3ac6675c345ad8659910d3f5ed0"
+        },
+        {
+          "id": "6OEY4EgyHxwJ8IhanTnvEL",
+          "title": "Vizhi Veekura - From \"Think Indie\"",
+          "artist": "Sai Abhyankkar, Sai Smriti, Adesh Krishna",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734ec5386162339f21abdba45e",
+          "spotifyUrl": "https://open.spotify.com/track/6OEY4EgyHxwJ8IhanTnvEL",
+          "previewUrl": "https://p.scdn.co/mp3-preview/368a3ae8e32d5ae513c185e45b928d1b269375f7"
+        },
+        {
+          "id": "0xttqqTj7ZAGyVkfOYxQ4F",
+          "title": "Nee Paartha Vizhigal - The Touch of Love",
+          "artist": "Anirudh Ravichander, Vijay Yesudas, Shweta Mohan, Dhanush",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730d66934f5370419636c78f18",
+          "spotifyUrl": "https://open.spotify.com/track/0xttqqTj7ZAGyVkfOYxQ4F",
+          "previewUrl": "https://p.scdn.co/mp3-preview/778193f1875314d03baf2122f00d81820c819c0e"
+        },
+        {
+          "id": "7qw72jXJNBeqIMsqzvBft5",
+          "title": "Yennai Izhukkuthadi (From \"Kadhalikka Neramillai\")",
+          "artist": "A.R. Rahman, Dhee",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a3288b749195fb39e6e5ac2b",
+          "spotifyUrl": "https://open.spotify.com/track/7qw72jXJNBeqIMsqzvBft5",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f532569076181f5e7280f002a2ee3e63bac76d2d"
+        },
+        {
+          "id": "3V2ricb6fi4OCJu2rjhL1A",
+          "title": "Naan Un",
+          "artist": "A.R. Rahman, Arijit Singh, Chinmayi, Madan Karky",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2739225c3123dc646d19419fb41",
+          "spotifyUrl": "https://open.spotify.com/track/3V2ricb6fi4OCJu2rjhL1A",
+          "previewUrl": "https://p.scdn.co/mp3-preview/70c05a14a607c2ca93344a702844c9e2e33bfd53"
+        },
+        {
+          "id": "6nbLOcHQ1ACZrTsRyAOi1U",
+          "title": "Uyiril Thodum (From \"Kumbalangi Nights\")",
+          "artist": "Sooraj Santhosh, Sushin Shyam, Anwar Ali, Anne Amie",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2733286f8be17c005e5e7eb0543",
+          "spotifyUrl": "https://open.spotify.com/track/6nbLOcHQ1ACZrTsRyAOi1U",
+          "previewUrl": "https://p.scdn.co/mp3-preview/7afad4278bdbd3666d976bb2777ecf519c216930"
+        },
+        {
+          "id": "6kPYrnBJubso1t47lbXvNU",
+          "title": "Uyire",
+          "artist": "Sid Sriram, Ankit Menon, Vinayak Sasikumar",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273928b34b5304b6f34f59ba978",
+          "spotifyUrl": "https://open.spotify.com/track/6kPYrnBJubso1t47lbXvNU",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f7403913143733685c1811cc5be08149fcec2e0d"
+        },
+        {
+          "id": "3yJ3zrf4cnO11AKcvjV01q",
+          "title": "Pavizha Mazha (From \"Athiran\")",
+          "artist": "K. S. Harisankar, P S Jayahari",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ac279306ca88300a4da208e0",
+          "spotifyUrl": "https://open.spotify.com/track/3yJ3zrf4cnO11AKcvjV01q",
+          "previewUrl": "https://p.scdn.co/mp3-preview/c0317724aaba5df340bb47ea145d6d084fb34470"
+        },
+        {
+          "id": "4vlMdXsRpAIXYggwbNHZSv",
+          "title": "Nenjukkul Peidhidum",
+          "artist": "Harris Jayaraj, Hariharan, Devan Ekambaram, VV Prassanna, Thamarai",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273812bfb4e32feb448e527e8b1",
+          "spotifyUrl": "https://open.spotify.com/track/4vlMdXsRpAIXYggwbNHZSv",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a0548f82a7e35781b4954e37d9fd63b45e456d0c"
+        },
+        {
+          "id": "7GYeJl6MBIuSdNKVriifYW",
+          "title": "Salam Anali (From \"WAR 2\") - Telugu Version",
+          "artist": "Pritam, Nakash Aziz, Yazin Nizar, Krishna Kanth",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27371eceb76f740b52ed2dbbbb1",
+          "spotifyUrl": "https://open.spotify.com/track/7GYeJl6MBIuSdNKVriifYW",
+          "previewUrl": "https://p.scdn.co/mp3-preview/c7125a518412c55b91dd5c3d025786cc5b2a1b20"
+        },
+        {
+          "id": "2N4dA1J0EkkXU7mRxtnfKv",
+          "title": "Vibe Undi (From \"Mirai\") [Telugu]",
+          "artist": "GowraHari, Armaan Malik, Krishna Kanth",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27353d27fd75d3644264b4ed57e",
+          "spotifyUrl": "https://open.spotify.com/track/2N4dA1J0EkkXU7mRxtnfKv",
+          "previewUrl": "https://p.scdn.co/mp3-preview/254070c8146b462975bd5e2b92a7fd627985c01a"
+        },
+        {
+          "id": "3lLX2Vm99sMD5kuZqnr2T0",
+          "title": "Firestorm (From \"They Call Him OG\")",
+          "artist": "Thaman S, Silambarasan TR, Raja Kumari, Deepak Blue",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730032557fb23d93d49955a498",
+          "spotifyUrl": "https://open.spotify.com/track/3lLX2Vm99sMD5kuZqnr2T0",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f21e65a21a96a0b0fbe81a7e29157182b84c0a2e"
+        },
+        {
+          "id": "6cd9eJFXIl72tDwLguJxSp",
+          "title": "Viral Vayyari ( From \"Junior\")",
+          "artist": "Devi Sri Prasad, Haripriya, Kalyan Chakravarthy",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738b741a9f3a7aabf042150513",
+          "spotifyUrl": "https://open.spotify.com/track/6cd9eJFXIl72tDwLguJxSp",
+          "previewUrl": "https://p.scdn.co/mp3-preview/675990c2da2c090c50c2166b864ec15362f8335e"
+        },
+        {
+          "id": "538V6gFAnhcLZrg6I8lIMI",
+          "title": "Hungry Cheetah (From \"They Call Him OG\")",
+          "artist": "Thaman S, Raghu Ram",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27378178cf1c904a66f08d30b8c",
+          "spotifyUrl": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI",
+          "previewUrl": "https://p.scdn.co/mp3-preview/2e001d573d3e29a498ea526846e5a320d7415f67"
+        },
+        {
+          "id": "1xiqTTENpd5SVPhWe4Mha0",
+          "title": "Mallika Gandha (From \"Telusu Kada\")",
+          "artist": "Thaman S, Sid Sriram, Krishna Kanth",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2731a56d055652d6c433e00e915",
+          "spotifyUrl": "https://open.spotify.com/track/1xiqTTENpd5SVPhWe4Mha0",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5736eb50e92c2e5ae9b59ef9ce1ab4ef9ee4623a"
+        },
+        {
+          "id": "2V6E3Fa45T8UqDFZKV9bz1",
+          "title": "Ee Janmame Ruchi",
+          "artist": "Kailash Kher",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ef440f41c058ab163e11768e",
+          "spotifyUrl": "https://open.spotify.com/track/2V6E3Fa45T8UqDFZKV9bz1",
+          "previewUrl": "https://p.scdn.co/mp3-preview/9f3c36e5954aed65c649172c03ffc701b536a960"
+        },
+        {
+          "id": "2DjmhfEJojDTDyCepSXn9y",
+          "title": "Suvvi Suvvi (From \"They Call Him OG\")",
+          "artist": "Thaman S, Sruthi Ranjani, Kalyan Chakravarthy Tripuraneni",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27357de38ad92cddc1d04fda053",
+          "spotifyUrl": "https://open.spotify.com/track/2DjmhfEJojDTDyCepSXn9y",
+          "previewUrl": "https://p.scdn.co/mp3-preview/72dc8330f281bfb49c081a243751e3fc2bb02472"
+        },
+        {
+          "id": "0HsDFeWMvnM9rEyvB23RYF",
+          "title": "Singari - From \"Dude (Telugu)\"",
+          "artist": "Sai Abhyankkar, Ramajogayya Sastry",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27376670ca9de7e2e810bd4c81f",
+          "spotifyUrl": "https://open.spotify.com/track/0HsDFeWMvnM9rEyvB23RYF",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5387ebb03715fc73f8723cd7f492f3d69d762435"
+        },
+        {
+          "id": "3fiN8y8c2EvwCNNvVAERbx",
+          "title": "Padithinammo",
+          "artist": "Vishwa Vemuri",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27361c6623dd69a2c1c6494a507",
+          "spotifyUrl": "https://open.spotify.com/track/3fiN8y8c2EvwCNNvVAERbx",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a8ca3fc9b8bb00142e52f8f6a8bacd56bdc05f9c"
+        },
+        {
+          "id": "4UJB0ANKXJdokolGcmXTlR",
+          "title": "Parichayamila (From \"8 Vasantalu\")",
+          "artist": "Hesham Abdul Wahab, K. S. Chithra, Vanamali",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273fc750528b79e30cb05cf9520",
+          "spotifyUrl": "https://open.spotify.com/track/4UJB0ANKXJdokolGcmXTlR",
+          "previewUrl": "https://p.scdn.co/mp3-preview/1ae20eada54733a11fb6046e30c288e38882b9f6"
+        },
+        {
+          "id": "1yamFTTVl9UymBBKeVRewV",
+          "title": "GlobeTrotter (From \"Varanasi\")",
+          "artist": "M. M. Keeravaani, Shruti Haasan, Kala Bhairava, Chaitanya Prasad",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273bd4019754e80605515b605c2",
+          "spotifyUrl": "https://open.spotify.com/track/1yamFTTVl9UymBBKeVRewV",
+          "previewUrl": "https://p.scdn.co/mp3-preview/9bca19174cfb6776bd314badbff0cbf0f9f6e807"
+        },
+        {
+          "id": "3iIR2YfNdC9CYhA8ieF5UO",
+          "title": "Rana Kumbha (From \"Varanasi\")",
+          "artist": "M. M. Keeravaani, Aditya Iyengar, Chaitanya Prasad",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b46c6a5b7d9eaf384f20c1a0",
+          "spotifyUrl": "https://open.spotify.com/track/3iIR2YfNdC9CYhA8ieF5UO",
+          "previewUrl": "https://p.scdn.co/mp3-preview/826627042c8d8e8a7ffa6dcf434521470303b1b0"
+        },
+        {
+          "id": "3Zfq0a19kF3wGMmqxolt3d",
+          "title": "23 Theme (From \"AA23\")",
+          "artist": "Anirudh Ravichander, Hector Salamanca, Heisenberg",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273f8aa25d7dd200235302ffc28",
+          "spotifyUrl": "https://open.spotify.com/track/3Zfq0a19kF3wGMmqxolt3d",
+          "previewUrl": "https://p.scdn.co/mp3-preview/1813180f10ad34f832d3fcf19b5c93179ec29fa6"
+        },
+        {
+          "id": "1a4cw6mGwBA8vJjcazisQa",
+          "title": "Neetho (feat. Gowtham Bharadwaj)",
+          "artist": "The Non Violinist Project, Gowtham Bharadwaj",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b49f5af22fa931adf07f1fa5",
+          "spotifyUrl": "https://open.spotify.com/track/1a4cw6mGwBA8vJjcazisQa",
+          "previewUrl": "https://p.scdn.co/mp3-preview/2f959a630f42dc300cc0c77d431c7acda1e874e5"
+        }
+      ]
+    },
+    {
+      "id": "7pOh62kXHilo9qF3oRp3OW",
+      "name": "kickuuu",
+      "description": "",
+      "coverImage": "https://mosaic.scdn.co/640/ab67616d00001e0244f22eff94940b387ab05339ab67616d00001e0278178cf1c904a66f08d30b8cab67616d00001e028194705b978b766f716bf2fcab67616d00001e02ce3eecb6ce4eb1dfb6e06399",
+      "tracks": [
+        {
+          "id": "1mHEvHzpRwCLeAnecvE6eS",
+          "title": "Guns and Roses (From \"They Call Him OG\")",
+          "artist": "Thaman S, Harsha Darivemula",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27344f22eff94940b387ab05339",
+          "spotifyUrl": "https://open.spotify.com/track/1mHEvHzpRwCLeAnecvE6eS",
+          "previewUrl": "https://p.scdn.co/mp3-preview/197e095deb5bb3912d67bf3ed878e0f6c496c03b"
+        },
+        {
+          "id": "3UtQB2Z4sNPBGGV1VkFIzT",
+          "title": "Trance of Omi (From \"They Call Him OG\")",
+          "artist": "Thaman S, Harsha Darivemula, Adviteeya Vojjala",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738194705b978b766f716bf2fc",
+          "spotifyUrl": "https://open.spotify.com/track/3UtQB2Z4sNPBGGV1VkFIzT",
+          "previewUrl": "https://p.scdn.co/mp3-preview/540e3e28142987d4b517c8dd097d283704681589"
+        },
+        {
+          "id": "538V6gFAnhcLZrg6I8lIMI",
+          "title": "Hungry Cheetah (From \"They Call Him OG\")",
+          "artist": "Thaman S, Raghu Ram",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27378178cf1c904a66f08d30b8c",
+          "spotifyUrl": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI",
+          "previewUrl": "https://p.scdn.co/mp3-preview/2e001d573d3e29a498ea526846e5a320d7415f67"
+        },
+        {
+          "id": "3JC5Xx48KqzYYlbTr6weCv",
+          "title": "Powerhouse",
+          "artist": "Anirudh Ravichander, Arivu",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ce3eecb6ce4eb1dfb6e06399",
+          "spotifyUrl": "https://open.spotify.com/track/3JC5Xx48KqzYYlbTr6weCv",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a0a1b39bef9bed10ad2cddac22d74523d58ac21e"
+        },
+        {
+          "id": "4m18DkswlAUnFmYzPapLb7",
+          "title": "Kokki",
+          "artist": "Anirudh Ravichander, Sooraj Santhosh, Amogh Balaji",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ce3eecb6ce4eb1dfb6e06399",
+          "spotifyUrl": "https://open.spotify.com/track/4m18DkswlAUnFmYzPapLb7",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f1945a422f2f502c9adb3ba2414133172ccb85a4"
+        },
+        {
+          "id": "0wVmjndH796G14dOV8Z56p",
+          "title": "The Chair",
+          "artist": "Anirudh Ravichander",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27301118aa8483d6645be0e6a25",
+          "spotifyUrl": "https://open.spotify.com/track/0wVmjndH796G14dOV8Z56p",
+          "previewUrl": "https://p.scdn.co/mp3-preview/2e78b793aac98d6497fca64a07747bcf40809bf4"
+        },
+        {
+          "id": "1W0CySNZkTLQHYBniejjry",
+          "title": "Simon x Dayal",
+          "artist": "Anirudh Ravichander",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27301118aa8483d6645be0e6a25",
+          "spotifyUrl": "https://open.spotify.com/track/1W0CySNZkTLQHYBniejjry",
+          "previewUrl": "https://p.scdn.co/mp3-preview/9d671a0a1e8c55c3dda0aedca3fe5adabee0f25d"
+        },
+        {
+          "id": "4sdtvTTy7vtiAQBh06RPGx",
+          "title": "I Am The Danger",
+          "artist": "Siddharth Basrur, Anirudh Ravichander, Heisenberg",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ce3eecb6ce4eb1dfb6e06399",
+          "spotifyUrl": "https://open.spotify.com/track/4sdtvTTy7vtiAQBh06RPGx",
+          "previewUrl": "https://p.scdn.co/mp3-preview/e837dae5eed83d103ac4787adb98178761e47003"
+        },
+        {
+          "id": "5Lf5SOcqZFePjtjK1QbLYY",
+          "title": "Animal Instinct",
+          "artist": "Anirudh Ravichander",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273fc586aac4b0489badd19e012",
+          "spotifyUrl": "https://open.spotify.com/track/5Lf5SOcqZFePjtjK1QbLYY",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f315a78e02a5edbc034b7adcc15ca8e5e46e0ad4"
+        },
+        {
+          "id": "1NMRkvmHWhuV89yeiIib4j",
+          "title": "Madharaasi Theme",
+          "artist": "Anirudh Ravichander",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273fc586aac4b0489badd19e012",
+          "spotifyUrl": "https://open.spotify.com/track/1NMRkvmHWhuV89yeiIib4j",
+          "previewUrl": "https://p.scdn.co/mp3-preview/accd6d2a7176d852c40c3d1d90eb161c039343e6"
+        },
+        {
+          "id": "6cSkdwWOIlGcxZEzqyC2hf",
+          "title": "Rebel Song (From \"Kantara A Legend Chapter 1 - Tamil\")",
+          "artist": "B. Ajaneesh Loknath, Pazhani Bharathi, Muthu Sirpi",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273eaa4a53a75ee7c22af10b038",
+          "spotifyUrl": "https://open.spotify.com/track/6cSkdwWOIlGcxZEzqyC2hf",
+          "previewUrl": "https://p.scdn.co/mp3-preview/2d45e1cf85225d7e6a3cc56f8cb81185a115d1df"
+        },
+        {
+          "id": "25T3o2LN7IV1mIXCt1FPbQ",
+          "title": "OGM (From \"Ghost\")",
+          "artist": "Aishwarya Rangarajan, MC Chetan, Jithin Raj",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273211561d29f620815eef54e97",
+          "spotifyUrl": "https://open.spotify.com/track/25T3o2LN7IV1mIXCt1FPbQ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ba8cfb8721c47bd276680c48f8abfbc79a07435b"
+        },
+        {
+          "id": "5EbJjO0X1Xw620AXZMyyNZ",
+          "title": "The Last Dance",
+          "artist": "Sushin Shyam, Hanumankind, Vinayak Sasikumar",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2731d93bb16bf3025587d001f45",
+          "spotifyUrl": "https://open.spotify.com/track/5EbJjO0X1Xw620AXZMyyNZ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a173e7ec3abd016403a9cdfef6512ba203090740"
+        },
+        {
+          "id": "7c7TpWY2UXw10CGGl8k0pP",
+          "title": "The Last Ride",
+          "artist": "Ravi Basrur",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734bc47c730d858e3cee30773d",
+          "spotifyUrl": "https://open.spotify.com/track/7c7TpWY2UXw10CGGl8k0pP",
+          "previewUrl": "https://p.scdn.co/mp3-preview/022b57a7f561dc5a5a32494084c29e3b3dcd9ea5"
+        },
+        {
+          "id": "1zENh0Y83ZWiXXsKIFCvky",
+          "title": "Killer On The Loose - From \"Rifle Club\"",
+          "artist": "Rex Vijayan, The Imbachi",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27303966171b7ddc6f13a35d75c",
+          "spotifyUrl": "https://open.spotify.com/track/1zENh0Y83ZWiXXsKIFCvky",
+          "previewUrl": "https://p.scdn.co/mp3-preview/983605f538d573f0283b0eb71c9cacf1dcdbad13"
+        },
+        {
+          "id": "75IywzsrO67PjCrFHnA9tb",
+          "title": "Red Sea (From \"Devara Part 1\")",
+          "artist": "Anirudh Ravichander",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273fd8e60ea4f76d13f605c6381",
+          "spotifyUrl": "https://open.spotify.com/track/75IywzsrO67PjCrFHnA9tb",
+          "previewUrl": "https://p.scdn.co/mp3-preview/87d525baa4509c26dea8ca49800e8d63fa77d201"
+        },
+        {
+          "id": "0PN4pSoK1yPZNxi7Id9N1d",
+          "title": "The Theme - Thee Mugam Dhaan - From \"Nerkonda Paarvai\"",
+          "artist": "Sathyan, Senthil Dass, Sarath Santosh",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273898b6f34962b33f6e027d46b",
+          "spotifyUrl": "https://open.spotify.com/track/0PN4pSoK1yPZNxi7Id9N1d",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ce0ae5872e5c83c0ff40ed9b0f30ae767d126129"
+        },
+        {
+          "id": "6IJ1L1EEsgLuRSa39DaAyc",
+          "title": "Glimpse of Garudan",
+          "artist": "Yuvan Shankar Raja",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27308c8017cf6d7016d42785c14",
+          "spotifyUrl": "https://open.spotify.com/track/6IJ1L1EEsgLuRSa39DaAyc",
+          "previewUrl": "https://p.scdn.co/mp3-preview/705d901af1a0d452b1867297295a47d21b97a310"
+        },
+        {
+          "id": "22YDT7hMvU88LQGSKepwL1",
+          "title": "Othapada Veriyattam",
+          "artist": "Yuvan Shankar Raja, Sam, Velu, Shenbagaraj, Aravind",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27308c8017cf6d7016d42785c14",
+          "spotifyUrl": "https://open.spotify.com/track/22YDT7hMvU88LQGSKepwL1",
+          "previewUrl": "https://p.scdn.co/mp3-preview/0ed864e01c00ea98523491b38a96154daea5b413"
+        },
+        {
+          "id": "5O1Ra1nvyoqY3SwpOmJVqv",
+          "title": "Uttama Villain Theme - Instrumental Version",
+          "artist": "Ghibran",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2735d3c31630beed0b4882c2f83",
+          "spotifyUrl": "https://open.spotify.com/track/5O1Ra1nvyoqY3SwpOmJVqv",
+          "previewUrl": "https://p.scdn.co/mp3-preview/fe9b162d1785a22bf2621ec210467219c2c3023d"
+        },
+        {
+          "id": "0wgOTeDbMblOxncPcXLCvf",
+          "title": "Ghost Unmasked - Background Score",
+          "artist": "Anirudh Ravichander",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27363eb3b4ef438bf253fd3d49e",
+          "spotifyUrl": "https://open.spotify.com/track/0wgOTeDbMblOxncPcXLCvf",
+          "previewUrl": "https://p.scdn.co/mp3-preview/43b3f963c2675eabef2b100bf9cafd39c6c51d5c"
+        },
+        {
+          "id": "2xufy4wGqo7ax8caPKyMw6",
+          "title": "Blood (From \"Marco\")",
+          "artist": "Ravi Basrur, Dabzee, Rohith Siddappa, Vinayak Sasikumar",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738ed155b854b0a9b8647c516e",
+          "spotifyUrl": "https://open.spotify.com/track/2xufy4wGqo7ax8caPKyMw6",
+          "previewUrl": "https://p.scdn.co/mp3-preview/fdf67c5246cfa26bbd795948708c26c3bb2026e6"
+        },
+        {
+          "id": "2PJTuZY6PxT2EMqGoC3KGv",
+          "title": "Daaku The Intro (From \"Daaku Maharaaj\")",
+          "artist": "Thaman S",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a6c594776a6ba2ff5ca3bc50",
+          "spotifyUrl": "https://open.spotify.com/track/2PJTuZY6PxT2EMqGoC3KGv",
+          "previewUrl": "https://p.scdn.co/mp3-preview/765d73dc4c78096298dface7473b0ef0cbe0c00d"
+        },
+        {
+          "id": "6bbvGxJtUBrR9YNEAtFH5a",
+          "title": "Battery Theme",
+          "artist": "Anirudh Ravichander",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2735648e0e2e38c0f9b6289ca40",
+          "spotifyUrl": "https://open.spotify.com/track/6bbvGxJtUBrR9YNEAtFH5a",
+          "previewUrl": "https://p.scdn.co/mp3-preview/7ada8fc0d168d4bc3c325b5d5cdfa68c7bfd8dfa"
+        },
+        {
+          "id": "58clncAcNFhSh5ERdonnCp",
+          "title": "Ratata (From \"Leo\")",
+          "artist": "Anirudh Ravichander",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d6a87b60a9b05ec0417be99d",
+          "spotifyUrl": "https://open.spotify.com/track/58clncAcNFhSh5ERdonnCp",
+          "previewUrl": "https://p.scdn.co/mp3-preview/3d196cd8d66b9933badbef3fdd43eab8f603af32"
+        },
+        {
+          "id": "2m3QwNw6Xe4s8MfapdTbWo",
+          "title": "The One (From \"Retro\")",
+          "artist": "Sid Sriram, Santhosh Narayanan, SVDP, Vivek, The Indian Choral Ensemble",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e7b5cf02c7a3df4a85957484",
+          "spotifyUrl": "https://open.spotify.com/track/2m3QwNw6Xe4s8MfapdTbWo",
+          "previewUrl": "https://p.scdn.co/mp3-preview/fb78163bf27ee69954d6de34c2f5b8109263c2d5"
+        },
+        {
+          "id": "3MBUQcMPekDVtn5mZ6Nv7c",
+          "title": "Naan Naan",
+          "artist": "Santhosh Narayanan, Vivek",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2733d159309ad041bb69cbf6866",
+          "spotifyUrl": "https://open.spotify.com/track/3MBUQcMPekDVtn5mZ6Nv7c",
+          "previewUrl": "https://p.scdn.co/mp3-preview/2bca67965d29bcae423669b5551d5a60a6987319"
+        },
+        {
+          "id": "516WjryhZz2W7Sni4HDi4P",
+          "title": "Killing Jeeja",
+          "artist": "Harshavardhan Rameshwar",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273bf85d0e5f6f669fab2e5cea7",
+          "spotifyUrl": "https://open.spotify.com/track/516WjryhZz2W7Sni4HDi4P",
+          "previewUrl": "https://p.scdn.co/mp3-preview/4901180a7a337baf10b0b34e73d72d98a83dacf5"
+        },
+        {
+          "id": "6huPrSB8DvaSpfzgsr5VUD",
+          "title": "The Real Og",
+          "artist": "Yuvan Shankar Raja, Blaaze, Premgi Amaren, Allen Preetham",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2739c74d799d0fda69b2916bb59",
+          "spotifyUrl": "https://open.spotify.com/track/6huPrSB8DvaSpfzgsr5VUD",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ae0be96157fd4d9244327ac7f20a37aece6a70bd"
+        },
+        {
+          "id": "55Zp6xvOvNwIB8nno2AhEz",
+          "title": "Ranam - Title Track",
+          "artist": "Ajaey Shravan, Neha S. Nair, Jakes Bejoy, Saint T.F.C.",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2733cf86f352c9bc06337a77e0e",
+          "spotifyUrl": "https://open.spotify.com/track/55Zp6xvOvNwIB8nno2AhEz",
+          "previewUrl": "https://p.scdn.co/mp3-preview/65b8cb7079f7f2433a325d4aaf5fef9cbbaf5b93"
+        },
+        {
+          "id": "0ZV2OU0ciMA1yZS86qv51V",
+          "title": "Hayati",
+          "artist": "A.R. Rahman, Mayssa Karaa, Thoughtsfornow",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27369ffdf93d7a968e35a076ed9",
+          "spotifyUrl": "https://open.spotify.com/track/0ZV2OU0ciMA1yZS86qv51V",
+          "previewUrl": "https://p.scdn.co/mp3-preview/cc5655006799faa24612208aa7734a80be374200"
+        },
+        {
+          "id": "6LFytX67259syPcZx6nUAP",
+          "title": "Soorayaatam",
+          "artist": "Santhosh Narayanan, V.M. Mahalingam, Muthamil",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2733d159309ad041bb69cbf6866",
+          "spotifyUrl": "https://open.spotify.com/track/6LFytX67259syPcZx6nUAP",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5062fb8b5d1441c77b5fb24f03b9a4839b2386bb"
+        },
+        {
+          "id": "0UwLlMSvwu96YamCZt6BoJ",
+          "title": "Sarkaru Raa",
+          "artist": "Thaman S, Kasarla Shyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27362008180a1ff60b6d5ddd113",
+          "spotifyUrl": "https://open.spotify.com/track/0UwLlMSvwu96YamCZt6BoJ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/3f32983dc49b48320b5a51892d72f1fe20e3c839"
+        },
+        {
+          "id": "6aVK1rKQsY3IqT81eiKfhy",
+          "title": "Roar Of Kesari",
+          "artist": "Thaman S, Chorus",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273217f9e726b0816e428e2b9b5",
+          "spotifyUrl": "https://open.spotify.com/track/6aVK1rKQsY3IqT81eiKfhy",
+          "previewUrl": "https://p.scdn.co/mp3-preview/84758618d8a4988b8841cc5ea2910fb84bf66f2d"
+        },
+        {
+          "id": "6Ce0KCbllK0WknIK2YIafx",
+          "title": "Mobsta",
+          "artist": "Anirudh Ravichander, Heisenberg",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ce3eecb6ce4eb1dfb6e06399",
+          "spotifyUrl": "https://open.spotify.com/track/6Ce0KCbllK0WknIK2YIafx",
+          "previewUrl": "https://p.scdn.co/mp3-preview/8fd73f6f94c153eb7ed07c6058aee169adf0e670"
+        },
+        {
+          "id": "0BginzzA6ngJECa9o4JwnG",
+          "title": "Dahaa Theme (From \"Coolie\")",
+          "artist": "Anirudh Ravichander, Lalo Salamanca, Heisenberg",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27368e66bbaf81939f2168e947c",
+          "spotifyUrl": "https://open.spotify.com/track/0BginzzA6ngJECa9o4JwnG",
+          "previewUrl": "https://p.scdn.co/mp3-preview/0ac905cf5296a415239e8fde32e828ae9905f05a"
+        },
+        {
+          "id": "209pScL6fUhISxcLWkB6rf",
+          "title": "Lokiverse - Background Score",
+          "artist": "Anirudh Ravichander",
+          "albumCover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b27363eb3b4ef438bf253fd3d49e",
+          "spotifyUrl": "https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf",
+          "previewUrl": "https://p.scdn.co/mp3-preview/10b0f599e81a760c8962f28c9993a69812a0e23c"
+        },
+        {
+          "id": "6b52NQujSIgTurwO7fVJnj",
+          "title": "Mudinja Thodra",
+          "artist": "Anirudh Ravichander",
+          "albumCover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2735689444cf34dffe6cdcffcee",
+          "spotifyUrl": "https://open.spotify.com/track/6b52NQujSIgTurwO7fVJnj",
+          "previewUrl": "https://p.scdn.co/mp3-preview/0031111964efa724d1aec20d7371b5f143555639"
+        },
+        {
+          "id": "1TuAiGYL1nJvTfGaHNEX40",
+          "title": "Bus Fight x Powerhouse x Disco (From \"Coolie BGM\")",
+          "artist": "Anirudh Ravichander, Rajinikanth, Aamir Khan, Arivu",
+          "albumCover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273dd9b27403c00300b6b92b851",
+          "spotifyUrl": "https://open.spotify.com/track/1TuAiGYL1nJvTfGaHNEX40",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b729cba620a0f54a768aa17c67441f231f995209"
+        },
+        {
+          "id": "1x0Jfn08Bpz1pZATAW4BbT",
+          "title": "Kaleesha",
+          "artist": "Anirudh Ravichander",
+          "albumCover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b27301118aa8483d6645be0e6a25",
+          "spotifyUrl": "https://open.spotify.com/track/1x0Jfn08Bpz1pZATAW4BbT",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ee9dca6fec1b154112f007649ccd216024020b9b"
+        },
+        {
+          "id": "75psy3t04DkzPbaXVAgjD4",
+          "title": "The Paradise Theme OST (From \"The Paradise\")",
+          "artist": "Anirudh Ravichander, Arjun Chandy",
+          "albumCover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273a9b83083d968098a4bb70947",
+          "spotifyUrl": "https://open.spotify.com/track/75psy3t04DkzPbaXVAgjD4",
+          "previewUrl": "https://p.scdn.co/mp3-preview/6a2e1116e04c5b28cbd2e6dee4a9cc029818dc3a"
+        },
+        {
+          "id": "7fjhpF8EOupY8BS1VVUTA7",
+          "title": "The Hero's Intro",
+          "artist": "Ghibran",
+          "albumCover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2737721b9b07b60710a7e33eda4",
+          "spotifyUrl": "https://open.spotify.com/track/7fjhpF8EOupY8BS1VVUTA7",
+          "previewUrl": "https://p.scdn.co/mp3-preview/56d402b67ff9fcc993d0fd5fa1eaa2e2987fbaf8"
+        },
+        {
+          "id": "30XXtZvRUdMHoVgnGu28LO",
+          "title": "Perseverance Theme",
+          "artist": "Anirudh Ravichander, Amogh Balaji",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e84f2db11b6e6f6f9f4575c3",
+          "spotifyUrl": "https://open.spotify.com/track/30XXtZvRUdMHoVgnGu28LO",
+          "previewUrl": "https://p.scdn.co/mp3-preview/fe903dd4507f09c04cf47548e30ad55fc43a0c9f"
+        },
+        {
+          "id": "4sbluLOS23KhhdDVUGirsJ",
+          "title": "Varadha Raja Mannar vs Salaar",
+          "artist": "Ravi Basrur",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2732951a5508bb2456cee064892",
+          "spotifyUrl": "https://open.spotify.com/track/4sbluLOS23KhhdDVUGirsJ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/76f48f15497db4baef6aa6d47b90ecde43de0991"
+        },
+        {
+          "id": "2MExSoNXQnA3zfREKeudWg",
+          "title": "Garuda Theme",
+          "artist": "Ravi Basrur",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b2f97350f43085ec0342adf4",
+          "spotifyUrl": "https://open.spotify.com/track/2MExSoNXQnA3zfREKeudWg",
+          "previewUrl": "https://p.scdn.co/mp3-preview/8a5eb46b97f7b6f8753926b4eed6031b6b0721c0"
+        },
+        {
+          "id": "2dpMdklbSc5CmZ3ijhknZ5",
+          "title": "Wasted",
+          "artist": "Anirudh Ravichander",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27320cc440a9ebe2dc83a327a60",
+          "spotifyUrl": "https://open.spotify.com/track/2dpMdklbSc5CmZ3ijhknZ5",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f20f98e8f70a03b555e9fa5c12ba06198fe90f42"
+        },
+        {
+          "id": "2qAMFutslpmJLjlEoVVcs0",
+          "title": "Chaos In Khansaar",
+          "artist": "Ravi Basrur",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2732951a5508bb2456cee064892",
+          "spotifyUrl": "https://open.spotify.com/track/2qAMFutslpmJLjlEoVVcs0",
+          "previewUrl": "https://p.scdn.co/mp3-preview/14a977afa7e33caa10d558d0a827d829e67549ab"
+        },
+        {
+          "id": "72Gktg3pJ4O7wCgh0AaYNd",
+          "title": "Pemari - The Showdown",
+          "artist": "Jakes Bejoy",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730e14a349eec13fa8787a7340",
+          "spotifyUrl": "https://open.spotify.com/track/72Gktg3pJ4O7wCgh0AaYNd",
+          "previewUrl": "https://p.scdn.co/mp3-preview/152e5fadb882dcbf78068d225dfe53f01bde3d11"
+        },
+        {
+          "id": "0x37Uz241hdz3nwTBwwyFH",
+          "title": "Pemari",
+          "artist": "Jakes Bejoy, Anila Rajeev",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27333b6544bcb99dcdd28ab50d6",
+          "spotifyUrl": "https://open.spotify.com/track/0x37Uz241hdz3nwTBwwyFH",
+          "previewUrl": "https://p.scdn.co/mp3-preview/47bc7b9fa1ec33d5464a96d359c7b29887183ea5"
+        },
+        {
+          "id": "66jfpaobfh4MiGHPCeqhcA",
+          "title": "Deva Kills Vishnu",
+          "artist": "Ravi Basrur",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2732951a5508bb2456cee064892",
+          "spotifyUrl": "https://open.spotify.com/track/66jfpaobfh4MiGHPCeqhcA",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ff0aeb200bdb03bb01fc7bef91deb7f8f2006923"
+        },
+        {
+          "id": "5gQkYNxWZrO7KfPdAkmtb6",
+          "title": "Face Off - Theme",
+          "artist": "Harris Jayaraj, Maria Roe Vincent",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27319a553f7cac845d85ae4a3d3",
+          "spotifyUrl": "https://open.spotify.com/track/5gQkYNxWZrO7KfPdAkmtb6",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b86407e354cdbb48f85f88a62d2a689a596df3ce"
+        },
+        {
+          "id": "4iwsz9EuhJ2SNA2gkvQOda",
+          "title": "Hanuman Chalisa (From \"HanuMan\") [Telugu]",
+          "artist": "GowraHari, Saicharan Bhaskaruni",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2739a2b4ea6719c5cef98169540",
+          "spotifyUrl": "https://open.spotify.com/track/4iwsz9EuhJ2SNA2gkvQOda",
+          "previewUrl": "https://p.scdn.co/mp3-preview/18c184f152b28f71de26ea6a4802a316e394269a"
+        },
+        {
+          "id": "4pNNkkPGAb8GN2sh7XhiZO",
+          "title": "The Legend Of Hanuman - Hanuman Chalisa [From \"The Legend Of Hanuman (Season 3)\"]",
+          "artist": "Kala Bhairava, P V N S Rohit, Manoj Sharma, Arun Kaundinya, Hymath Mohammed, Lokeshwar, Ravi Prakash, Sai Saket",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27359798717cb020653aaa54431",
+          "spotifyUrl": "https://open.spotify.com/track/4pNNkkPGAb8GN2sh7XhiZO",
+          "previewUrl": "https://p.scdn.co/mp3-preview/673d9e04e710584bd17cda62381712df35c9e1e1"
+        },
+        {
+          "id": "425eFcx7P9ZIrObXXmJRQ4",
+          "title": "Theera Ulaa",
+          "artist": "A.R. Rahman, Darshana K.T., Nikhita Gandhi",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2739f724b4022137df607810566",
+          "spotifyUrl": "https://open.spotify.com/track/425eFcx7P9ZIrObXXmJRQ4",
+          "previewUrl": "https://p.scdn.co/mp3-preview/9a32db20f23078ea9bb0e7b06da8a3dd4f4f852b"
+        }
+      ]
+    },
+    {
+      "id": "5qtILX0Ak7EBPYCaXDooKh",
+      "name": "vintage తెలుగు 🌸",
+      "description": "",
+      "coverImage": "https://mosaic.scdn.co/640/ab67616d00001e022624a3e6ebe1b2fb818c85ffab67616d00001e02432abdc27d18722247083e23ab67616d00001e02de3cefa121275090f514f4a1ab67616d00001e02e5e65707700ade55c694ebea",
+      "tracks": [
+        {
+          "id": "69qYaWssICBZIbhryZ5VSb",
+          "title": "Aaskasam Eenatido",
+          "artist": "S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e5e65707700ade55c694ebea",
+          "spotifyUrl": "https://open.spotify.com/track/69qYaWssICBZIbhryZ5VSb",
+          "previewUrl": "https://p.scdn.co/mp3-preview/32e08e8f2a1ceba37cb07fdbf64a47cf34243c6c"
+        },
+        {
+          "id": "4uSdLJZ1Qoe1ckC5WGmipG",
+          "title": "Sundari Neeve",
+          "artist": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273432abdc27d18722247083e23",
+          "spotifyUrl": "https://open.spotify.com/track/4uSdLJZ1Qoe1ckC5WGmipG",
+          "previewUrl": "https://p.scdn.co/mp3-preview/46cc603dc82d50be647e3ea9fbb0af565940052c"
+        },
+        {
+          "id": "4imLxNMs05m3Co3CORrQtm",
+          "title": "Jabilli Kosam-Male",
+          "artist": "S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273de3cefa121275090f514f4a1",
+          "spotifyUrl": "https://open.spotify.com/track/4imLxNMs05m3Co3CORrQtm",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a41925dd1af6cab45791c471208f99b7c639cd16"
+        },
+        {
+          "id": "6fHHHdRItjZBM3gfh9SIQN",
+          "title": "Jabilli Kosam-Female",
+          "artist": "S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2732624a3e6ebe1b2fb818c85ff",
+          "spotifyUrl": "https://open.spotify.com/track/6fHHHdRItjZBM3gfh9SIQN",
+          "previewUrl": "https://p.scdn.co/mp3-preview/81e9293a4d6447089853a9fa0ac26da95fbe5289"
+        },
+        {
+          "id": "1gyfRsHFurnN5yEPmDxPLi",
+          "title": "Jilibili Palukula",
+          "artist": "S. P. Balasubrahmanyam, S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730a1e8472aac179bd8cc61062",
+          "spotifyUrl": "https://open.spotify.com/track/1gyfRsHFurnN5yEPmDxPLi",
+          "previewUrl": "https://p.scdn.co/mp3-preview/227ffa85741399e0f19943fe6afb44ad350fee28"
+        },
+        {
+          "id": "6pOgSsYAmQHlpz9yFRbIJE",
+          "title": "Kammani",
+          "artist": "S. P. Balasubrahmanyam, S. P. Sailaja",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738e084a33c4326c2d5aacd72b",
+          "spotifyUrl": "https://open.spotify.com/track/6pOgSsYAmQHlpz9yFRbIJE",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5c8743c7678cddb16361a8aeff640dfb47ca9b0c"
+        },
+        {
+          "id": "2rTmVSZOPnS9jrgcl6EjV0",
+          "title": "Urumulu Nimuvvalai",
+          "artist": "Rajesh, Sujatha",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273103434c71c81e9d3ba3a1b98",
+          "spotifyUrl": "https://open.spotify.com/track/2rTmVSZOPnS9jrgcl6EjV0",
+          "previewUrl": "https://p.scdn.co/mp3-preview/83602956375ea94e8c5a2cf5d30b996f7d24f4e4"
+        },
+        {
+          "id": "2W21xyDCFlrgOzK2Yqv2X5",
+          "title": "Suvvi Suvvi",
+          "artist": "S. P. Balasubrahmanyam, S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27319edfe52b47ed30c58f3e7b7",
+          "spotifyUrl": "https://open.spotify.com/track/2W21xyDCFlrgOzK2Yqv2X5",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5af7222cf7060d20a99abd053ad5c3242a707657"
+        },
+        {
+          "id": "1kIxElD6ExeD1aa3mtPqOZ",
+          "title": "Seetamma Andalu",
+          "artist": "M. M. Keeravaani, S. P. Balasubrahmanyam, K. S. Chithra, S. P. Sailaja, Veturi Sundararama Murthy",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273c3603b054a24302b4e7fe83c",
+          "spotifyUrl": "https://open.spotify.com/track/1kIxElD6ExeD1aa3mtPqOZ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/c2fb89608a73c371be9eb431d2865c285d5961fe"
+        },
+        {
+          "id": "6DND2TO9wBkkCKbjEUICqm",
+          "title": "Ninnukori",
+          "artist": "K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b16b233832cac34f7d64c93e",
+          "spotifyUrl": "https://open.spotify.com/track/6DND2TO9wBkkCKbjEUICqm",
+          "previewUrl": "https://p.scdn.co/mp3-preview/7c2b8564247746e35aee18757d400d976fcbf46e"
+        },
+        {
+          "id": "5NbiISkxfIi25KfTxfz5xP",
+          "title": "Kanchiki Pothavaa",
+          "artist": "S. P. Balasubrahmanyam, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273bf9130289761df4a3b7ed357",
+          "spotifyUrl": "https://open.spotify.com/track/5NbiISkxfIi25KfTxfz5xP",
+          "previewUrl": "https://p.scdn.co/mp3-preview/457bb56e0cfdd35d6c08bb8d14036fdc19c4fc2e"
+        },
+        {
+          "id": "1JOC5gxycgeQoyI6MdrA86",
+          "title": "Andhala Konetilona",
+          "artist": "A. M. Rajah, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273fbbfe16e9e4cffb8708baecf",
+          "spotifyUrl": "https://open.spotify.com/track/1JOC5gxycgeQoyI6MdrA86",
+          "previewUrl": "https://p.scdn.co/mp3-preview/510a1753d67549db85457f20da435272a584da09"
+        },
+        {
+          "id": "7GGNau5jc3EBAGvGh8XwGQ",
+          "title": "Alalu Kalalu",
+          "artist": "Ilaiyaraaja, Vani Jairam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273213c33f133ee6d4704ac97da",
+          "spotifyUrl": "https://open.spotify.com/track/7GGNau5jc3EBAGvGh8XwGQ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/1d485eede3cdd4e5212b55a2f6d657d7e4586357"
+        },
+        {
+          "id": "0Oat8RD2Lrc8mnEK7b01sV",
+          "title": "Ee Thoopupu",
+          "artist": "S. P. Balasubrahmanyam, Annamacharya, S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27349b95bdd2f230bb4cfe52b45",
+          "spotifyUrl": "https://open.spotify.com/track/0Oat8RD2Lrc8mnEK7b01sV",
+          "previewUrl": "https://p.scdn.co/mp3-preview/09b172945e331f36e3a2cbc0a73a78fc96a08990"
+        },
+        {
+          "id": "4VbRCU7Hc0PrRZ2Wj1rr9O",
+          "title": "Anjali Anjali",
+          "artist": "Kousalya, Lalitha, Subhasri, Prasanna, Sharmila, Jama, R. Sulochana, B. Padma, R. Suchitra, R. Mahalakshmi, S. N. Hemamalini, R.Kalpana",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2739aca280aecde606ea6216bca",
+          "spotifyUrl": "https://open.spotify.com/track/4VbRCU7Hc0PrRZ2Wj1rr9O",
+          "previewUrl": "https://p.scdn.co/mp3-preview/d1a985dd219491a2f0cd277616fa9e8831c33db6"
+        },
+        {
+          "id": "0SaECAwBroVezbmghavYss",
+          "title": "Poovullo Daagunna - From \"Jeans\"",
+          "artist": "Unnikrishnan, Sujatha",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2737d9772f8d39de664ef0fd72b",
+          "spotifyUrl": "https://open.spotify.com/track/0SaECAwBroVezbmghavYss",
+          "previewUrl": "https://p.scdn.co/mp3-preview/d4ba60bd97ed0aeed959c9ed2aa4900404b8019e"
+        },
+        {
+          "id": "26jPNqAa9h0XdxJCikzlKJ",
+          "title": "Taralirada",
+          "artist": "S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a54d2e2f70b58b1283a7f814",
+          "spotifyUrl": "https://open.spotify.com/track/26jPNqAa9h0XdxJCikzlKJ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b54621e8ac36a865c4ce51e94b0cbc74dd414354"
+        },
+        {
+          "id": "7jbNMW04ju92tfMsSwIJyi",
+          "title": "Kannullo Nee Roopame",
+          "artist": "Hariharan, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27349d2321f39bc2fc048ea2583",
+          "spotifyUrl": "https://open.spotify.com/track/7jbNMW04ju92tfMsSwIJyi",
+          "previewUrl": "https://p.scdn.co/mp3-preview/8efd1cc4bd56e199f4cf4724a89ca873a78f43d1"
+        },
+        {
+          "id": "0vdM9rMNxaTrnzwij8Rnng",
+          "title": "Sasivadane",
+          "artist": "Unnikrishnan, Bombay Jayashri",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273cc5e50e791af07352ae2294a",
+          "spotifyUrl": "https://open.spotify.com/track/0vdM9rMNxaTrnzwij8Rnng",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5167609f9f9b8be2fed9b7d0704dc7e3849d7f59"
+        },
+        {
+          "id": "3sziCSQnR8SbnuQ7N9OE8H",
+          "title": "Yamaha Nagari",
+          "artist": "Hariharan",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736209953e62cf19c7d3e5968b",
+          "spotifyUrl": "https://open.spotify.com/track/3sziCSQnR8SbnuQ7N9OE8H",
+          "previewUrl": "https://p.scdn.co/mp3-preview/db8989c6b537bc2c6a9d3a4f11535139146fef9b"
+        },
+        {
+          "id": "0pFU6YAwMxz6w4z51oMUI3",
+          "title": "Yeto Vellipoyindi",
+          "artist": "Rajesh Krishnan",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27349d2321f39bc2fc048ea2583",
+          "spotifyUrl": "https://open.spotify.com/track/0pFU6YAwMxz6w4z51oMUI3",
+          "previewUrl": "https://p.scdn.co/mp3-preview/bebb4a82be5a669aa738fb573169d0d9e358b5a1"
+        },
+        {
+          "id": "5jyHsyGvIxawivb6enu5H3",
+          "title": "Kannanule - Bombay / Soundtrack Version",
+          "artist": "K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738781a30caf821309aef5f871",
+          "spotifyUrl": "https://open.spotify.com/track/5jyHsyGvIxawivb6enu5H3",
+          "previewUrl": "https://p.scdn.co/mp3-preview/4aaab64f8a18aca7955a1cad100eeeb0ea54637f"
+        },
+        {
+          "id": "5NSXAVJqe7Zh66PlRhgRvw",
+          "title": "Chinuku Chinuku Andelatho - From \"Subhalagnam\"",
+          "artist": "S.V.Krishna Reddy, S. P. Balasubrahmanyam, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273f42a20c7bcdb15edda8f48a3",
+          "spotifyUrl": "https://open.spotify.com/track/5NSXAVJqe7Zh66PlRhgRvw",
+          "previewUrl": "https://p.scdn.co/mp3-preview/2cdd12e532024123057fe934041f87aa39c5e956"
+        },
+        {
+          "id": "1fJDaMZnbiXG4e8MsFhSDp",
+          "title": "Abbanee",
+          "artist": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273189bf533b670eb9ee54ad15f",
+          "spotifyUrl": "https://open.spotify.com/track/1fJDaMZnbiXG4e8MsFhSDp",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ea19ad2a6072501d69612743c8f32b8ef033c258"
+        },
+        {
+          "id": "6BDtczWG8QhZz5RPLpNcgB",
+          "title": "Adi Arabi Kadalandam - Bombay / Soundtrack Version",
+          "artist": "Remo Fernandes",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738781a30caf821309aef5f871",
+          "spotifyUrl": "https://open.spotify.com/track/6BDtczWG8QhZz5RPLpNcgB",
+          "previewUrl": "https://p.scdn.co/mp3-preview/2493c640df3fb5567b65334019c4e5a28cf92894"
+        },
+        {
+          "id": "08Zh9GFP2TKItpgcfRSHUV",
+          "title": "Vennelave Vennelave",
+          "artist": "Hariharan, Sadhana Sargam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27384351604b643064b97982db5",
+          "spotifyUrl": "https://open.spotify.com/track/08Zh9GFP2TKItpgcfRSHUV",
+          "previewUrl": "https://p.scdn.co/mp3-preview/bb975c123692986bbe8a974a9a0ffbd5ac6e49a9"
+        },
+        {
+          "id": "5G3QnNugyM4TorQpczWXgS",
+          "title": "Oh Vaana Padithe",
+          "artist": "Sujatha, Malaysia Vasudevan",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27384351604b643064b97982db5",
+          "spotifyUrl": "https://open.spotify.com/track/5G3QnNugyM4TorQpczWXgS",
+          "previewUrl": "https://p.scdn.co/mp3-preview/acd971e811a6c84a9af6784ace0609137fcd1714"
+        },
+        {
+          "id": "6wNOBns27jTxzjf6n9mQIP",
+          "title": "Mate Rani",
+          "artist": "S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e3409c3ea876e9d4ef8e64bb",
+          "spotifyUrl": "https://open.spotify.com/track/6wNOBns27jTxzjf6n9mQIP",
+          "previewUrl": "https://p.scdn.co/mp3-preview/6a67c681300dc2002ca4fa071d73563b34d51a76"
+        },
+        {
+          "id": "6emG6N8SaM6LTAvAB1oHs6",
+          "title": "Ramma Chilakamma",
+          "artist": "Udit Narayan",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736209953e62cf19c7d3e5968b",
+          "spotifyUrl": "https://open.spotify.com/track/6emG6N8SaM6LTAvAB1oHs6",
+          "previewUrl": "https://p.scdn.co/mp3-preview/466cfe7b43f6bfa8233f3299e93de7ea4e6c25dc"
+        },
+        {
+          "id": "1Nm6QoT9Iu5ismjmJSLpNs",
+          "title": "Vurike Chilakaa - Bombay / Soundtrack Version",
+          "artist": "Hariharan, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738781a30caf821309aef5f871",
+          "spotifyUrl": "https://open.spotify.com/track/1Nm6QoT9Iu5ismjmJSLpNs",
+          "previewUrl": "https://p.scdn.co/mp3-preview/2162be4dfd6637fc0b07a4d866ac121394782977"
+        },
+        {
+          "id": "6YPNHvJX43MzGkwd7Z8B8v",
+          "title": "Kotta Bangaru Lokam",
+          "artist": "A.R. Rahman, Mano, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2735368ab18616beccc1d84c5f8",
+          "spotifyUrl": "https://open.spotify.com/track/6YPNHvJX43MzGkwd7Z8B8v",
+          "previewUrl": "https://p.scdn.co/mp3-preview/778e8bc1099071c506ac1c5e48eb85f3a53f004d"
+        },
+        {
+          "id": "5O9WsESo8RZjpDDe1g6S3P",
+          "title": "Enno Ratrulosthayi Gani",
+          "artist": "S. P. Balasubrahmanyam, Chitra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273f5050e28d97a73be19c8494a",
+          "spotifyUrl": "https://open.spotify.com/track/5O9WsESo8RZjpDDe1g6S3P",
+          "previewUrl": "https://p.scdn.co/mp3-preview/d728de73ee19f7eda77e97ef82c3fe3ccf062850"
+        },
+        {
+          "id": "0kj41Ph89qIMdG383hYDrK",
+          "title": "Virisindhee Vasanthaganam",
+          "artist": "K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e4f2319cdd7b3f2a26c24c7c",
+          "spotifyUrl": "https://open.spotify.com/track/0kj41Ph89qIMdG383hYDrK",
+          "previewUrl": "https://p.scdn.co/mp3-preview/28913d47539ce513c005d9ae6ae875e749ab4b96"
+        },
+        {
+          "id": "7yPeu0DTn2eWgO2FmHCks0",
+          "title": "Nelluri Nerajana",
+          "artist": "Hariharan, Mahalakshmi Iyer",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273cc80e0929aaf40074133684e",
+          "spotifyUrl": "https://open.spotify.com/track/7yPeu0DTn2eWgO2FmHCks0",
+          "previewUrl": "https://p.scdn.co/mp3-preview/57bf93b63956affd3f0ed64a9c44d2efc8e27950"
+        },
+        {
+          "id": "6OlRtuNOOPFcXdBww7A3Sq",
+          "title": "Padavi Datani",
+          "artist": "Ramana Gogula, Sunitha",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273887caff5008a7f93a6d3e117",
+          "spotifyUrl": "https://open.spotify.com/track/6OlRtuNOOPFcXdBww7A3Sq",
+          "previewUrl": "https://p.scdn.co/mp3-preview/673e46cdce20f42ab121b63002f8f2ad425f0d5a"
+        },
+        {
+          "id": "6wfvttks8elZeW0h1IeAfp",
+          "title": "Andhama Andhama",
+          "artist": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27386087138af5e98d1b46ee071",
+          "spotifyUrl": "https://open.spotify.com/track/6wfvttks8elZeW0h1IeAfp",
+          "previewUrl": "https://p.scdn.co/mp3-preview/42365ba8b9c115450bfc7787b935d546e7dfbdd5"
+        },
+        {
+          "id": "4kFWnmg8m3F5sWCsLZbxad",
+          "title": "Tella Cheeraku",
+          "artist": "S. P. Balasubrahmanyam, Lata Mangeshkar",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734ba7d17cfbfdb49ea37d0205",
+          "spotifyUrl": "https://open.spotify.com/track/4kFWnmg8m3F5sWCsLZbxad",
+          "previewUrl": "https://p.scdn.co/mp3-preview/cc774fb3eaaaea825ee217b61c351c9a8a0ad99f"
+        },
+        {
+          "id": "0cVNEozBNU3KV9dyXcaE5K",
+          "title": "Vatapatra (Happy)",
+          "artist": "P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27319edfe52b47ed30c58f3e7b7",
+          "spotifyUrl": "https://open.spotify.com/track/0cVNEozBNU3KV9dyXcaE5K",
+          "previewUrl": "https://p.scdn.co/mp3-preview/fadc0bb0da94410339752a643b52b75506f9dc60"
+        },
+        {
+          "id": "73ibYimograpInjVrhhkx9",
+          "title": "Elluvochchi",
+          "artist": "S. P. Balasubrahmanyam, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a95ef3ae38ecda458783505f",
+          "spotifyUrl": "https://open.spotify.com/track/73ibYimograpInjVrhhkx9",
+          "previewUrl": "https://p.scdn.co/mp3-preview/04450a814ca772d4dcf64b61c39554bfef6bd373"
+        },
+        {
+          "id": "1COtKDcwUclL5qybdSTPgM",
+          "title": "Kanne Pillavani",
+          "artist": "S. P. Balasubrahmanyam, S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2737055b9d35850649f44099075",
+          "spotifyUrl": "https://open.spotify.com/track/1COtKDcwUclL5qybdSTPgM",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a316f52910ee2e42f327c0550e2c2f02232f7466"
+        },
+        {
+          "id": "1hoExreeRTageUh8v9tBHv",
+          "title": "Radha Radha - Duet",
+          "artist": "S. P. Balasubrahmanyam, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ddf2be79581e4a2c8ba139a6",
+          "spotifyUrl": "https://open.spotify.com/track/1hoExreeRTageUh8v9tBHv",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5fc604141e029c6ad2f29284f330bbf2524880b8"
+        },
+        {
+          "id": "1ig7f5DgBgLkKU9SuDkwzq",
+          "title": "Theta Theta Telugula",
+          "artist": "Ghantasala",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a2587c583f6c4fd3904af417",
+          "spotifyUrl": "https://open.spotify.com/track/1ig7f5DgBgLkKU9SuDkwzq",
+          "previewUrl": "https://p.scdn.co/mp3-preview/11842cc772517dee30104783a7cca6809e73e166"
+        },
+        {
+          "id": "3AbxgsYRFyr6ycX60IeduW",
+          "title": "Nannu Dochu Kunduvatey",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738274e24f17d0f01d6853a787",
+          "spotifyUrl": "https://open.spotify.com/track/3AbxgsYRFyr6ycX60IeduW",
+          "previewUrl": "https://p.scdn.co/mp3-preview/8358a1d50bdced0fff6939f5ea0f984265e695c0"
+        },
+        {
+          "id": "3NVSHFKnsSL0wxrgU9QqKo",
+          "title": "Prema Yatralaku",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736ffdc5ba11490eb0b5a745fd",
+          "spotifyUrl": "https://open.spotify.com/track/3NVSHFKnsSL0wxrgU9QqKo",
+          "previewUrl": "https://p.scdn.co/mp3-preview/37e0bd6e60a35927517dbb60fe22ef8cc468a2a4"
+        },
+        {
+          "id": "5fylNd2wRjfKNNb6oyGDg3",
+          "title": "Aaresukoboyee",
+          "artist": "P. Susheela, S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730f1fe97aa907fb7b8e384388",
+          "spotifyUrl": "https://open.spotify.com/track/5fylNd2wRjfKNNb6oyGDg3",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5a7e6b2a39f8732444a48b44009be34f7688e3f9"
+        },
+        {
+          "id": "2wPwVXDgMXOQ48ZNAiykwi",
+          "title": "Lahiri Laahiri Lo",
+          "artist": "Ghantasala, P. Leela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27354e865c211e926fcf239150c",
+          "spotifyUrl": "https://open.spotify.com/track/2wPwVXDgMXOQ48ZNAiykwi",
+          "previewUrl": "https://p.scdn.co/mp3-preview/4c97b64ec71b6eda96be969fa375e8661cc58ce1"
+        },
+        {
+          "id": "6HRiEC1ZaxQgxzf3ueUvrl",
+          "title": "Aha Naa Pelliyanta",
+          "artist": "P. Susheela, Ghantasala",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27354e865c211e926fcf239150c",
+          "spotifyUrl": "https://open.spotify.com/track/6HRiEC1ZaxQgxzf3ueUvrl",
+          "previewUrl": "https://p.scdn.co/mp3-preview/bce0a51eb5d5e0c471fe8892da69e31729446f1e"
+        },
+        {
+          "id": "6JEnvv7kdMQCWCpDMw1mqJ",
+          "title": "Neevuleka Veena, Pt. 1",
+          "artist": "P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2737d68278ab6ea23c97dd50822",
+          "spotifyUrl": "https://open.spotify.com/track/6JEnvv7kdMQCWCpDMw1mqJ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/22d94290e29a2819a8a9dba950d136b1570bc61d"
+        },
+        {
+          "id": "0fK4TfbJ9FHUqdl6kb5shE",
+          "title": "Edhuta Nilichindhi",
+          "artist": "Kamalakar, Karthik",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27389c6dd12b46ab6485c050611",
+          "spotifyUrl": "https://open.spotify.com/track/0fK4TfbJ9FHUqdl6kb5shE",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5267cc4137d42a283cfe3b5340845826dc799332"
+        },
+        {
+          "id": "425eFcx7P9ZIrObXXmJRQ4",
+          "title": "Theera Ulaa",
+          "artist": "A.R. Rahman, Darshana K.T., Nikhita Gandhi",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2739f724b4022137df607810566",
+          "spotifyUrl": "https://open.spotify.com/track/425eFcx7P9ZIrObXXmJRQ4",
+          "previewUrl": "https://p.scdn.co/mp3-preview/9a32db20f23078ea9bb0e7b06da8a3dd4f4f852b"
+        }
+      ]
+    },
+    {
+      "id": "3q5KL3QLFMvCjhUNMi5Q3g",
+      "name": "neu",
+      "description": "",
+      "coverImage": "https://mosaic.scdn.co/640/ab67616d00001e0210d709d905d269d37a41d4c4ab67616d00001e024fb043195e8d07e72edc7226ab67616d00001e026c86683d20c72e3874c11c6dab67616d00001e02aff4aef671b2510be7c115b3",
+      "tracks": [
+        {
+          "id": "6HSXNV0b4M4cLJ7ljgVVeh",
+          "title": "Knockin' On Heaven's Door",
+          "artist": "Bob Dylan",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736c86683d20c72e3874c11c6d",
+          "spotifyUrl": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b1fb2e0d90764724242501e5a0c3c2393698d499"
+        },
+        {
+          "id": "5ihS6UUlyQAfmp48eSkxuQ",
+          "title": "Landslide",
+          "artist": "Fleetwood Mac",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226",
+          "spotifyUrl": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/c56024c487393715da130f026ba98a4a529a46e0"
+        },
+        {
+          "id": "70C4NyhjD5OZUMzvWZ3njJ",
+          "title": "Piano Man",
+          "artist": "Billy Joel",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3",
+          "spotifyUrl": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/15c3badbac17e832e321cfb0be8f53f92708021b"
+        },
+        {
+          "id": "2EPr9Wx7e1cpGEbNAtuN7x",
+          "title": "Surfin' U.S.A.",
+          "artist": "The Beach Boys",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27310d709d905d269d37a41d4c4",
+          "spotifyUrl": "https://open.spotify.com/track/2EPr9Wx7e1cpGEbNAtuN7x",
+          "previewUrl": "https://p.scdn.co/mp3-preview/df720824728675f75a26ad83ee0ce67d2914a3a1"
+        },
+        {
+          "id": "0uEp9E98JB5awlA084uaIg",
+          "title": "Doo Wop (That Thing)",
+          "artist": "Ms. Lauryn Hill",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9",
+          "spotifyUrl": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg",
+          "previewUrl": "https://p.scdn.co/mp3-preview/feb1c988c1940d63a3af836f2965f04177dc24c9"
+        },
+        {
+          "id": "4U45aEWtQhrm8A5mxPaFZ7",
+          "title": "Vienna",
+          "artist": "Billy Joel",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+          "spotifyUrl": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7",
+          "previewUrl": "https://p.scdn.co/mp3-preview/20063b69f912e042929de74af0b77271ec3376c5"
+        },
+        {
+          "id": "5EWPGh7jbTNO2wakv8LjUI",
+          "title": "Free Bird",
+          "artist": "Lynyrd Skynyrd",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8",
+          "spotifyUrl": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI",
+          "previewUrl": "https://p.scdn.co/mp3-preview/52d7f7506e9ac5e3fc059183c2db33f0dfd9b8e4"
+        },
+        {
+          "id": "0M7mWKqwTIaVjYyxfZmtTa",
+          "title": "Courtesy Of The Red, White And Blue (The Angry American)",
+          "artist": "Toby Keith",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273bb5c54a68f9ce31f83b98de4",
+          "spotifyUrl": "https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa",
+          "previewUrl": "https://p.scdn.co/mp3-preview/cff59941e7b6ff3d215dea8fb9a404c0195cfd61"
+        },
+        {
+          "id": "05ZACkzW8YbRq3eFgIfSNB",
+          "title": "Springsteen",
+          "artist": "Eric Church",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273c1bc36faa8afff2b5273490b",
+          "spotifyUrl": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a3068e4dbfd2eadd53bd09b7489d891fba9d5a24"
+        },
+        {
+          "id": "73ZTWCuwudUVvvWipRnQnQ",
+          "title": "Family Tradition",
+          "artist": "Hank Williams, Jr.",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736f27df1fe7aa9ea757be6a1c",
+          "spotifyUrl": "https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b21612a23b79f6bf506c2bbc9cf9dd723ac8991a"
+        },
+        {
+          "id": "3z8h0TU7ReDPLIbEnYhWZb",
+          "title": "Bohemian Rhapsody",
+          "artist": "Queen",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b",
+          "spotifyUrl": "https://open.spotify.com/track/3z8h0TU7ReDPLIbEnYhWZb",
+          "previewUrl": "https://p.scdn.co/mp3-preview/8cc86bce50c7006c0d3f85cfa404d6540dec8d1e"
+        },
+        {
+          "id": "0czsQ1YOT71kdVfyFoTy3U",
+          "title": "Your House",
+          "artist": "Steel Pulse",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2733529af51dc08bdbe5460c925",
+          "spotifyUrl": "https://open.spotify.com/track/0czsQ1YOT71kdVfyFoTy3U",
+          "previewUrl": "https://p.scdn.co/mp3-preview/1e8ba4de549721b860890995e41712d0e3e54739"
+        },
+        {
+          "id": "6eN1f9KNmiWEhpE2RhQqB5",
+          "title": "Paradise City",
+          "artist": "Guns N' Roses",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+          "spotifyUrl": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5",
+          "previewUrl": "https://p.scdn.co/mp3-preview/6c99e08ad1885d08023354ac96b546ffe3dee44b"
+        },
+        {
+          "id": "4qWizh4UB8BuSypZ3T1zAz",
+          "title": "Love Bites",
+          "artist": "Def Leppard",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27343511b8c20112757edddc7ba",
+          "spotifyUrl": "https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f0694998f7fe307c18cc225fc0e9bd9b873df4c8"
+        },
+        {
+          "id": "5AoI7pfHdl87BQ93rKZXk9",
+          "title": "Beast Of Burden",
+          "artist": "The Rolling Stones",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27353a87c62d13a6034fa8f7659",
+          "spotifyUrl": "https://open.spotify.com/track/5AoI7pfHdl87BQ93rKZXk9",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f028053bcf353762e311c0c97a87cf1781094488"
+        },
+        {
+          "id": "3FtYbEfBqAlGO46NUDQSAt",
+          "title": "Electric Feel",
+          "artist": "MGMT",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb",
+          "spotifyUrl": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b288d1b3245bfa82243267c77fe152dbd696f3c8"
+        },
+        {
+          "id": "2LKOHdMsL0K9KwcPRlJK2v",
+          "title": "After Dark",
+          "artist": "Mr.Kitty",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b492477206075438e0751176",
+          "spotifyUrl": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v",
+          "previewUrl": "https://p.scdn.co/mp3-preview/eb9de15a4465f504ee0eadba93e7d265ee0ee6ba"
+        },
+        {
+          "id": "2AHZICZHpwfW0jGQnNUUlW",
+          "title": "Don't Worry (with Ray Dalton) - Radio Edit",
+          "artist": "Madcon, Ray Dalton",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273061709f7cb32d56158643111",
+          "spotifyUrl": "https://open.spotify.com/track/2AHZICZHpwfW0jGQnNUUlW",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a4f151bb02a867db07f30442661c5d89d628b3b2"
+        },
+        {
+          "id": "17odGcODTYfHJsS45fPq96",
+          "title": "Rio",
+          "artist": "Duran Duran",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730a754dd5389e1e5004fca140",
+          "spotifyUrl": "https://open.spotify.com/track/17odGcODTYfHJsS45fPq96",
+          "previewUrl": "https://p.scdn.co/mp3-preview/4932b2dfdb7e7dd715b0f48756df92e8a51ef0c7"
+        },
+        {
+          "id": "6aBUnkXuCEQQHAlTokv9or",
+          "title": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+          "artist": "Talking Heads",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e35e2e2a4bfa8a30a78fc532",
+          "spotifyUrl": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or",
+          "previewUrl": "https://p.scdn.co/mp3-preview/54ceba9ea31b0d8b8e01121eb3980d49f003d27e"
+        },
+        {
+          "id": "1Q5kgpp4pmyGqPwNBzkSrw",
+          "title": "Roadhouse Blues",
+          "artist": "The Doors",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273f12a8a7e0b2cbe16d2bef4dc",
+          "spotifyUrl": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw",
+          "previewUrl": "https://p.scdn.co/mp3-preview/32d2b47751f9641e7d0a0bf1cfefada6be904c3c"
+        },
+        {
+          "id": "0FzGKD3N0jK6nNOyOJBvNG",
+          "title": "While My Guitar Gently Weeps",
+          "artist": "The Beatles",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27330503dbc30e621c96913379b",
+          "spotifyUrl": "https://open.spotify.com/track/0FzGKD3N0jK6nNOyOJBvNG",
+          "previewUrl": "https://p.scdn.co/mp3-preview/9fd0d447e21b182399ef36ba4cb349e9dd2ac75f"
+        },
+        {
+          "id": "0Ed7MeXx64f6OcIuoTRCg1",
+          "title": "Xxplosive",
+          "artist": "Dr. Dre, Hittman, Six-Two, Nate Dogg, Kurupt",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
+          "spotifyUrl": "https://open.spotify.com/track/0Ed7MeXx64f6OcIuoTRCg1",
+          "previewUrl": "https://p.scdn.co/mp3-preview/574a5a03583f43f54c02e5b23c5b12124852d213"
+        },
+        {
+          "id": "3VPeA7IW68QRNTfgzb6biZ",
+          "title": "Kitchen",
+          "artist": "SZA",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27316fdde9f6b5606419ca9b7ca",
+          "spotifyUrl": "https://open.spotify.com/track/3VPeA7IW68QRNTfgzb6biZ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b229e0c792e8bf0bbd620c1b50c73b67bc934358"
+        },
+        {
+          "id": "08Kj0lvbsqAxzeUOBYZRL6",
+          "title": "Good Nights (feat. Mascolo)",
+          "artist": "Whethan, Mascolo",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273abc20d6fca3df753a2243a5f",
+          "spotifyUrl": "https://open.spotify.com/track/08Kj0lvbsqAxzeUOBYZRL6",
+          "previewUrl": "https://p.scdn.co/mp3-preview/4d8ba3271eddaef52faf53c4fedffcf36a7a9b2b"
+        },
+        {
+          "id": "0qRR9d89hIS0MHRkQ0ejxX",
+          "title": "Rich Girl",
+          "artist": "Daryl Hall & John Oates",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2733ebc5b9d8942069d3b920550",
+          "spotifyUrl": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX",
+          "previewUrl": "https://p.scdn.co/mp3-preview/246e1cdfbc760791fa34b2ac697259b6c3598009"
+        },
+        {
+          "id": "1G391cbiT3v3Cywg8T7DM1",
+          "title": "Scar Tissue",
+          "artist": "Red Hot Chili Peppers",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+          "spotifyUrl": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5aa4aff376bccc73f7fa7df2954649e30a56c4b1"
+        },
+        {
+          "id": "58FbmtiyAlFBqFr8EorsSr",
+          "title": "7 Summers",
+          "artist": "Morgan Wallen",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d11e2e1e9a84f6fbf864536d",
+          "spotifyUrl": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr",
+          "previewUrl": "https://p.scdn.co/mp3-preview/4b817b5f8dce035ad968e10a6eca64e549c6742e"
+        },
+        {
+          "id": "3gdewACMIVMEWVbyb8O9sY",
+          "title": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+          "artist": "Elton John",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3",
+          "spotifyUrl": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY",
+          "previewUrl": "https://p.scdn.co/mp3-preview/c7316d016815fab0bb5ecb309da33e57d4da69c5"
+        },
+        {
+          "id": "6XUrmZCJ2TEUh2Qev8fg7N",
+          "title": "California",
+          "artist": "Wiz Khalifa",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2731190f1fbc1d55aa9397d9975",
+          "spotifyUrl": "https://open.spotify.com/track/6XUrmZCJ2TEUh2Qev8fg7N",
+          "previewUrl": "https://p.scdn.co/mp3-preview/441218aa9b92543ca870797689d072d831974f1c"
+        },
+        {
+          "id": "5KSJ9k1FYjFLnIRlJT2wF8",
+          "title": "Tha Crossroads",
+          "artist": "Bone Thugs-N-Harmony",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e49f4677129d4b8b9d9f50ac",
+          "spotifyUrl": "https://open.spotify.com/track/5KSJ9k1FYjFLnIRlJT2wF8",
+          "previewUrl": "https://p.scdn.co/mp3-preview/be907adc0d03b2fa8b19e25f482ad087d6da9cec"
+        },
+        {
+          "id": "0BgbobvykXxEvxo2HhCuvM",
+          "title": "Banana Pancakes",
+          "artist": "Jack Johnson",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273628dba01c669d89586967dc5",
+          "spotifyUrl": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM",
+          "previewUrl": "https://p.scdn.co/mp3-preview/3e44b8e6e58449d284d2db0845c0bdff51573289"
+        },
+        {
+          "id": "7x8dCjCr0x6x2lXKujYD34",
+          "title": "The Pretender",
+          "artist": "Foo Fighters",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2739d957247c6c610cb7c4da1c5",
+          "spotifyUrl": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5b81dfb73c71385691801bc0adbbb6cf718bdc1a"
+        },
+        {
+          "id": "3EGlnkJGcwz73rT0oE0X1X",
+          "title": "Friends Will Be Friends - Remastered 2011",
+          "artist": "Queen",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e98d08fbea1a2f03229abc20",
+          "spotifyUrl": "https://open.spotify.com/track/3EGlnkJGcwz73rT0oE0X1X",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5497087591339b3bde493c97e712967310e5f124"
+        },
+        {
+          "id": "6Z83ioKXGsAxOo2DkwiOcH",
+          "title": "Three Little Birds",
+          "artist": "Bob Marley & The Wailers",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ef4e05f6dff96e307b43ecd8",
+          "spotifyUrl": "https://open.spotify.com/track/6Z83ioKXGsAxOo2DkwiOcH",
+          "previewUrl": "https://p.scdn.co/mp3-preview/fb7b13a2a1b2b8787956f88b8ac8e6a6577d6339"
+        },
+        {
+          "id": "0yJo4K3EGaHnFzFUk9UmEs",
+          "title": "Pool",
+          "artist": "kiki wera",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d65c8ca6df07bedf8a6b3e5c",
+          "spotifyUrl": "https://open.spotify.com/track/0yJo4K3EGaHnFzFUk9UmEs",
+          "previewUrl": "https://p.scdn.co/mp3-preview/d83042f6ee209a83c0b8eb8618fe5671aeb854e0"
+        }
+      ]
+    },
+    {
+      "id": "2eThEejmgDsA4ncveXUATo",
+      "name": "eng",
+      "description": "",
+      "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d1ac3798767d5a67e9fbccf4",
+      "tracks": [
+        {
+          "id": "3hB9lDLyAClYVZivMMl20N",
+          "title": "Co2",
+          "artist": "Prateek Kuhad",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273dc8799fc0000992578ec96e9",
+          "spotifyUrl": "https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N",
+          "previewUrl": "https://p.scdn.co/mp3-preview/edaf3c09dc11d2149a74d4e8b4a466f32a3fe15b"
+        },
+        {
+          "id": "4jEWjqifdaItAnIfgXHHW5",
+          "title": "Bombay Rains",
+          "artist": "Heeya Tikku",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e4469fd6c20ff591b5d48047",
+          "spotifyUrl": "https://open.spotify.com/track/4jEWjqifdaItAnIfgXHHW5",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5176318568cb845c33e7dc967707d861b8b40446"
+        },
+        {
+          "id": "0cj465OG5QJUhPJfF9Oxjg",
+          "title": "Love Is Not A Fucking Game",
+          "artist": "Kamakshi Khanna",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736782b054faae285cc1889cbf",
+          "spotifyUrl": "https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg",
+          "previewUrl": "https://p.scdn.co/mp3-preview/603c60a2ccd4bd3304b75c556064593b17ffebe7"
+        },
+        {
+          "id": "2jfLNlyUpxhFkoo1lJjiL3",
+          "title": "City Life",
+          "artist": "Raghav Meattle",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2732934b39cb1fd6e64887cb420",
+          "spotifyUrl": "https://open.spotify.com/track/2jfLNlyUpxhFkoo1lJjiL3",
+          "previewUrl": "https://p.scdn.co/mp3-preview/fde925d9ade485dac978b7776ca30771698ff554"
+        },
+        {
+          "id": "2a61B7VtiXvHa8YgBGbBVR",
+          "title": "Glory Days",
+          "artist": "Yohaan Samuel",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273743dec69efc93681caef490e",
+          "spotifyUrl": "https://open.spotify.com/track/2a61B7VtiXvHa8YgBGbBVR",
+          "previewUrl": "https://p.scdn.co/mp3-preview/60bb878e5826f159a2cc2a2f93eefd96dd47f376"
+        },
+        {
+          "id": "7hG3voGIQnOEYRqcUQ5hbD",
+          "title": "I'm Someone New",
+          "artist": "Prateek Kuhad",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730be513ac05931830152b5b16",
+          "spotifyUrl": "https://open.spotify.com/track/7hG3voGIQnOEYRqcUQ5hbD",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ab06d08c5e61251a1b022bfe3a0ae3e1bc9eac68"
+        },
+        {
+          "id": "1clFxHIS779ZgsS44BHivF",
+          "title": "Explorer",
+          "artist": "AVINASH",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27337080178d0efa9393a709dec",
+          "spotifyUrl": "https://open.spotify.com/track/1clFxHIS779ZgsS44BHivF",
+          "previewUrl": "https://p.scdn.co/mp3-preview/c427a8c56eab3a50e692a6239a321fa1fb4003a5"
+        },
+        {
+          "id": "2pTE5zinlVElLlCtjmxdhj",
+          "title": "Tiptoes",
+          "artist": "Meera",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734881356b510950c4948df7ca",
+          "spotifyUrl": "https://open.spotify.com/track/2pTE5zinlVElLlCtjmxdhj",
+          "previewUrl": "https://p.scdn.co/mp3-preview/cc37155fe16db25645fb36416c6c7b0e7e0466a2"
+        },
+        {
+          "id": "2m17uAqJyX5bGorHtA6NF0",
+          "title": "Waiting On",
+          "artist": "Raghav Meattle, Mali",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ef53b6feddd371f0f2d73cf7",
+          "spotifyUrl": "https://open.spotify.com/track/2m17uAqJyX5bGorHtA6NF0",
+          "previewUrl": "https://p.scdn.co/mp3-preview/61fbef2a0682cca52a057951ebf9b90e354fc581"
+        },
+        {
+          "id": "6YO3IG67qoFiqj0PVYrEsX",
+          "title": "Honey Bee",
+          "artist": "Dhruv Kapoor, Gowri Bhat",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27390d2827f9bf6ceda2547a68c",
+          "spotifyUrl": "https://open.spotify.com/track/6YO3IG67qoFiqj0PVYrEsX",
+          "previewUrl": "https://p.scdn.co/mp3-preview/dbf439e1f76bca7501d1f81682cd89c8432cdc41"
+        },
+        {
+          "id": "0P4ephsK72sz328Wtrk3DP",
+          "title": "Please Leave Me Alone",
+          "artist": "Arish B",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273006c06c157560413d4a225e8",
+          "spotifyUrl": "https://open.spotify.com/track/0P4ephsK72sz328Wtrk3DP",
+          "previewUrl": "https://p.scdn.co/mp3-preview/6a68068466df77f8d7b609a8955f1d3755fde79f"
+        },
+        {
+          "id": "43BhgzipSWYDMNGy9hMNlQ",
+          "title": "Love, me",
+          "artist": "papabear",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273c59b9e3a13a7430aa67df2db",
+          "spotifyUrl": "https://open.spotify.com/track/43BhgzipSWYDMNGy9hMNlQ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/369aad1411102379239a2f2ed83de2d15f5f0be3"
+        },
+        {
+          "id": "60buXcM2pFwCBTrRzBsJ8o",
+          "title": "Ambo!",
+          "artist": "Anohnymouss, RANJ",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ad7d1a9241f7f86ca6cb729e",
+          "spotifyUrl": "https://open.spotify.com/track/60buXcM2pFwCBTrRzBsJ8o",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a9d38554d84f97f7897178b4891198c4da7db3f9"
+        },
+        {
+          "id": "1rN9zRk3KjZyYDTNKih1yi",
+          "title": "Semi Automatic Butane",
+          "artist": "Mali",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d609815d5bf81c19453e1c20",
+          "spotifyUrl": "https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi",
+          "previewUrl": "https://p.scdn.co/mp3-preview/8ae2eb2561d10ca0c7b4d9c7b0845d2d8d311b6a"
+        },
+        {
+          "id": "0BEU8reIpQUKYtFg6O7fU9",
+          "title": "People Never Change - Radio Edit",
+          "artist": "Peter Cat Recording Co.",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2737c2d95cbda65403f2ea7ad0d",
+          "spotifyUrl": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9",
+          "previewUrl": "https://p.scdn.co/mp3-preview/392bd46671ec0cb6582b2e79230f6553e864f02d"
+        },
+        {
+          "id": "4kQbWLvWWLMVLOk7wSOoWH",
+          "title": "Hope",
+          "artist": "Druv Kent, Rudy Wallang",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b88a1307c6c82d2bfc040207",
+          "spotifyUrl": "https://open.spotify.com/track/4kQbWLvWWLMVLOk7wSOoWH",
+          "previewUrl": "https://p.scdn.co/mp3-preview/de64f7af4fbfd8705076aad2a3d445871fd16111"
+        },
+        {
+          "id": "78yacUG8akg9bd52nk5RZL",
+          "title": "Main Character Energy",
+          "artist": "Sanjeeta Bhattacharya, Jhalli",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27373008a0ae59d8ebd82aa1374",
+          "spotifyUrl": "https://open.spotify.com/track/78yacUG8akg9bd52nk5RZL",
+          "previewUrl": "https://p.scdn.co/mp3-preview/931e2cc57db53e79359719da78de1524a4f06711"
+        },
+        {
+          "id": "1LmdoeqtYijxQLSqnB78Ct",
+          "title": "Slide",
+          "artist": "Temsu Clover, Vitz Zhimo",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273294bb7958a56a776d9bbe48e",
+          "spotifyUrl": "https://open.spotify.com/track/1LmdoeqtYijxQLSqnB78Ct",
+          "previewUrl": "https://p.scdn.co/mp3-preview/60ed354328dcd04ab594db57fd3f9319f3d10646"
+        },
+        {
+          "id": "1VkJx1MZeYYQk8MhWwqN5O",
+          "title": "I Will Be Here",
+          "artist": "Abdon Mech",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27348054692315fa6f7fc0c5cbc",
+          "spotifyUrl": "https://open.spotify.com/track/1VkJx1MZeYYQk8MhWwqN5O",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ef53114901382fd125845a3d2f94d170d58a4aad"
+        },
+        {
+          "id": "08k7MPppIgLphbdKnOtE7p",
+          "title": "Little Miss Time",
+          "artist": "Yohaan Samuel",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2737adccd894e8879fb466290d0",
+          "spotifyUrl": "https://open.spotify.com/track/08k7MPppIgLphbdKnOtE7p",
+          "previewUrl": "https://p.scdn.co/mp3-preview/72b96c229ba7f4dedb4d70a6e4cda16a4198694d"
+        },
+        {
+          "id": "0yUsfC8cYmJUVyQP1QevR5",
+          "title": "Cigarette",
+          "artist": "Priyanka Nath",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27325ada56b6c7480778029e570",
+          "spotifyUrl": "https://open.spotify.com/track/0yUsfC8cYmJUVyQP1QevR5",
+          "previewUrl": "https://p.scdn.co/mp3-preview/180669d39162ea583a26adbc27854a8d5b5d99ea"
+        },
+        {
+          "id": "4OFQByHmefFNvNwuEtPkWl",
+          "title": "Follow",
+          "artist": "Bhumi, Shalmali Kholgade, pixl.",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27308ebe7bcf727c521b08c211e",
+          "spotifyUrl": "https://open.spotify.com/track/4OFQByHmefFNvNwuEtPkWl",
+          "previewUrl": "https://p.scdn.co/mp3-preview/fa01cb51d70113ee039d77d6dbfb2d1b13b93171"
+        },
+        {
+          "id": "33mzjdQtc2y0So7dVMcKMd",
+          "title": "Symmetries",
+          "artist": "Frizzell D'souza",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2733f517a8ac6ec2068f77189c0",
+          "spotifyUrl": "https://open.spotify.com/track/33mzjdQtc2y0So7dVMcKMd",
+          "previewUrl": "https://p.scdn.co/mp3-preview/2d38fe9ae13c9014bfb5aa5032970a2d7696a2c5"
+        },
+        {
+          "id": "1SGn5fhaseqXSodWO76qtm",
+          "title": "Just For You",
+          "artist": "Dhruv Kapoor",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2735d22029c2c0f65ef21c44864",
+          "spotifyUrl": "https://open.spotify.com/track/1SGn5fhaseqXSodWO76qtm",
+          "previewUrl": "https://p.scdn.co/mp3-preview/26f03711574060da95a5108ec7812461416a0a2c"
+        },
+        {
+          "id": "0mzOHB5ofYI2RpvSkUJkKX",
+          "title": "Museum",
+          "artist": "Tejas",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273eb7be82f75952381e5669fed",
+          "spotifyUrl": "https://open.spotify.com/track/0mzOHB5ofYI2RpvSkUJkKX",
+          "previewUrl": "https://p.scdn.co/mp3-preview/59513fe1932513f2070e2f9c9ae1be68e3350024"
+        },
+        {
+          "id": "1lDS95xiG8ln73gdOlNjfU",
+          "title": "Suddenly",
+          "artist": "Peter Cat Recording Co.",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27392aed208f524fb0cc6a1dbf8",
+          "spotifyUrl": "https://open.spotify.com/track/1lDS95xiG8ln73gdOlNjfU",
+          "previewUrl": "https://p.scdn.co/mp3-preview/05dc104a706509133882ed50fcc76ca45b0e58e9"
+        },
+        {
+          "id": "0PIyGX9ZcJWNnyEtQfMNAW",
+          "title": "Heartbreak 2020",
+          "artist": "Kamakshi Khanna",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2739e52fdb35d03c0e85ae0a23a",
+          "spotifyUrl": "https://open.spotify.com/track/0PIyGX9ZcJWNnyEtQfMNAW",
+          "previewUrl": "https://p.scdn.co/mp3-preview/1b13938d6b5c409132fe48bda2e7f11162c89381"
+        },
+        {
+          "id": "4y2TG4LNhGw5xBXwzyBDBX",
+          "title": "Phikke Pae Gaye Saare",
+          "artist": "Aranyaka, Bharg",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273f579f78310013d83b81a74d7",
+          "spotifyUrl": "https://open.spotify.com/track/4y2TG4LNhGw5xBXwzyBDBX",
+          "previewUrl": "https://p.scdn.co/mp3-preview/17c2a520b1af1a6773647130096b11e8907fc006"
+        },
+        {
+          "id": "3PHGkNX8caEkn31C63u3Bl",
+          "title": "Long To Be",
+          "artist": "Frizzell D'souza",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a6f9cf383b018d254bbc601f",
+          "spotifyUrl": "https://open.spotify.com/track/3PHGkNX8caEkn31C63u3Bl",
+          "previewUrl": "https://p.scdn.co/mp3-preview/561d7090b18d467080cc4c7ee7991bcdd9b90c19"
+        },
+        {
+          "id": "4oCjAPvthe32TJH2gnEiYz",
+          "title": "I Blew It!",
+          "artist": "Kamakshi Khanna",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730521e213658c1aeeedfd2e79",
+          "spotifyUrl": "https://open.spotify.com/track/4oCjAPvthe32TJH2gnEiYz",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a5278237c173621f053fe9e6823fb9139dcf28d1"
+        },
+        {
+          "id": "6gBwqaNxXbj1wOE9TAyigA",
+          "title": "the one",
+          "artist": "Aarya",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27375a84383460993bf55af24fb",
+          "spotifyUrl": "https://open.spotify.com/track/6gBwqaNxXbj1wOE9TAyigA",
+          "previewUrl": "https://p.scdn.co/mp3-preview/16a7cff38ee517b84be60b2e28ffdcd67968df8e"
+        },
+        {
+          "id": "73zdm3FrrJxp9VrfX7Wb6w",
+          "title": "Please Leave Me Alone - Live",
+          "artist": "Arish B",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27358e420c3d8ed549f15c010fa",
+          "spotifyUrl": "https://open.spotify.com/track/73zdm3FrrJxp9VrfX7Wb6w",
+          "previewUrl": "https://p.scdn.co/mp3-preview/c20ce9e0324ba057012cadd7294dcda374101290"
+        },
+        {
+          "id": "5Y4vRBs4QCUloQ5W9Wb58j",
+          "title": "Moon Child",
+          "artist": "The F16s",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730d6916d6d6315b8daff4a2ae",
+          "spotifyUrl": "https://open.spotify.com/track/5Y4vRBs4QCUloQ5W9Wb58j",
+          "previewUrl": "https://p.scdn.co/mp3-preview/fc20190a01ee7d63f4075ecc557a2cbef8b050a8"
+        },
+        {
+          "id": "5iG4F78T7ZYHoAAiOqHAg8",
+          "title": "6 A.M",
+          "artist": "Jaden Maskie",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273c88287f7a04b4769d3d32e77",
+          "spotifyUrl": "https://open.spotify.com/track/5iG4F78T7ZYHoAAiOqHAg8",
+          "previewUrl": "https://p.scdn.co/mp3-preview/4c7f34632cbf5b3c47398c6975a17e066b4998bc"
+        },
+        {
+          "id": "1eCybG4d27xRxXMAeL44UO",
+          "title": "Keep Me Here",
+          "artist": "Radha",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273c124357a425f175189a320c1",
+          "spotifyUrl": "https://open.spotify.com/track/1eCybG4d27xRxXMAeL44UO",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f8378e4c52c36fad7b6d038057af3b4fa6eb4f9f"
+        },
+        {
+          "id": "22oPuQf99VwEEfaaSYxeSM",
+          "title": "Never Too Far",
+          "artist": "The Revisit Project",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273bb7b61d19a15dffcd714bb75",
+          "spotifyUrl": "https://open.spotify.com/track/22oPuQf99VwEEfaaSYxeSM",
+          "previewUrl": "https://p.scdn.co/mp3-preview/e066a2d93a2a44f87c06265d4ebe3c99cbb8a32f"
+        },
+        {
+          "id": "1gSnof1gJ4Ac4oUvRGMfs6",
+          "title": "Take Me to a Place",
+          "artist": "Firuzeh",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734aef60073b74ec24666d9e6b",
+          "spotifyUrl": "https://open.spotify.com/track/1gSnof1gJ4Ac4oUvRGMfs6",
+          "previewUrl": "https://p.scdn.co/mp3-preview/01e61062100c6927b9bfa97896000e2e97e2ae2b"
+        },
+        {
+          "id": "39uIWCPy3cJUHqMPqo18NO",
+          "title": "Bleed",
+          "artist": "Aksomaniac, Unkill ji, Crustacean",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27330c1fc4f169e899ec0875b94",
+          "spotifyUrl": "https://open.spotify.com/track/39uIWCPy3cJUHqMPqo18NO",
+          "previewUrl": "https://p.scdn.co/mp3-preview/66a674648267d9525a1e72a9aa9535a04e89fc5c"
+        },
+        {
+          "id": "3geUTOkB4GIZZ4iB1dNyhM",
+          "title": "What Am I Gonna Do",
+          "artist": "Shashank, NAAMSKULLMERA",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27367614b80631f1708d3b9cf3b",
+          "spotifyUrl": "https://open.spotify.com/track/3geUTOkB4GIZZ4iB1dNyhM",
+          "previewUrl": "https://p.scdn.co/mp3-preview/aec05414810a3f56ed20be2824eefdf8693f9c21"
+        },
+        {
+          "id": "4GQhmqjs2WKqsa67r6dbRn",
+          "title": "Still",
+          "artist": "Anhad + Tanner, Isheeta Chakrvarty, Ejaz Hussain",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a5e2af247d3275565b0210a7",
+          "spotifyUrl": "https://open.spotify.com/track/4GQhmqjs2WKqsa67r6dbRn",
+          "previewUrl": "https://p.scdn.co/mp3-preview/de8d741cb29e5f57dce185f1d52cef40d51e6c22"
+        },
+        {
+          "id": "1xO2ijXRBeB3hyUfksNA6T",
+          "title": "The Discovery",
+          "artist": "Ananya Sharma",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27357a9b8387764e256b6139db1",
+          "spotifyUrl": "https://open.spotify.com/track/1xO2ijXRBeB3hyUfksNA6T",
+          "previewUrl": "https://p.scdn.co/mp3-preview/54b29f70cd266ec25a850c23efea15581fe281aa"
+        },
+        {
+          "id": "7k695jTLLrMiNnFnyRWDCN",
+          "title": "Just As Easily",
+          "artist": "Frizzell D'souza",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738e1828d19fcd68979e8bc292",
+          "spotifyUrl": "https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN",
+          "previewUrl": "https://p.scdn.co/mp3-preview/88299bd246d91d5e7bbd57442327cdebf637cca0"
+        },
+        {
+          "id": "231CPEMxLA8kmRnlYhIMxP",
+          "title": "I will what I want",
+          "artist": "Ananya Sharma",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b6412375496f1523f553e6fa",
+          "spotifyUrl": "https://open.spotify.com/track/231CPEMxLA8kmRnlYhIMxP",
+          "previewUrl": "https://p.scdn.co/mp3-preview/2686cc90628a4982ac971988f3395b30afbbd511"
+        },
+        {
+          "id": "5HXdTJj4vEBIJY9Cp3bihl",
+          "title": "Won’t Let You Down!",
+          "artist": "Akshit Dhall, Sanchi",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d6d49a18b29aff750d155871",
+          "spotifyUrl": "https://open.spotify.com/track/5HXdTJj4vEBIJY9Cp3bihl",
+          "previewUrl": "https://p.scdn.co/mp3-preview/82d5044f56a12adad57bb5c582b41e27ea7d8222"
+        },
+        {
+          "id": "7yOi50GTBpAXbp1CUry62F",
+          "title": "Everything",
+          "artist": "Jai Matt",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2735a83bcd2082f82bbff9577a3",
+          "spotifyUrl": "https://open.spotify.com/track/7yOi50GTBpAXbp1CUry62F",
+          "previewUrl": "https://p.scdn.co/mp3-preview/feed992348d2e2a56c9f2767e65133a5f2a84968"
+        },
+        {
+          "id": "3Xnsjtw8BAwPRHQ4BCchHD",
+          "title": "Wasting Time",
+          "artist": "Shashank",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27301d7e8b20dc00224c3512d04",
+          "spotifyUrl": "https://open.spotify.com/track/3Xnsjtw8BAwPRHQ4BCchHD",
+          "previewUrl": "https://p.scdn.co/mp3-preview/eef0be9b6a14c5c744988df9f74fc90c78cf4c97"
+        },
+        {
+          "id": "36SxBNiZE9HU3uGkVnSGbP",
+          "title": "crashing",
+          "artist": "Arnav Pingale",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27391a196aaf2d35a933af548cb",
+          "spotifyUrl": "https://open.spotify.com/track/36SxBNiZE9HU3uGkVnSGbP",
+          "previewUrl": "https://p.scdn.co/mp3-preview/3269fdb12a21a0db0849f67a7860ae676c395d31"
+        },
+        {
+          "id": "3TyUsgcoYBgfYKa9ShDng7",
+          "title": "Every Day Of The Week",
+          "artist": "Allan Martyr",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ab11c6946fda3c0e7f1ba489",
+          "spotifyUrl": "https://open.spotify.com/track/3TyUsgcoYBgfYKa9ShDng7",
+          "previewUrl": "https://p.scdn.co/mp3-preview/88656ac6a3d4859545e68a61166750abe6f1f0f1"
+        },
+        {
+          "id": "3xlFm0vcjpD3Sp78OGojwF",
+          "title": "A Perfect Dream",
+          "artist": "VACOUSTICS",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27308aed1ab04f6ef1432cbe581",
+          "spotifyUrl": "https://open.spotify.com/track/3xlFm0vcjpD3Sp78OGojwF",
+          "previewUrl": "https://p.scdn.co/mp3-preview/072a68edcefc457899f501a6fa8729ed992dcf03"
+        },
+        {
+          "id": "2vlZpvxiIYmNuycCV7ffwr",
+          "title": "Bye Bye",
+          "artist": "Grant Winters, Butter Bath",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738a9e5487eff470f33de2a656",
+          "spotifyUrl": "https://open.spotify.com/track/2vlZpvxiIYmNuycCV7ffwr",
+          "previewUrl": "https://p.scdn.co/mp3-preview/7e707cfe0b10ab0b44b09f62657feb97d1004387"
+        },
+        {
+          "id": "6qGW82sW2VGV3Gl4OtjKm0",
+          "title": "Chasing Signs",
+          "artist": "Palindroma, Nida Siddiqui, Amrit Ramnath",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730ca5162e6229e16154eeac95",
+          "spotifyUrl": "https://open.spotify.com/track/6qGW82sW2VGV3Gl4OtjKm0",
+          "previewUrl": "https://p.scdn.co/mp3-preview/076cf1a99e9748ea9999ad77c75220d98028dc52"
+        },
+        {
+          "id": "115uLxYahOiTmTwskqw8J6",
+          "title": "Love Can't Hold",
+          "artist": "Soji, Adi.",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738503a9345a9ba131d87840cd",
+          "spotifyUrl": "https://open.spotify.com/track/115uLxYahOiTmTwskqw8J6",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b527738a1c90b4f18caa314865a4e74a7057d0b9"
+        },
+        {
+          "id": "1LX9m3xuNJvTNGCcXlgSOD",
+          "title": "To Where and Where From",
+          "artist": "Sophia St. Helen",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734ff59a266d61f8c3059d857a",
+          "spotifyUrl": "https://open.spotify.com/track/1LX9m3xuNJvTNGCcXlgSOD",
+          "previewUrl": "https://p.scdn.co/mp3-preview/88686b95a43019b000a97497b7eb840e23b2492f"
+        },
+        {
+          "id": "2or2AibuoQJ9aJF0Ae9k6a",
+          "title": "Red Flag",
+          "artist": "Priyanka Nath",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b55fdb362be16d090e162ed7",
+          "spotifyUrl": "https://open.spotify.com/track/2or2AibuoQJ9aJF0Ae9k6a",
+          "previewUrl": "https://p.scdn.co/mp3-preview/92894615c5968e929dfb64078c3690759bf2bd95"
+        },
+        {
+          "id": "7mYEYvpOp49czRGOlQus9F",
+          "title": "I Saw You in a Dream",
+          "artist": "Rono",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d7fb5fdd7506d981f659bfb6",
+          "spotifyUrl": "https://open.spotify.com/track/7mYEYvpOp49czRGOlQus9F",
+          "previewUrl": "https://p.scdn.co/mp3-preview/621722114f572d837cefcf8c36c99e48c483b592"
+        },
+        {
+          "id": "2xo4P7bOqBdlUNl4UpKZDh",
+          "title": "Wyd?",
+          "artist": "Evad",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273eb19df336e4cec1a3c4d6cc4",
+          "spotifyUrl": "https://open.spotify.com/track/2xo4P7bOqBdlUNl4UpKZDh",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f0a53ed6f0de37ca4f39aedb3e9a28b1d13d3575"
+        },
+        {
+          "id": "1Hk0LY5jLAcriVV1nRYOlg",
+          "title": "Ghost",
+          "artist": "Parekh & Singh",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2735f7dae50a0cef9706d76effa",
+          "spotifyUrl": "https://open.spotify.com/track/1Hk0LY5jLAcriVV1nRYOlg",
+          "previewUrl": "https://p.scdn.co/mp3-preview/6e6711fafe060d50e990f4491bfcd1fc1a62beef"
+        },
+        {
+          "id": "2ND8gHcSdiXH2rZx82qzqu",
+          "title": "Some Kind Of Nothing",
+          "artist": "Tejas",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273c8a79dc2f62f0b3a2cc168af",
+          "spotifyUrl": "https://open.spotify.com/track/2ND8gHcSdiXH2rZx82qzqu",
+          "previewUrl": "https://p.scdn.co/mp3-preview/835660698682b381327088f9a04a6ea3798ba545"
+        },
+        {
+          "id": "7IOtQ9RY4lxyz2bo1tGzdQ",
+          "title": "Butterflies",
+          "artist": "Axale",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d6be502ae218a196aa857107",
+          "spotifyUrl": "https://open.spotify.com/track/7IOtQ9RY4lxyz2bo1tGzdQ",
+          "previewUrl": null
+        },
+        {
+          "id": "5h6Y6JBcZRKXKsumrSTdeJ",
+          "title": "Something",
+          "artist": "Soham",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273bb696f0c2bb518b998f33d4d",
+          "spotifyUrl": "https://open.spotify.com/track/5h6Y6JBcZRKXKsumrSTdeJ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/12baa9b5443a5857b57fa60befe33c3c00428f2b"
+        }
+      ]
+    },
+    {
+      "id": "1UH5r9N65GxnyLYUufe39C",
+      "name": "My 2024 Playlist in a Bottle",
+      "description": "A musical time capsule from the past has been unsealed…!",
+      "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840e6f48765e40fa46d2401e9c",
+      "tracks": [
+        {
+          "id": "2nCnDh5TvuW6l0SJVYfex8",
+          "title": "Ningi Chutte",
+          "artist": "Vijay Yesudas",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a1abb42c05900d816e43f203",
+          "spotifyUrl": "https://open.spotify.com/track/2nCnDh5TvuW6l0SJVYfex8",
+          "previewUrl": "https://p.scdn.co/mp3-preview/6c858422239506da19c9be2170d7c6cbb09e19b0"
+        },
+        {
+          "id": "1Y0S1FwDVaIYI9l9ekESgS",
+          "title": "Neetho",
+          "artist": "The Non Violinist Project, Gowtham Bharadwaj",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273dbe16ccc9aec0c2ddf2333d5",
+          "spotifyUrl": "https://open.spotify.com/track/1Y0S1FwDVaIYI9l9ekESgS",
+          "previewUrl": "https://p.scdn.co/mp3-preview/2f959a630f42dc300cc0c77d431c7acda1e874e5"
+        },
+        {
+          "id": "19O4hCGGm95UhvIyhwnNT5",
+          "title": "Thooriga - From \"Navarasa\"",
+          "artist": "Karthik",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273801e07e01d372aa56a5a79da",
+          "spotifyUrl": "https://open.spotify.com/track/19O4hCGGm95UhvIyhwnNT5",
+          "previewUrl": "https://p.scdn.co/mp3-preview/e74c0023f6a0abe668a0f4ab2eb6ae663f33863c"
+        },
+        {
+          "id": "7dnhO67Hcn0tGsQTvc3UhP",
+          "title": "The Guntur Song",
+          "artist": "Anurag Kulkarni",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273458b9eb50f28febd7db5ee33",
+          "spotifyUrl": "https://open.spotify.com/track/7dnhO67Hcn0tGsQTvc3UhP",
+          "previewUrl": "https://p.scdn.co/mp3-preview/10aa43cb92cce1ffceaac76bb47303c0a50ad3eb"
+        },
+        {
+          "id": "1C2gJaINSao4GEXySYopiS",
+          "title": "Violin Song",
+          "artist": "David Simon, Anitha",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a20aa340e07cef068abdf127",
+          "spotifyUrl": "https://open.spotify.com/track/1C2gJaINSao4GEXySYopiS",
+          "previewUrl": "https://p.scdn.co/mp3-preview/128b3df3608e0708287b148bdca51bc20263b943"
+        },
+        {
+          "id": "0xeTu8dm7tQPZ7wPSUB36J",
+          "title": "Madhura Madhuratara",
+          "artist": "Unnikrishnan, Harini, Chorus",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27304184a53782c3af388c41402",
+          "spotifyUrl": "https://open.spotify.com/track/0xeTu8dm7tQPZ7wPSUB36J",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b3d12331c3aac803826498b542702041a3f4e6a8"
+        },
+        {
+          "id": "1rpjw2ZXeQGoWMviHSCR64",
+          "title": "Suicide by Star",
+          "artist": "God Is An Astronaut",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273f682220fac054e88a347a243",
+          "spotifyUrl": "https://open.spotify.com/track/1rpjw2ZXeQGoWMviHSCR64",
+          "previewUrl": "https://p.scdn.co/mp3-preview/e32fedb7c8bfba82a0c15687092b3327b3828b97"
+        },
+        {
+          "id": "2vTxrp9YapZL3fM637K0lt",
+          "title": "The Person Is The Loser",
+          "artist": "Yuvan Shankar Raja",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2731d95a687101bd4cd802c83a1",
+          "spotifyUrl": "https://open.spotify.com/track/2vTxrp9YapZL3fM637K0lt",
+          "previewUrl": "https://p.scdn.co/mp3-preview/47f096f2fcaf52c68e584b3f23155491d70a449f"
+        },
+        {
+          "id": "2rTmVSZOPnS9jrgcl6EjV0",
+          "title": "Urumulu Nimuvvalai",
+          "artist": "Rajesh, Sujatha",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273103434c71c81e9d3ba3a1b98",
+          "spotifyUrl": "https://open.spotify.com/track/2rTmVSZOPnS9jrgcl6EjV0",
+          "previewUrl": "https://p.scdn.co/mp3-preview/83602956375ea94e8c5a2cf5d30b996f7d24f4e4"
+        },
+        {
+          "id": "7o6iBqzR1iIN8X2IpvLmVw",
+          "title": "Vachhe Vachhe",
+          "artist": "Shreya Ghoshal",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e663b699b3fc4f8260b609d2",
+          "spotifyUrl": "https://open.spotify.com/track/7o6iBqzR1iIN8X2IpvLmVw",
+          "previewUrl": "https://p.scdn.co/mp3-preview/aa1feac235f92e76bf707c8b9103881726272cb2"
+        },
+        {
+          "id": "68jAWzBHHWuU4ppA8sGV45",
+          "title": "Yedho Adaganaa",
+          "artist": "A.R. Rahman, Shashaa Tirupati, Sathyaprakash",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273fa7c94dc1c4f95c7b1ac5db8",
+          "spotifyUrl": "https://open.spotify.com/track/68jAWzBHHWuU4ppA8sGV45",
+          "previewUrl": "https://p.scdn.co/mp3-preview/4a9289872ffa3e2e6ad645003ebeb632e881f0f5"
+        }
+      ]
+    },
+    {
+      "id": "3E2r9WGe4Npg9tQyBS8HQM",
+      "name": "beat",
+      "description": "",
+      "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846e46568595dd6ba59b2edad9",
+      "tracks": [
+        {
+          "id": "3dHP1GUSR19PB1baWz37LN",
+          "title": "Golden Sparrow (From \"Nilavuku En Mel Ennadi Kobam\")",
+          "artist": "G. V. Prakash, Arivu, Dhanush, Sublahshini",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730293196a78af553107bccba1",
+          "spotifyUrl": "https://open.spotify.com/track/3dHP1GUSR19PB1baWz37LN",
+          "previewUrl": "https://p.scdn.co/mp3-preview/04caa554e3ad8f34429ebd6e2f5683982c9f387f"
+        },
+        {
+          "id": "29pAyddDSBoe263eYEqsLF",
+          "title": "Garam Garam",
+          "artist": "Jakes Bejoy, Vishal Dadlani, Sanapati Bharadwaj Patrudu",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730188dda95e6624e9c665beb5",
+          "spotifyUrl": "https://open.spotify.com/track/29pAyddDSBoe263eYEqsLF",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a60d53a48de95075f8fac48b1370334ef99457b5"
+        },
+        {
+          "id": "6RUA84fCWd7hqtmofzU6l3",
+          "title": "Daavudi (From \"Devara Part 1\")",
+          "artist": "Nakash Aziz, AKASA, Anirudh Ravichander",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273c55f82e66732fdf3f600dce7",
+          "spotifyUrl": "https://open.spotify.com/track/6RUA84fCWd7hqtmofzU6l3",
+          "previewUrl": "https://p.scdn.co/mp3-preview/e64bbfd28608d12d1093c4411d3ba639741f6d06"
+        },
+        {
+          "id": "319PvQH5BrvxcKyCahSWTe",
+          "title": "Drama Nakko Mama (From \"Mathu Vadalara 2\")",
+          "artist": "Kala Bhairava, Faria Abdullah",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d1521f6d0e3f62dd73a69db0",
+          "spotifyUrl": "https://open.spotify.com/track/319PvQH5BrvxcKyCahSWTe",
+          "previewUrl": "https://p.scdn.co/mp3-preview/11276c696222cc001d65edb62065cf07c8050ab8"
+        },
+        {
+          "id": "6b2WJDzGt5X8dYfpkWtvXW",
+          "title": "Fear Song (From \"Devara Part 1\") [Telugu]",
+          "artist": "Anirudh Ravichander, Ramajogayya Sastry",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738591a24a47e09545b988f9b2",
+          "spotifyUrl": "https://open.spotify.com/track/6b2WJDzGt5X8dYfpkWtvXW",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b0ffdd9a12a9fb27e55d69bee5a473e62e21563e"
+        },
+        {
+          "id": "2gZhC7hZddyvgYZpNvYy9s",
+          "title": "Ek Baar",
+          "artist": "Devi Sri Prasad, Ranina Reddy, Sreemani",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2735e9865e5af7f8aec5535fd41",
+          "spotifyUrl": "https://open.spotify.com/track/2gZhC7hZddyvgYZpNvYy9s",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a953043096cc67f91d3852da27c908cb898c3734"
+        },
+        {
+          "id": "1g9V1QE7vbeAx5Xm04DfLi",
+          "title": "Odiyamma (From \"Hi Nanna\") [TELUGU]",
+          "artist": "Dhruv Vikram, Shruti Haasan, Chinmayi",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d84e64d1b61248cc16dc5efd",
+          "spotifyUrl": "https://open.spotify.com/track/1g9V1QE7vbeAx5Xm04DfLi",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ec2543bb42be3c6ee8652e551fda98d83bf0913e"
+        },
+        {
+          "id": "427vYGziAj3zhPTwKJWHG3",
+          "title": "Chal Maar",
+          "artist": "Nakash Aziz",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b5f31ce8841fd272eb537a32",
+          "spotifyUrl": "https://open.spotify.com/track/427vYGziAj3zhPTwKJWHG3",
+          "previewUrl": "https://p.scdn.co/mp3-preview/bbc2377bf63c3402217bade0cf2230605a33e333"
+        },
+        {
+          "id": "5Pqv6e52EWyqxeNyFYqDni",
+          "title": "Ayudha Pooja [TELUGU]",
+          "artist": "Kala Bhairava, Anirudh Ravichander, Ramajogayya Sastry",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ace943da67db014bbcbbf1c1",
+          "spotifyUrl": "https://open.spotify.com/track/5Pqv6e52EWyqxeNyFYqDni",
+          "previewUrl": "https://p.scdn.co/mp3-preview/7a7fe6b0b6cfb22cc5d8d4ff2bc6831579ddd16e"
+        },
+        {
+          "id": "16tASLkTEeWEbGt2NTrlFM",
+          "title": "Rangamma Mangamma",
+          "artist": "M.M.Manasi, Devi Sri Prasad, Chandra Bose",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730ffbb81ba20ec43e7fc1db84",
+          "spotifyUrl": "https://open.spotify.com/track/16tASLkTEeWEbGt2NTrlFM",
+          "previewUrl": "https://p.scdn.co/mp3-preview/c53b009cdbc80ce11bf6d6d77ff723d4048c358e"
+        },
+        {
+          "id": "7KB0zREYCrQU3refE5x0M3",
+          "title": "Manasilaayo (From \"Vettaiyan\")",
+          "artist": "Anirudh Ravichander, Malaysia Vasudevan, Deepthi Suresh, Yugendran Vasudevan",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d8f0656fd16c02091de43d35",
+          "spotifyUrl": "https://open.spotify.com/track/7KB0zREYCrQU3refE5x0M3",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a3056ba06c12f6bcd6532c3032eef8c550bd038e"
+        },
+        {
+          "id": "4K4gYMKbZFMKh4ePHzXTQu",
+          "title": "Vayari Bhama",
+          "artist": "Ramana Gogula",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273887caff5008a7f93a6d3e117",
+          "spotifyUrl": "https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu",
+          "previewUrl": "https://p.scdn.co/mp3-preview/0bb1b79bbe52d9bc325b4d8ad84f3c934ee34e8d"
+        },
+        {
+          "id": "3Hgg1fyZFaVXFbR9RTpAAU",
+          "title": "Run Run",
+          "artist": "Apache Indian, Sharmila",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a20aa340e07cef068abdf127",
+          "spotifyUrl": "https://open.spotify.com/track/3Hgg1fyZFaVXFbR9RTpAAU",
+          "previewUrl": "https://p.scdn.co/mp3-preview/3af241c3200fd2b23c644df89a00cef0aa54d468"
+        },
+        {
+          "id": "07lpPIARsOE1O2Baub2Td0",
+          "title": "Chick Chiklet",
+          "artist": "Baba Sehgal, Sujatha",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2732f494aa6794d94eea192784f",
+          "spotifyUrl": "https://open.spotify.com/track/07lpPIARsOE1O2Baub2Td0",
+          "previewUrl": "https://p.scdn.co/mp3-preview/463da35eb8e9bf072392d08af4879575051e8065"
+        },
+        {
+          "id": "41u3Ot7v45WlA5a4sV42Li",
+          "title": "Dhop (From \"Game Changer\") (Telugu)",
+          "artist": "Thaman S, Roshini JKV, Prudhvi Chandra, Sruthi Ranjani, Saraswati Putra Ramajogayya Sastry",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273601b3fc81453c38b2568857e",
+          "spotifyUrl": "https://open.spotify.com/track/41u3Ot7v45WlA5a4sV42Li",
+          "previewUrl": "https://p.scdn.co/mp3-preview/1981358726cebfc2f76d7e717c5f550210889375"
+        },
+        {
+          "id": "1uQU9b93tlMlMoZ0h2bRgf",
+          "title": "Sithira Puthiri - From \"Think Indie\"",
+          "artist": "Sai Abhyankkar, Vivek",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273478f243c557031f035f9a804",
+          "spotifyUrl": "https://open.spotify.com/track/1uQU9b93tlMlMoZ0h2bRgf",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ad579fca481fb03091d0c47a04b8b238c04d48d8"
+        },
+        {
+          "id": "0KI7IWhPBmzM4x059v5W6d",
+          "title": "Neeli Meghamulalo",
+          "artist": "Vivek Sagar, Prithvi Harish, Bharadwaj Gali",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738f1fde28952b8b91dba5a9e6",
+          "spotifyUrl": "https://open.spotify.com/track/0KI7IWhPBmzM4x059v5W6d",
+          "previewUrl": "https://p.scdn.co/mp3-preview/9f732727cabaf05ade378497ef8aca4fee1570f8"
+        },
+        {
+          "id": "2JlzHPGIVaLNAppX1viq7f",
+          "title": "Kanimaa (From \"Retro\")",
+          "artist": "Santhosh Narayanan, The Indian Choral Ensemble, Vivek",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273116633561ca7705cdbcc9656",
+          "spotifyUrl": "https://open.spotify.com/track/2JlzHPGIVaLNAppX1viq7f",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a6ddaec77b13d778e91288f4d026722ed3ff3c8a"
+        },
+        {
+          "id": "3lLX2Vm99sMD5kuZqnr2T0",
+          "title": "Firestorm (From \"They Call Him OG\")",
+          "artist": "Thaman S, Silambarasan TR, Raja Kumari, Deepak Blue",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730032557fb23d93d49955a498",
+          "spotifyUrl": "https://open.spotify.com/track/3lLX2Vm99sMD5kuZqnr2T0",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f21e65a21a96a0b0fbe81a7e29157182b84c0a2e"
+        },
+        {
+          "id": "538V6gFAnhcLZrg6I8lIMI",
+          "title": "Hungry Cheetah (From \"They Call Him OG\")",
+          "artist": "Thaman S, Raghu Ram",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27378178cf1c904a66f08d30b8c",
+          "spotifyUrl": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI",
+          "previewUrl": "https://p.scdn.co/mp3-preview/2e001d573d3e29a498ea526846e5a320d7415f67"
+        },
+        {
+          "id": "361FMJC5uRSXzato4NE5Zg",
+          "title": "Og Sambavam (From \"Good Bad Ugly\")",
+          "artist": "G. V. Prakash, Adhik Ravi Chandran, Vishnu Edavan",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734e2fc4e9342592b98bab3e3d",
+          "spotifyUrl": "https://open.spotify.com/track/361FMJC5uRSXzato4NE5Zg",
+          "previewUrl": "https://p.scdn.co/mp3-preview/d4a11d96a297cd64c98d73fe45cfa8631794f632"
+        },
+        {
+          "id": "6PuGOIAMLdSBOsxxQz7PHm",
+          "title": "Up To No Good",
+          "artist": "D'Angello & Francis",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2737570f7a935900bc3b7fd08e8",
+          "spotifyUrl": "https://open.spotify.com/track/6PuGOIAMLdSBOsxxQz7PHm",
+          "previewUrl": "https://p.scdn.co/mp3-preview/267a5aeec7936a4b862b1e42a244a64011ea2c21"
+        }
+      ]
+    },
+    {
+      "id": "7vpmwrn2kgoawqFHhgOuZF",
+      "name": "Old is Gold'uuu🎶",
+      "description": "",
+      "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84cb485fbe2b94ae926ff44487",
+      "tracks": [
+        {
+          "id": "4tLyUzTCQMZshwcIrKHy0L",
+          "title": "Karulo Shikaru",
+          "artist": "Ghantasala",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736459bb17472c42278408ef4c",
+          "spotifyUrl": "https://open.spotify.com/track/4tLyUzTCQMZshwcIrKHy0L",
+          "previewUrl": "https://p.scdn.co/mp3-preview/87072aeb0f1d4fd814dacc1b6124447e8e867188"
+        },
+        {
+          "id": "3AbxgsYRFyr6ycX60IeduW",
+          "title": "Nannu Dochu Kunduvatey",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738274e24f17d0f01d6853a787",
+          "spotifyUrl": "https://open.spotify.com/track/3AbxgsYRFyr6ycX60IeduW",
+          "previewUrl": "https://p.scdn.co/mp3-preview/8358a1d50bdced0fff6939f5ea0f984265e695c0"
+        },
+        {
+          "id": "1vMD6qBlSfJHjfvce2oVKm",
+          "title": "Kalavaramaaye Madhilo",
+          "artist": "Ghantasala, P. Leela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27305ca339df1750b97acce74a6",
+          "spotifyUrl": "https://open.spotify.com/track/1vMD6qBlSfJHjfvce2oVKm",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f6a0e24453126cb1334d4366c9251d98c2a3af8b"
+        },
+        {
+          "id": "5DyDMr5MocpUiAJH1jgKxV",
+          "title": "Neevena Nanu Thalachinadhi",
+          "artist": "Ghantasala, P. Leela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27354e865c211e926fcf239150c",
+          "spotifyUrl": "https://open.spotify.com/track/5DyDMr5MocpUiAJH1jgKxV",
+          "previewUrl": "https://p.scdn.co/mp3-preview/4ab01eda5b587ac04608c3a12055d04ef83d1d72"
+        },
+        {
+          "id": "14R77qMIUuOFcMeB4urTzM",
+          "title": "Yechati Nundi Veecheno",
+          "artist": "Ghantasala, P. Leela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27354a2e1322304654c0df4b129",
+          "spotifyUrl": "https://open.spotify.com/track/14R77qMIUuOFcMeB4urTzM",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ae87c43171732b37f0d12b06739354e3b060b236"
+        },
+        {
+          "id": "384D9ksCZRAxXMXhfbRUgb",
+          "title": "Repanti Roopamkanti",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b2c641305a4834a6d1f3ad69",
+          "spotifyUrl": "https://open.spotify.com/track/384D9ksCZRAxXMXhfbRUgb",
+          "previewUrl": "https://p.scdn.co/mp3-preview/9074032d3ca03deabe8ab2cd7ae91e5689bf7f9d"
+        },
+        {
+          "id": "5RBceglFmwnOSreyERPFOs",
+          "title": "Chigurakulalo Chilakamma",
+          "artist": "Ghantasala, Jikki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273dba0e54de0b5953034997576",
+          "spotifyUrl": "https://open.spotify.com/track/5RBceglFmwnOSreyERPFOs",
+          "previewUrl": "https://p.scdn.co/mp3-preview/1cc923a27c091eba3a88f271d307adf6aec41a7e"
+        },
+        {
+          "id": "0tKqt3grdfpNohaxHZXjDh",
+          "title": "Andaala O Chilakaa",
+          "artist": "P. B. Sreenivas, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273725a67d82623bd99eb17edbf",
+          "spotifyUrl": "https://open.spotify.com/track/0tKqt3grdfpNohaxHZXjDh",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5f15abaf7b09dabeab22e4af73981aa8c44483db"
+        },
+        {
+          "id": "1ig7f5DgBgLkKU9SuDkwzq",
+          "title": "Theta Theta Telugula",
+          "artist": "Ghantasala",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a2587c583f6c4fd3904af417",
+          "spotifyUrl": "https://open.spotify.com/track/1ig7f5DgBgLkKU9SuDkwzq",
+          "previewUrl": "https://p.scdn.co/mp3-preview/11842cc772517dee30104783a7cca6809e73e166"
+        },
+        {
+          "id": "5TgDbbDAkHEZPDm8bA4XLe",
+          "title": "Akasa Veedhilo",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27314a73146b9999775c5f7aac1",
+          "spotifyUrl": "https://open.spotify.com/track/5TgDbbDAkHEZPDm8bA4XLe",
+          "previewUrl": "https://p.scdn.co/mp3-preview/39b2b75401d90bcdf2cb9fe80b91dcbd79fd294d"
+        },
+        {
+          "id": "3GvkDoDgpGzzUaqSL442By",
+          "title": "Manasunamallela",
+          "artist": "Bhanumathi Ramakrishna",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ba58e252d747f7ab0eb01c9e",
+          "spotifyUrl": "https://open.spotify.com/track/3GvkDoDgpGzzUaqSL442By",
+          "previewUrl": "https://p.scdn.co/mp3-preview/90e0ff1282593094ee50a57703b921ccf927770b"
+        },
+        {
+          "id": "1MmTGZEJpa9xt14so21Wmp",
+          "title": "Manasuna Manasai",
+          "artist": "Ghantasala",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273aa1bba6a985a25d13a7c24b8",
+          "spotifyUrl": "https://open.spotify.com/track/1MmTGZEJpa9xt14so21Wmp",
+          "previewUrl": "https://p.scdn.co/mp3-preview/94af4f9ec1ceb7548d0d6384b781580874c34b1d"
+        },
+        {
+          "id": "3yky2GTYhDXT5FRe0zbEHh",
+          "title": "Mama Chandamama",
+          "artist": "S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273455e58387c81f2700cd164e7",
+          "spotifyUrl": "https://open.spotify.com/track/3yky2GTYhDXT5FRe0zbEHh",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ff29c91bb38d434a68007d2c9f6b089859f63fec"
+        },
+        {
+          "id": "2Z2wDSppRSqwir0nqH4N2i",
+          "title": "Kallalo Vunnadedo",
+          "artist": "S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273179e702ddb87a312731305df",
+          "spotifyUrl": "https://open.spotify.com/track/2Z2wDSppRSqwir0nqH4N2i",
+          "previewUrl": "https://p.scdn.co/mp3-preview/89334410ff91b7b110e7fbd4d27b9efb281d672f"
+        },
+        {
+          "id": "3jidECzoOHP3dPbc8bnlEf",
+          "title": "Aligina Velane",
+          "artist": "P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736ffdc5ba11490eb0b5a745fd",
+          "spotifyUrl": "https://open.spotify.com/track/3jidECzoOHP3dPbc8bnlEf",
+          "previewUrl": "https://p.scdn.co/mp3-preview/7e79d08e97c2940da9c7734af4a74b0037877887"
+        },
+        {
+          "id": "1X9vDwFvEWJZtheDISHi7K",
+          "title": "Entha Haayi Ee Reyi",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736ffdc5ba11490eb0b5a745fd",
+          "spotifyUrl": "https://open.spotify.com/track/1X9vDwFvEWJZtheDISHi7K",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f964f11e0772f7eb4ad0ce6e1e257e46d3189c4b"
+        },
+        {
+          "id": "78hSx1GvGUbOrE5LZRWJLL",
+          "title": "Naa Hrudayamlo",
+          "artist": "Ghantasala",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2739ec77ac74522eea543bb63cd",
+          "spotifyUrl": "https://open.spotify.com/track/78hSx1GvGUbOrE5LZRWJLL",
+          "previewUrl": "https://p.scdn.co/mp3-preview/c066bcd4535e2c56c27e3a55ddca81c331669f89"
+        },
+        {
+          "id": "0dQmpPba0fjeuf9Jz8w6wk",
+          "title": "Oohalu Gusa Gusalade",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b0a33386ba2303710d692bd0",
+          "spotifyUrl": "https://open.spotify.com/track/0dQmpPba0fjeuf9Jz8w6wk",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a805bc71164f800aaba846b7fc0e79031034893b"
+        },
+        {
+          "id": "7GdpzzBl4TPYlXvwjctXv1",
+          "title": "Ee Reyi Theeyanidhi",
+          "artist": "P. Susheela, S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d24aa8c893309bc2ac150378",
+          "spotifyUrl": "https://open.spotify.com/track/7GdpzzBl4TPYlXvwjctXv1",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5df1538b765906a4399052d9f3d96d795a6d9024"
+        },
+        {
+          "id": "1jam86q6JVKGUCb1NPqUdF",
+          "title": "Neevuleka Veena",
+          "artist": "P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273aa1bba6a985a25d13a7c24b8",
+          "spotifyUrl": "https://open.spotify.com/track/1jam86q6JVKGUCb1NPqUdF",
+          "previewUrl": "https://p.scdn.co/mp3-preview/22d94290e29a2819a8a9dba950d136b1570bc61d"
+        },
+        {
+          "id": "4ST1xChWbbJnwFyn5VKoaI",
+          "title": "Mallelu Kurisina Challani",
+          "artist": "Ghantasala, S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736f5ebaebb2b8e61ee97e5911",
+          "spotifyUrl": "https://open.spotify.com/track/4ST1xChWbbJnwFyn5VKoaI",
+          "previewUrl": "https://p.scdn.co/mp3-preview/c333294aa035412c41109a84c17322e59e81d3d8"
+        },
+        {
+          "id": "3STEn5WqJ5xYqP342FGYwZ",
+          "title": "Adagaka Ichchina",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b0ce73fe164291ef50a6fecd",
+          "spotifyUrl": "https://open.spotify.com/track/3STEn5WqJ5xYqP342FGYwZ",
+          "previewUrl": "https://p.scdn.co/mp3-preview/65c10eaa08d591c8d452289a8cf128c48d6acc7d"
+        },
+        {
+          "id": "5sGgDl8iUeCow9NQ3DqMxv",
+          "title": "Goronka Gootike",
+          "artist": "Ghantasala",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b0ce73fe164291ef50a6fecd",
+          "spotifyUrl": "https://open.spotify.com/track/5sGgDl8iUeCow9NQ3DqMxv",
+          "previewUrl": "https://p.scdn.co/mp3-preview/cbd5b08fa1fea8594cf2f7b950a93cf9718717cd"
+        },
+        {
+          "id": "58C3iVlghD5TFdTzMAjrbE",
+          "title": "Neeli Meghalalo",
+          "artist": "P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2733ed28689ec24c00093cf94e0",
+          "spotifyUrl": "https://open.spotify.com/track/58C3iVlghD5TFdTzMAjrbE",
+          "previewUrl": "https://p.scdn.co/mp3-preview/70d18bf711f573331de1dd7cc1924dad63b195c3"
+        },
+        {
+          "id": "6SWCyvjLJuTKEgsrYNMeEV",
+          "title": "Malliyalaara",
+          "artist": "Ghantasala",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273411f4c45dec06054e641e2d2",
+          "spotifyUrl": "https://open.spotify.com/track/6SWCyvjLJuTKEgsrYNMeEV",
+          "previewUrl": "https://p.scdn.co/mp3-preview/663d04fd6254846f459669ab236145c66405960d"
+        },
+        {
+          "id": "7qVvea0MLwxVoAeWqxe0Ls",
+          "title": "Avune Thaane Nannene",
+          "artist": "P. Susheela, S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27305f57a8291951f222c3be210",
+          "spotifyUrl": "https://open.spotify.com/track/7qVvea0MLwxVoAeWqxe0Ls",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a1caef2d9f07aa97b76b9686a5cf1d8746f4b9c6"
+        },
+        {
+          "id": "4grdvEadMM04vW7VZa02Is",
+          "title": "Oho Basthi Dorasani",
+          "artist": "Ghantasala, Jikki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2735a490d03ced098f928edad25",
+          "spotifyUrl": "https://open.spotify.com/track/4grdvEadMM04vW7VZa02Is",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b59aa63a4f779baeaee1ecf8fe2b0c7234d43989"
+        },
+        {
+          "id": "6r2e5nM6GUAFGUob2TMsco",
+          "title": "Oho Meghamaala",
+          "artist": "Ghantasala, P. Leela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27355c191b9314dc40e5546d7e9",
+          "spotifyUrl": "https://open.spotify.com/track/6r2e5nM6GUAFGUob2TMsco",
+          "previewUrl": "https://p.scdn.co/mp3-preview/42053af5fa75e9b00ec34f54df34747fc02c1a34"
+        },
+        {
+          "id": "208vVadNToC5VzfHI2jFFr",
+          "title": "Aakasa Veedhilo Haayiga",
+          "artist": "Bhanumathi Ramakrishna, Ghantasala",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273fc9b79a47e384f28b49cb66d",
+          "spotifyUrl": "https://open.spotify.com/track/208vVadNToC5VzfHI2jFFr",
+          "previewUrl": "https://p.scdn.co/mp3-preview/c98615d382fc4d3fa003c13b6400f706aa741d36"
+        },
+        {
+          "id": "2krT1aOTeje4mIgr9cwmXY",
+          "title": "Andame Anandam",
+          "artist": "Ghantasala",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273da567ddf006ac80d68114043",
+          "spotifyUrl": "https://open.spotify.com/track/2krT1aOTeje4mIgr9cwmXY",
+          "previewUrl": "https://p.scdn.co/mp3-preview/fff2e98c8b59f24ad0d8e234dd193861a6b787cf"
+        },
+        {
+          "id": "2Z1pVxh5QDJYpp7I1JS0DN",
+          "title": "Raavoyi Chanamama - Chandamma",
+          "artist": "A. M. Rajah, P. Leela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ac29c6338f0bca9d730edac9",
+          "spotifyUrl": "https://open.spotify.com/track/2Z1pVxh5QDJYpp7I1JS0DN",
+          "previewUrl": "https://p.scdn.co/mp3-preview/6bccd02f0f501f25a24475600c19591b7077d39c"
+        },
+        {
+          "id": "6lfBtuv9V1OIQJs2ixIkrN",
+          "title": "Kanulu Kanulatho",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e047386583d972d618d65c29",
+          "spotifyUrl": "https://open.spotify.com/track/6lfBtuv9V1OIQJs2ixIkrN",
+          "previewUrl": "https://p.scdn.co/mp3-preview/6773a652f45952abdf87a213deb84eab657b254d"
+        },
+        {
+          "id": "0hXQ20vXPiehqf1E2sksDM",
+          "title": "Oohalu Gusa Gusalade",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738e505c9337956c94c220e775",
+          "spotifyUrl": "https://open.spotify.com/track/0hXQ20vXPiehqf1E2sksDM",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a805bc71164f800aaba846b7fc0e79031034893b"
+        },
+        {
+          "id": "3E2z2iwDYDt0wLL4jeTQoo",
+          "title": "Neevena Nanu Thalachinadhi",
+          "artist": "Ghantasala, P. Leela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734a9794c2791f73a486a13220",
+          "spotifyUrl": "https://open.spotify.com/track/3E2z2iwDYDt0wLL4jeTQoo",
+          "previewUrl": "https://p.scdn.co/mp3-preview/4ab01eda5b587ac04608c3a12055d04ef83d1d72"
+        },
+        {
+          "id": "1V6yUx6I0J6FaC88gycSZP",
+          "title": "Pagale Vennela",
+          "artist": "S. Rajeswara Rao, S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2732ae1bcd5ab7249d2d61e82b4",
+          "spotifyUrl": "https://open.spotify.com/track/1V6yUx6I0J6FaC88gycSZP",
+          "previewUrl": "https://p.scdn.co/mp3-preview/0cf87cda6b86d6e263a5ffb8b396130def06076c"
+        },
+        {
+          "id": "3FEYK3cJ9OKYemkYZIGops",
+          "title": "Neevuleka Veena",
+          "artist": "S. Rajeswara Rao, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2737b61f50d92b2c9e6c38fdaca",
+          "spotifyUrl": "https://open.spotify.com/track/3FEYK3cJ9OKYemkYZIGops",
+          "previewUrl": "https://p.scdn.co/mp3-preview/22d94290e29a2819a8a9dba950d136b1570bc61d"
+        },
+        {
+          "id": "3oDagAytgxL3EgkjJimAWc",
+          "title": "Entha Haayi Ee Reyi",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2731ab8dad5662ef30f673f2768",
+          "spotifyUrl": "https://open.spotify.com/track/3oDagAytgxL3EgkjJimAWc",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f964f11e0772f7eb4ad0ce6e1e257e46d3189c4b"
+        },
+        {
+          "id": "3E8HqRgszcx9iimZCzt8m2",
+          "title": "Nee Madhi Challagaa (From \"Dhanamma! Dhaivamaa!\")",
+          "artist": "P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27359ba4a212115400a3671c724",
+          "spotifyUrl": "https://open.spotify.com/track/3E8HqRgszcx9iimZCzt8m2",
+          "previewUrl": "https://p.scdn.co/mp3-preview/14b7ee2935b926ca1a43b58746af01177552f792"
+        },
+        {
+          "id": "25ieA4RNN5GcvbPQtrVsfh",
+          "title": "Ee Reyi Theeyanidhi",
+          "artist": "P. Susheela, S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273c1db3e82aa18e42d810f951a",
+          "spotifyUrl": "https://open.spotify.com/track/25ieA4RNN5GcvbPQtrVsfh",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5df1538b765906a4399052d9f3d96d795a6d9024"
+        },
+        {
+          "id": "1OIiyCTGGEuX1SOjyXik3t",
+          "title": "Kushi Kushiga Navvutu",
+          "artist": "S. Rajeswara Rao, Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27311d297221efb14d250aa9a92",
+          "spotifyUrl": "https://open.spotify.com/track/1OIiyCTGGEuX1SOjyXik3t",
+          "previewUrl": "https://p.scdn.co/mp3-preview/aa79e67dc78ef896bbb5932d9a964d3c6b0e55c6"
+        },
+        {
+          "id": "1o4Z8z5hI6eYFNdHHppVCl",
+          "title": "Nannu Dochu Kunduvatey",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273656c1d8ca531eb1f4aed3f3d",
+          "spotifyUrl": "https://open.spotify.com/track/1o4Z8z5hI6eYFNdHHppVCl",
+          "previewUrl": "https://p.scdn.co/mp3-preview/8358a1d50bdced0fff6939f5ea0f984265e695c0"
+        },
+        {
+          "id": "28KsbvUcKe4bWN1GdEgKYN",
+          "title": "Thotalo Naraju",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734f02a8df9e91243abc41e7b1",
+          "spotifyUrl": "https://open.spotify.com/track/28KsbvUcKe4bWN1GdEgKYN",
+          "previewUrl": "https://p.scdn.co/mp3-preview/264a79c872161196e04c84a9301038bcf05e4af0"
+        },
+        {
+          "id": "2bTbqrBnOFZIKsoawifuoN",
+          "title": "Sakhiya Vivarinchave",
+          "artist": "P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27341e33364555ae71007570617",
+          "spotifyUrl": "https://open.spotify.com/track/2bTbqrBnOFZIKsoawifuoN",
+          "previewUrl": "https://p.scdn.co/mp3-preview/39d1513f8d38b8310788625eb5eb8e49e49812f0"
+        },
+        {
+          "id": "1EKRahFTEFI17cy9E4x8TY",
+          "title": "Entha Ghaatu Premayo",
+          "artist": "Ghantasala, P. Leela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27305ca339df1750b97acce74a6",
+          "spotifyUrl": "https://open.spotify.com/track/1EKRahFTEFI17cy9E4x8TY",
+          "previewUrl": "https://p.scdn.co/mp3-preview/320af37b8a0c36d14ae17f51d1361c24865066b0"
+        },
+        {
+          "id": "3MliD8dtC1lmvpXwMI2efq",
+          "title": "Aakasam Nee Haddura",
+          "artist": "S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27316ae5f6554f1a36ddfa18574",
+          "spotifyUrl": "https://open.spotify.com/track/3MliD8dtC1lmvpXwMI2efq",
+          "previewUrl": "https://p.scdn.co/mp3-preview/364fd3afa42098a3b236276c3de616a7560acae7"
+        },
+        {
+          "id": "7EMgApWbeSguUoByL3IP1k",
+          "title": "Neevu Leka Nenu Lenu",
+          "artist": "S. P. Balasubrahmanyam, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b791ac63ed56b6ce140fddaf",
+          "spotifyUrl": "https://open.spotify.com/track/7EMgApWbeSguUoByL3IP1k",
+          "previewUrl": "https://p.scdn.co/mp3-preview/130c5c1d6f43929fe8a7388c48cbbfcc568b3d99"
+        },
+        {
+          "id": "5AYepXwQkImClvYDw7l2J6",
+          "title": "Kolu Koloyamma",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736ffdc5ba11490eb0b5a745fd",
+          "spotifyUrl": "https://open.spotify.com/track/5AYepXwQkImClvYDw7l2J6",
+          "previewUrl": "https://p.scdn.co/mp3-preview/d5caae5f74753886185a8f7ae20dccb61adaae9b"
+        },
+        {
+          "id": "1gjGBHo6nSGKpR37DTE1BV",
+          "title": "Bhal Bhale Andhaalu",
+          "artist": "Ghantasala",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27334380b8af079a73e525808e0",
+          "spotifyUrl": "https://open.spotify.com/track/1gjGBHo6nSGKpR37DTE1BV",
+          "previewUrl": "https://p.scdn.co/mp3-preview/6719ebbd224189046cca55bc37f6c6fa755f7fef"
+        },
+        {
+          "id": "4CwvnFkKQb65JVpRLxoTV5",
+          "title": "Ye Theega Poovvuno",
+          "artist": "Kamal Haasan, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2737700ec77d36272735a3fce31",
+          "spotifyUrl": "https://open.spotify.com/track/4CwvnFkKQb65JVpRLxoTV5",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a5fca34d8164336e10ea8357bdf9dbbe2af9945c"
+        },
+        {
+          "id": "67Fg9R16q3wecq4MMxG4ZD",
+          "title": "Pilichina Palukavu",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27384d932fe55001cd34d607f8f",
+          "spotifyUrl": "https://open.spotify.com/track/67Fg9R16q3wecq4MMxG4ZD",
+          "previewUrl": "https://p.scdn.co/mp3-preview/581a14036eaed50b5f080ba207618d0dbcbfbc54"
+        },
+        {
+          "id": "2p98SSAz4iPjqTkhBTHi2O",
+          "title": "Seethalu Singaram",
+          "artist": "S. P. Balasubrahmanyam, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a29423c11ab726957d5c9e95",
+          "spotifyUrl": "https://open.spotify.com/track/2p98SSAz4iPjqTkhBTHi2O",
+          "previewUrl": "https://p.scdn.co/mp3-preview/09c01da018dc46d0ed2766d504fe2bcfaed0a93a"
+        },
+        {
+          "id": "4c7NHdz4t6DiBZWRMZDFYr",
+          "title": "Vaanochche Varadochche",
+          "artist": "S. P. Balasubrahmanyam, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273003c5e31ea3152808fe267cc",
+          "spotifyUrl": "https://open.spotify.com/track/4c7NHdz4t6DiBZWRMZDFYr",
+          "previewUrl": "https://p.scdn.co/mp3-preview/d28057653af91bc65156efe9a60a2a6e44b6a698"
+        },
+        {
+          "id": "16cgqEoRPp8vghG6Ovs1LC",
+          "title": "Neeli Meghaalalo - 1961",
+          "artist": "S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e7b6f18e337380347735284b",
+          "spotifyUrl": "https://open.spotify.com/track/16cgqEoRPp8vghG6Ovs1LC",
+          "previewUrl": "https://p.scdn.co/mp3-preview/9773a31bf3eb7d0557383e1f250c58bb1a315f50"
+        },
+        {
+          "id": "22zHP7eW6VsnXQe61cZZsV",
+          "title": "Chinni O Chinni",
+          "artist": "S. P. Balasubrahmanyam, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2735814633961aa6617465d72bd",
+          "spotifyUrl": "https://open.spotify.com/track/22zHP7eW6VsnXQe61cZZsV",
+          "previewUrl": "https://p.scdn.co/mp3-preview/923dab5ae10d836059039cf87b31ab3880d6711d"
+        },
+        {
+          "id": "07eMvER8JtfoZCc49oYlps",
+          "title": "Pachchagaddi Koseti",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734f9c272a633135560f293b66",
+          "spotifyUrl": "https://open.spotify.com/track/07eMvER8JtfoZCc49oYlps",
+          "previewUrl": "https://p.scdn.co/mp3-preview/219f725e40364096cdc12dd2667c1eae35533151"
+        },
+        {
+          "id": "1Ez37AUWQiwZWy3KB5hQJx",
+          "title": "Devude Ichchadu",
+          "artist": "K. J. Yesudas",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273179e702ddb87a312731305df",
+          "spotifyUrl": "https://open.spotify.com/track/1Ez37AUWQiwZWy3KB5hQJx",
+          "previewUrl": "https://p.scdn.co/mp3-preview/16896bba687ea6f32cc6be542018e1be28c07e19"
+        },
+        {
+          "id": "5Uab6M3OeU5aMrbPxkbWBm",
+          "title": "Kadaveththu Kochchindhi",
+          "artist": "Ghantasala, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a2587c583f6c4fd3904af417",
+          "spotifyUrl": "https://open.spotify.com/track/5Uab6M3OeU5aMrbPxkbWBm",
+          "previewUrl": "https://p.scdn.co/mp3-preview/00528bcfd4c5a18608e7f15d05c0715f89228876"
+        },
+        {
+          "id": "4fSr0rXhqXokOagdYoAbYY",
+          "title": "Navvutho Brathakaalira",
+          "artist": "S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b7079d76895f8831aa31cfe5",
+          "spotifyUrl": "https://open.spotify.com/track/4fSr0rXhqXokOagdYoAbYY",
+          "previewUrl": "https://p.scdn.co/mp3-preview/93beae7c60369cb827e27b29a91acb36bc6f89e3"
+        },
+        {
+          "id": "70ZUb6iEzl6VPupnzdLTOu",
+          "title": "Edo Edo Annadi",
+          "artist": "V. Ramakrishna",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b48daab51028b17a930bdfc0",
+          "spotifyUrl": "https://open.spotify.com/track/70ZUb6iEzl6VPupnzdLTOu",
+          "previewUrl": "https://p.scdn.co/mp3-preview/27fcd4d3789586b5744a3c181a868389beb78bc0"
+        },
+        {
+          "id": "2vXm9CtcV592L6BxlTbpmj",
+          "title": "Malle Pandiri Needalona",
+          "artist": "P. Susheela",
+          "albumCover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273d357a7b288bc56f6d7c938b5",
+          "spotifyUrl": "https://open.spotify.com/track/2vXm9CtcV592L6BxlTbpmj",
+          "previewUrl": "https://p.scdn.co/mp3-preview/54a45569a97858a95c9cf1f56c004e86b8733fe5"
+        }
+      ]
+    },
+    {
+      "id": "7LtaSOZCGWNpJ4Iwgw4Sl2",
+      "name": "My 2022 Wrapped 🎁",
+      "description": "",
+      "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f2f41a5ac9bd9b8e50fac6b0",
+      "tracks": [
+        {
+          "id": "50i41WJTqejE4ryYM4ibVE",
+          "title": "Keeravani",
+          "artist": "S. P. Balasubrahmanyam, S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273295a286a073fe8ecdae8fc44",
+          "spotifyUrl": "https://open.spotify.com/track/50i41WJTqejE4ryYM4ibVE",
+          "previewUrl": "https://p.scdn.co/mp3-preview/9393a5875feb714d2bd27c22c03590b4d819fd8d"
+        },
+        {
+          "id": "4BHYJiAqyqGtN267ypm1ke",
+          "title": "Naatu Naatu",
+          "artist": "Rahul Sipligunj, Kala Bhairava, M. M. Keeravaani, Chandra Bose",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273986bf39ca5e79a279309d5ee",
+          "spotifyUrl": "https://open.spotify.com/track/4BHYJiAqyqGtN267ypm1ke",
+          "previewUrl": "https://p.scdn.co/mp3-preview/4fcc28433faf5ee1845f51415afa1ec0f86cf99e"
+        },
+        {
+          "id": "7A3HdpivKNGgTW2Bo3udV8",
+          "title": "Nuvvunte",
+          "artist": "Sagar, Sumangaly",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2733ebb4410105d65623a262774",
+          "spotifyUrl": "https://open.spotify.com/track/7A3HdpivKNGgTW2Bo3udV8",
+          "previewUrl": "https://p.scdn.co/mp3-preview/fc63d7d31d7f12e6ccab64253f91adafcccf1ab1"
+        },
+        {
+          "id": "1RlETOQUfMeUmsuchNOaZL",
+          "title": "Balapam Patti",
+          "artist": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273653a32c6d600d6a439cc1aa5",
+          "spotifyUrl": "https://open.spotify.com/track/1RlETOQUfMeUmsuchNOaZL",
+          "previewUrl": "https://p.scdn.co/mp3-preview/29c1737591ba030b6810cb1651161f65ac9c9b52"
+        },
+        {
+          "id": "66TfyLaNcKQ58nlBXjqslY",
+          "title": "Oho Laila",
+          "artist": "S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2735af41ccd8f11b889f2b760ff",
+          "spotifyUrl": "https://open.spotify.com/track/66TfyLaNcKQ58nlBXjqslY",
+          "previewUrl": "https://p.scdn.co/mp3-preview/3ae167269ce8ac8f5832750be01bbbf1fffb1f9f"
+        },
+        {
+          "id": "19O4hCGGm95UhvIyhwnNT5",
+          "title": "Thooriga - From \"Navarasa\"",
+          "artist": "Karthik",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273801e07e01d372aa56a5a79da",
+          "spotifyUrl": "https://open.spotify.com/track/19O4hCGGm95UhvIyhwnNT5",
+          "previewUrl": "https://p.scdn.co/mp3-preview/e74c0023f6a0abe668a0f4ab2eb6ae663f33863c"
+        },
+        {
+          "id": "3sziCSQnR8SbnuQ7N9OE8H",
+          "title": "Yamaha Nagari",
+          "artist": "Hariharan",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736209953e62cf19c7d3e5968b",
+          "spotifyUrl": "https://open.spotify.com/track/3sziCSQnR8SbnuQ7N9OE8H",
+          "previewUrl": "https://p.scdn.co/mp3-preview/db8989c6b537bc2c6a9d3a4f11535139146fef9b"
+        },
+        {
+          "id": "4BBwON1XG02S4cpYrV10u2",
+          "title": "Darshana - From \"Hridayam\"",
+          "artist": "Hesham Abdul Wahab, Darshana Rajendran, Arun Alat",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273438f187fe7b0c5d05ffc8dcb",
+          "spotifyUrl": "https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2",
+          "previewUrl": "https://p.scdn.co/mp3-preview/91e68c738623aafa33a6d81e61d10860c3ffc173"
+        },
+        {
+          "id": "03puqRZHmxyRgX2c1onu84",
+          "title": "Manasuna Mansuga",
+          "artist": "Hariharan, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736390f9664559c1bc58fc3ebc",
+          "spotifyUrl": "https://open.spotify.com/track/03puqRZHmxyRgX2c1onu84",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b7dc98256498e71765ba5196beb873cbc6a74c43"
+        },
+        {
+          "id": "6LQbRgUVxDBza0aIIysXhL",
+          "title": "Chukklau Themmana",
+          "artist": "Mano, Chitra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2737f6e0305080eed990af9898b",
+          "spotifyUrl": "https://open.spotify.com/track/6LQbRgUVxDBza0aIIysXhL",
+          "previewUrl": "https://p.scdn.co/mp3-preview/7ce53dcbdfe76bd2cfe9aad17149d1a06b202706"
+        },
+        {
+          "id": "6GbObXudr6oFWk8FdHHLeh",
+          "title": "Saana Kastam",
+          "artist": "L. V. Revanth, Geetha Madhuri",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e4990e3cc3baf205896fd439",
+          "spotifyUrl": "https://open.spotify.com/track/6GbObXudr6oFWk8FdHHLeh",
+          "previewUrl": "https://p.scdn.co/mp3-preview/074a77d2619ddf73b686b3b4e1300187111ad8d0"
+        },
+        {
+          "id": "1Y0S1FwDVaIYI9l9ekESgS",
+          "title": "Neetho",
+          "artist": "The Non Violinist Project, Gowtham Bharadwaj",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273dbe16ccc9aec0c2ddf2333d5",
+          "spotifyUrl": "https://open.spotify.com/track/1Y0S1FwDVaIYI9l9ekESgS",
+          "previewUrl": "https://p.scdn.co/mp3-preview/2f959a630f42dc300cc0c77d431c7acda1e874e5"
+        },
+        {
+          "id": "5NirwhIPeJZWVB6or4j9z1",
+          "title": "Aakanulal",
+          "artist": "S. P. Balasubrahmanyam, S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273336a3e9f64883d8ce4450217",
+          "spotifyUrl": "https://open.spotify.com/track/5NirwhIPeJZWVB6or4j9z1",
+          "previewUrl": "https://p.scdn.co/mp3-preview/86fde2138840b291360ed6c776f79cc8b7d2ea89"
+        },
+        {
+          "id": "1rJmySqUrHQP0O4l1JX8E9",
+          "title": "Rooba Rooba",
+          "artist": "Shahil Hada, Chinmayi",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736ff0ae5db5266feff0d5dbb9",
+          "spotifyUrl": "https://open.spotify.com/track/1rJmySqUrHQP0O4l1JX8E9",
+          "previewUrl": "https://p.scdn.co/mp3-preview/47e2a23f7fb83135fef5de1eec4660a1f0843564"
+        },
+        {
+          "id": "2WNkeWfXnpCbYtTG1ko0C3",
+          "title": "Sirivennela",
+          "artist": "Mickey J. Meyer, Anurag Kulkarni",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27325b9d98d87e3e91003c5a015",
+          "spotifyUrl": "https://open.spotify.com/track/2WNkeWfXnpCbYtTG1ko0C3",
+          "previewUrl": "https://p.scdn.co/mp3-preview/5c03cc55c6b236dbe9c70f8d849312b93868756e"
+        },
+        {
+          "id": "4MWuBYhub2GlcbgrZefsg7",
+          "title": "Alaipongeraa",
+          "artist": "Kalyani Menon, Harini, Kalpana Patowary",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2732d7fc39c701a7630f2bb0b97",
+          "spotifyUrl": "https://open.spotify.com/track/4MWuBYhub2GlcbgrZefsg7",
+          "previewUrl": "https://p.scdn.co/mp3-preview/28ec86abf4f0cf43e0df5e0ac56988d0bcbf3c64"
+        },
+        {
+          "id": "6FG2m8U2dF8KZwJFJEwKHx",
+          "title": "Subhalekha",
+          "artist": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27397a950f04b8122538e26caba",
+          "spotifyUrl": "https://open.spotify.com/track/6FG2m8U2dF8KZwJFJEwKHx",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b6ec80a0ec835303422e8a1b6569ce45066faf20"
+        },
+        {
+          "id": "7AT9jIs9H7tFjxEXmilL94",
+          "title": "Manavyalakinchara (Mist of Capricorn)",
+          "artist": "Agam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273680f76a52baeb784c60cbc8d",
+          "spotifyUrl": "https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94",
+          "previewUrl": "https://p.scdn.co/mp3-preview/74d62a44fd91e7c14e90080eb67afb30a67b5cd8"
+        },
+        {
+          "id": "1JkSiGGPZzSJ6MlTNn1zsb",
+          "title": "Naa Kanulu Yepudu",
+          "artist": "Sid Sriram",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734983ded9d12ed4f37a6a5ed2",
+          "spotifyUrl": "https://open.spotify.com/track/1JkSiGGPZzSJ6MlTNn1zsb",
+          "previewUrl": "https://p.scdn.co/mp3-preview/6e2b33cf75d1c20ea845fdd22e05b303088622ff"
+        },
+        {
+          "id": "69qYaWssICBZIbhryZ5VSb",
+          "title": "Aaskasam Eenatido",
+          "artist": "S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e5e65707700ade55c694ebea",
+          "spotifyUrl": "https://open.spotify.com/track/69qYaWssICBZIbhryZ5VSb",
+          "previewUrl": "https://p.scdn.co/mp3-preview/32e08e8f2a1ceba37cb07fdbf64a47cf34243c6c"
+        },
+        {
+          "id": "5ek8QI89akgYp8V5XyqRPD",
+          "title": "Nee Andam",
+          "artist": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e651e4f1769265863fd14a10",
+          "spotifyUrl": "https://open.spotify.com/track/5ek8QI89akgYp8V5XyqRPD",
+          "previewUrl": "https://p.scdn.co/mp3-preview/baf71f54cc7ff543adb466ad48bca6e5bf9486fc"
+        },
+        {
+          "id": "3coQRnyKFsgxSMLBahwqwh",
+          "title": "Nagaadaarilo",
+          "artist": "Varam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273c147ea221768e35c47594dba",
+          "spotifyUrl": "https://open.spotify.com/track/3coQRnyKFsgxSMLBahwqwh",
+          "previewUrl": null
+        },
+        {
+          "id": "6DFXFqK5PTGqTzTbdj47uV",
+          "title": "Leharaayi",
+          "artist": "Sid Sriram",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273fa62d9aa0b4e20d3ff05a3cb",
+          "spotifyUrl": "https://open.spotify.com/track/6DFXFqK5PTGqTzTbdj47uV",
+          "previewUrl": "https://p.scdn.co/mp3-preview/4e53a65e4cf28755f75bfa54b0fa42fb46004813"
+        },
+        {
+          "id": "1llCrHsp3meUV30YTiTwpY",
+          "title": "Premante",
+          "artist": "Devan Ekambaram, Kalpana Patowary, Samatha Fernander",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273062bfa2611d7f39ba9cc7e1e",
+          "spotifyUrl": "https://open.spotify.com/track/1llCrHsp3meUV30YTiTwpY",
+          "previewUrl": "https://p.scdn.co/mp3-preview/63973aed51fbee74200e95b675560ade1d6bcab8"
+        },
+        {
+          "id": "4ADmVZKScgWTaBfP0k77eA",
+          "title": "Andalalo",
+          "artist": "S. P. Balasubrahmanyam, S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273189bf533b670eb9ee54ad15f",
+          "spotifyUrl": "https://open.spotify.com/track/4ADmVZKScgWTaBfP0k77eA",
+          "previewUrl": "https://p.scdn.co/mp3-preview/fac40b8619e38803e8b599205cb28cab83059c37"
+        },
+        {
+          "id": "68jAWzBHHWuU4ppA8sGV45",
+          "title": "Yedho Adaganaa",
+          "artist": "A.R. Rahman, Shashaa Tirupati, Sathyaprakash",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273fa7c94dc1c4f95c7b1ac5db8",
+          "spotifyUrl": "https://open.spotify.com/track/68jAWzBHHWuU4ppA8sGV45",
+          "previewUrl": "https://p.scdn.co/mp3-preview/4a9289872ffa3e2e6ad645003ebeb632e881f0f5"
+        },
+        {
+          "id": "3EH8MdPuKqhbjgLqJe5W79",
+          "title": "Muddabanti Puvvulo",
+          "artist": "K. J. Yesudas, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730daf2b57e0725a68329e34ae",
+          "spotifyUrl": "https://open.spotify.com/track/3EH8MdPuKqhbjgLqJe5W79",
+          "previewUrl": "https://p.scdn.co/mp3-preview/deeba7f33e29f9fd0b85c5b7725903210db4b035"
+        },
+        {
+          "id": "15VhrOnyIebxei4gzZbiBA",
+          "title": "Aakasa Ganga",
+          "artist": "Karthik",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734fd303ffd024f2a7863120b5",
+          "spotifyUrl": "https://open.spotify.com/track/15VhrOnyIebxei4gzZbiBA",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a9b2916263bd1ab7a4afc63913501923dffbf2e3"
+        },
+        {
+          "id": "3ncNP7wNX7J0iHTjkmVEsV",
+          "title": "Hallo Guru",
+          "artist": "S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2735fb865f309e7cfd43e5fb8b3",
+          "spotifyUrl": "https://open.spotify.com/track/3ncNP7wNX7J0iHTjkmVEsV",
+          "previewUrl": "https://p.scdn.co/mp3-preview/50b10822a397450fa1cedac744c6b53607996ce5"
+        },
+        {
+          "id": "5RJb4ZBgdJBOZe5Fx2aDWo",
+          "title": "Ela Ela Naalo",
+          "artist": "Haricharan, Swetha",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273cea64c408a084f910414cda4",
+          "spotifyUrl": "https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo",
+          "previewUrl": "https://p.scdn.co/mp3-preview/66ac277efc817d907a33c257742e17a57e5c5a20"
+        },
+        {
+          "id": "4M8dRVFWKMfh7hPzGCYxra",
+          "title": "Poovullo Daagunna",
+          "artist": "Unnikrishnan, Sujatha",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2731ed35599afe8b2671ab2ff6f",
+          "spotifyUrl": "https://open.spotify.com/track/4M8dRVFWKMfh7hPzGCYxra",
+          "previewUrl": "https://p.scdn.co/mp3-preview/d4ba60bd97ed0aeed959c9ed2aa4900404b8019e"
+        },
+        {
+          "id": "0zUBxl0qjuLwwUPUbZkjEG",
+          "title": "Neelambari",
+          "artist": "Anurag Kulkarni, Ramya Behara",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2738fafeeb8e1c6b982825f8310",
+          "spotifyUrl": "https://open.spotify.com/track/0zUBxl0qjuLwwUPUbZkjEG",
+          "previewUrl": "https://p.scdn.co/mp3-preview/c65f4c24c620cdfcbb8c95b17513ae0fa7c579ef"
+        },
+        {
+          "id": "02jifrdeifqCX4WfrBaiDn",
+          "title": "Kontegadni Kattuko",
+          "artist": "S. P. Balasubrahmanyam, S. Janaki",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734195b7d118719dd869bc1173",
+          "spotifyUrl": "https://open.spotify.com/track/02jifrdeifqCX4WfrBaiDn",
+          "previewUrl": "https://p.scdn.co/mp3-preview/6dcfa2236de6630d6496a573cfd0b1cd9d31c12c"
+        },
+        {
+          "id": "0XjNgd6mx3M6ODT2twYdeA",
+          "title": "Pataku Pranam",
+          "artist": "KK, Swarnalatha",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d947c61ced236aa2d5f712b7",
+          "spotifyUrl": "https://open.spotify.com/track/0XjNgd6mx3M6ODT2twYdeA",
+          "previewUrl": "https://p.scdn.co/mp3-preview/8d27a28e4312b8562dfe0770ab6ce8c4a0c5c133"
+        },
+        {
+          "id": "6fu3TjL7ylRMd8l48IuwjN",
+          "title": "Usure Poyene",
+          "artist": "A.R. Rahman, Karthik",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2731ab0ef008a882b682c049d6d",
+          "spotifyUrl": "https://open.spotify.com/track/6fu3TjL7ylRMd8l48IuwjN",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a11614b699e034996875f61b1ea19f570b649907"
+        },
+        {
+          "id": "7o6iBqzR1iIN8X2IpvLmVw",
+          "title": "Vachhe Vachhe",
+          "artist": "Shreya Ghoshal",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e663b699b3fc4f8260b609d2",
+          "spotifyUrl": "https://open.spotify.com/track/7o6iBqzR1iIN8X2IpvLmVw",
+          "previewUrl": "https://p.scdn.co/mp3-preview/aa1feac235f92e76bf707c8b9103881726272cb2"
+        },
+        {
+          "id": "1JGqtoauAg8VvcaCziht76",
+          "title": "Swathilo Muthyamantha",
+          "artist": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27370c14d38e7b98e481a31e4bf",
+          "spotifyUrl": "https://open.spotify.com/track/1JGqtoauAg8VvcaCziht76",
+          "previewUrl": "https://p.scdn.co/mp3-preview/09eeb34a2907d16a357f337588484300a407e4da"
+        },
+        {
+          "id": "7mNQwVYgoB3mtjkjCKsbXM",
+          "title": "Hoyna Hoyna",
+          "artist": "Anirudh Ravichander, Inno Genga, Anantha Sriram",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27300f99b341fd422763ff87533",
+          "spotifyUrl": "https://open.spotify.com/track/7mNQwVYgoB3mtjkjCKsbXM",
+          "previewUrl": "https://p.scdn.co/mp3-preview/91b31afca5c4d612272ff9a08e1554dbbd01e0b1"
+        },
+        {
+          "id": "1HobaVS51OdBZqNmqt1TX7",
+          "title": "Kaatuka Kanule (From \"Aakaasam Nee Haddhu Ra\")",
+          "artist": "G. V. Prakash, Dhee, Bhaskarabhatla",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273ddbcf55ea12e5996c7ad0fce",
+          "spotifyUrl": "https://open.spotify.com/track/1HobaVS51OdBZqNmqt1TX7",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ee68426ea08b8e350edb941c161d9b1bd7000564"
+        },
+        {
+          "id": "1C2gJaINSao4GEXySYopiS",
+          "title": "Violin Song",
+          "artist": "David Simon, Anitha",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a20aa340e07cef068abdf127",
+          "spotifyUrl": "https://open.spotify.com/track/1C2gJaINSao4GEXySYopiS",
+          "previewUrl": "https://p.scdn.co/mp3-preview/128b3df3608e0708287b148bdca51bc20263b943"
+        },
+        {
+          "id": "6qr9d3B4CSQbnSVYR7z2f2",
+          "title": "Kolu Kolu (From \"Virataparvam\")",
+          "artist": "Divya Malika, Suresh Bobbili",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2736e02e07229e4b7cfc0f37f6c",
+          "spotifyUrl": "https://open.spotify.com/track/6qr9d3B4CSQbnSVYR7z2f2",
+          "previewUrl": "https://p.scdn.co/mp3-preview/128fac13b19441bc7db0c34fb336834c7a971828"
+        },
+        {
+          "id": "6fpSooPteGw4lZnBOgVQAq",
+          "title": "Chittemma",
+          "artist": "Anirudh Ravichander, Jonita Gandhi, Srinivasa Moorthy",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a86cbb1cf7f9c9044f925c4a",
+          "spotifyUrl": "https://open.spotify.com/track/6fpSooPteGw4lZnBOgVQAq",
+          "previewUrl": "https://p.scdn.co/mp3-preview/dd0e31ccb232cd4b14d9ef680236ce13fdf8e850"
+        },
+        {
+          "id": "1iyWzBAthsLghPEvAC4Aup",
+          "title": "Nee Kannulu",
+          "artist": "Rahul Sipligunj",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27335c81a6d49702abbf9125a6d",
+          "spotifyUrl": "https://open.spotify.com/track/1iyWzBAthsLghPEvAC4Aup",
+          "previewUrl": "https://p.scdn.co/mp3-preview/b8df4be11be3c472455a7d9619dff3629f1727de"
+        },
+        {
+          "id": "2B5ovomAAUAZtLGArf4wdw",
+          "title": "La La Bheemla",
+          "artist": "Arun Kaundinya",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2737cd7220ff1dd35ce6d35b1a7",
+          "spotifyUrl": "https://open.spotify.com/track/2B5ovomAAUAZtLGArf4wdw",
+          "previewUrl": "https://p.scdn.co/mp3-preview/31535fdc8671cccba3e3c0d3009acdbbf48359c6"
+        },
+        {
+          "id": "4SuPGTvtwdDq9UWXNj8iOd",
+          "title": "Vaalu Kanuladaanaa",
+          "artist": "Unni Menon",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2732cc07ba62b8b18f6bc6571ce",
+          "spotifyUrl": "https://open.spotify.com/track/4SuPGTvtwdDq9UWXNj8iOd",
+          "previewUrl": "https://p.scdn.co/mp3-preview/a75d0776efde04184bd73f04ebff8ca770574f4e"
+        },
+        {
+          "id": "5G3QnNugyM4TorQpczWXgS",
+          "title": "Oh Vaana Padithe",
+          "artist": "Sujatha, Malaysia Vasudevan",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27384351604b643064b97982db5",
+          "spotifyUrl": "https://open.spotify.com/track/5G3QnNugyM4TorQpczWXgS",
+          "previewUrl": "https://p.scdn.co/mp3-preview/acd971e811a6c84a9af6784ace0609137fcd1714"
+        },
+        {
+          "id": "4rGlN9rz3MEMls3a76mMfV",
+          "title": "Padana Teeyaga",
+          "artist": "S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273d947c61ced236aa2d5f712b7",
+          "spotifyUrl": "https://open.spotify.com/track/4rGlN9rz3MEMls3a76mMfV",
+          "previewUrl": "https://p.scdn.co/mp3-preview/fed87c9d91dd5e00f4c0a266836a949b749d7042"
+        },
+        {
+          "id": "0KvNhrpa4kcfw7pWS5Qt75",
+          "title": "Rocketry's Shri Venkatesa Suprabatham",
+          "artist": "Vikram Pitty, Vignesh R, L Venkataramanan, Nikhil Shankar, Sai Vignesh",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273fa0f70e413c18e01a0b2b3c1",
+          "spotifyUrl": "https://open.spotify.com/track/0KvNhrpa4kcfw7pWS5Qt75",
+          "previewUrl": "https://p.scdn.co/mp3-preview/eac9689244974d7cc263105a940b02c1caea2582"
+        },
+        {
+          "id": "5uWWbI8ovzoaBO8cRifcvN",
+          "title": "Full Kick",
+          "artist": "Devi Sri Prasad, Sagar, Mamta Sharma",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27367569f6d1c0bf74151a4a22a",
+          "spotifyUrl": "https://open.spotify.com/track/5uWWbI8ovzoaBO8cRifcvN",
+          "previewUrl": "https://p.scdn.co/mp3-preview/319ad83c4f00f629a506057391fc6c31dd5aa591"
+        },
+        {
+          "id": "0fb1PMDfxtOdU0tMD4JlRg",
+          "title": "Badhulu Thochanai",
+          "artist": "Karthik, Mallikarjun",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273723c541e574b10a500d22e4d",
+          "spotifyUrl": "https://open.spotify.com/track/0fb1PMDfxtOdU0tMD4JlRg",
+          "previewUrl": "https://p.scdn.co/mp3-preview/0c6bcdcc93786daea2d85421b3d628a72699ee2c"
+        },
+        {
+          "id": "532d4D6JnluiSPuhZri64q",
+          "title": "Vidhatha Talapuna",
+          "artist": "S. P. Balasubrahmanyam, P. Susheela",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273549b5a030577870a3fcc9313",
+          "spotifyUrl": "https://open.spotify.com/track/532d4D6JnluiSPuhZri64q",
+          "previewUrl": "https://p.scdn.co/mp3-preview/f180380aac44b371c7027d0c7bb96c06bf009083"
+        },
+        {
+          "id": "7yPeu0DTn2eWgO2FmHCks0",
+          "title": "Nelluri Nerajana",
+          "artist": "Hariharan, Mahalakshmi Iyer",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273cc80e0929aaf40074133684e",
+          "spotifyUrl": "https://open.spotify.com/track/7yPeu0DTn2eWgO2FmHCks0",
+          "previewUrl": "https://p.scdn.co/mp3-preview/57bf93b63956affd3f0ed64a9c44d2efc8e27950"
+        },
+        {
+          "id": "06zDtXbVc9gnMHirrt6i99",
+          "title": "Pilla Puli",
+          "artist": "G. V. Prakash, Anurag Kulkarni",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2735083cba7723220dbff9302cf",
+          "spotifyUrl": "https://open.spotify.com/track/06zDtXbVc9gnMHirrt6i99",
+          "previewUrl": "https://p.scdn.co/mp3-preview/e3659e312d3d12a7b7074ffd6f4d8395a40617b2"
+        },
+        {
+          "id": "2rTmVSZOPnS9jrgcl6EjV0",
+          "title": "Urumulu Nimuvvalai",
+          "artist": "Rajesh, Sujatha",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273103434c71c81e9d3ba3a1b98",
+          "spotifyUrl": "https://open.spotify.com/track/2rTmVSZOPnS9jrgcl6EjV0",
+          "previewUrl": "https://p.scdn.co/mp3-preview/83602956375ea94e8c5a2cf5d30b996f7d24f4e4"
+        },
+        {
+          "id": "4kFWnmg8m3F5sWCsLZbxad",
+          "title": "Tella Cheeraku",
+          "artist": "S. P. Balasubrahmanyam, Lata Mangeshkar",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2734ba7d17cfbfdb49ea37d0205",
+          "spotifyUrl": "https://open.spotify.com/track/4kFWnmg8m3F5sWCsLZbxad",
+          "previewUrl": "https://p.scdn.co/mp3-preview/cc774fb3eaaaea825ee217b61c351c9a8a0ad99f"
+        },
+        {
+          "id": "3QyicuTmZEWO1hU3c3QbW6",
+          "title": "Priya Priyathama",
+          "artist": "Mano, Chitra",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273a697ca6e67867fc2f2b47db1",
+          "spotifyUrl": "https://open.spotify.com/track/3QyicuTmZEWO1hU3c3QbW6",
+          "previewUrl": "https://p.scdn.co/mp3-preview/438e77065eb9aa46f8df9ce2be0b83bb245994d4"
+        },
+        {
+          "id": "2YmXGUx32C3CUEgcAyHcGf",
+          "title": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
+          "artist": "Devi Sri Prasad, Sid Sriram, Chandra Bose",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273b53d8029dc2d52bd0384d922",
+          "spotifyUrl": "https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf",
+          "previewUrl": "https://p.scdn.co/mp3-preview/dd9270a033eef4c9068870137df0e91fe217d451"
+        },
+        {
+          "id": "08Zh9GFP2TKItpgcfRSHUV",
+          "title": "Vennelave Vennelave",
+          "artist": "Hariharan, Sadhana Sargam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b27384351604b643064b97982db5",
+          "spotifyUrl": "https://open.spotify.com/track/08Zh9GFP2TKItpgcfRSHUV",
+          "previewUrl": "https://p.scdn.co/mp3-preview/bb975c123692986bbe8a974a9a0ffbd5ac6e49a9"
+        },
+        {
+          "id": "6wNOBns27jTxzjf6n9mQIP",
+          "title": "Mate Rani",
+          "artist": "S. P. Balasubrahmanyam",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b273e3409c3ea876e9d4ef8e64bb",
+          "spotifyUrl": "https://open.spotify.com/track/6wNOBns27jTxzjf6n9mQIP",
+          "previewUrl": "https://p.scdn.co/mp3-preview/6a67c681300dc2002ca4fa071d73563b34d51a76"
+        },
+        {
+          "id": "6rcTPn1CwOyuskilY12IqL",
+          "title": "Laahe Laahe",
+          "artist": "Mani Sharma, Harika Narayan, Sahithi Chaganti",
+          "albumCover": "https://i.scdn.co/image/ab67616d0000b2730e64f00243bb4c71cb7874bc",
+          "spotifyUrl": "https://open.spotify.com/track/6rcTPn1CwOyuskilY12IqL",
+          "previewUrl": "https://p.scdn.co/mp3-preview/ab05ff2f8e8be19b2a87eb6dca83e2e288d707d4"
+        }
+      ]
+    }
+  ]
+}
