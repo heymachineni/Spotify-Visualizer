@@ -1,8 +1,9 @@
 /**
  * GLSL shaders for the Spotify visualizer.
- * Vertex: calm vertical + depth field; only subtle X drift (no wide lateral
- * wrap). Fragment: precomposed card atlas (cover + label + glass). Pick:
- * same atlas for alpha, encodes `aInstanceId` in RGB.
+ * Vertex: horizontal + vertical infinite wrap via drag (`uDrag`), depth field
+ * from scroll (`uScrollY`) — aligned with J0SUKE/spotify-visualiser's vertex
+ * field; adds depth-based XY scale, pointer hover, and selection. Fragment:
+ * precomposed card atlas. Pick encodes `aInstanceId` in RGB.
  */
 
 export const visualizerVertexShader = /* glsl */ `
@@ -31,6 +32,7 @@ varying vec4 vTextureCoords;
 varying float vInstanceId;
 varying float vLightMul;
 varying float vBloomSharp;
+varying float vHover;
 
 float remap(float value, float originMin, float originMax) {
   return clamp((value - originMin) / (originMax - originMin), 0.0, 1.0);
@@ -42,21 +44,26 @@ void main() {
   float maxX = uMaxXdisplacement.x;
   float maxY = uMaxXdisplacement.y;
 
+  float maxXoffset = distance(aInitialPosition.x, maxX);
+  float minXoffset = distance(aInitialPosition.x, -maxX);
+
   float maxYoffset = distance(aInitialPosition.y, maxY);
   float minYoffset = distance(aInitialPosition.y, -maxY);
 
-  // Vertical wrap + drag (keeps continuous vertical field)
-  float yDisplacement = mod(minYoffset - uDrag.y, maxYoffset + minYoffset) - minYoffset;
+  // Horizontal wrap + drag + per-instance drift (J0SUKE/spotify-visualiser)
+  float xDisplacement =
+    mod(
+      minXoffset - uDrag.x + uTime * aMeshSpeed,
+      maxXoffset + minXoffset
+    ) -
+    minXoffset;
 
-  // No wide lateral mod() sweep. Only subtle organic X drift.
-  float xDrift =
-    sin(uTime * 0.095 + aInitialPosition.x * 0.012) * maxX * 0.022
-    + sin(uTime * 0.071 + aInitialPosition.y * 0.01 + aMeshSpeed) * maxX * 0.012;
-  newPosition.x += xDrift;
-  newPosition.x -= uDrag.x * 0.1;
+  // Vertical wrap + drag
+  float yDisplacement =
+    mod(minYoffset - uDrag.y, maxYoffset + minYoffset) - minYoffset;
 
+  newPosition.x += xDisplacement;
   newPosition.y += yDisplacement;
-
   float maxZ = 8.0;
   float minZ = -18.0;
   float zSpan = maxZ - minZ;
@@ -104,6 +111,7 @@ void main() {
 
   vLightMul = br;
   vBloomSharp = isSel * uSelectStrength;
+  vHover = hov;
   vVisibility = remap(newPosition.z, minZ, minZ + 5.0);
 
   vec4 modelPosition = modelMatrix * instanceMatrix * vec4(newPosition, 1.0);
@@ -124,6 +132,7 @@ varying vec4 vTextureCoords;
 varying float vInstanceId;
 varying float vLightMul;
 varying float vBloomSharp;
+varying float vHover;
 
 uniform sampler2D uAtlas;
 uniform sampler2D uBlurryAtlas;
@@ -141,10 +150,13 @@ void main() {
 
   vec4 color = texture2D(uAtlas, atlasUV);
   vec4 bloomed = texture2D(uBlurryAtlas, atlasUV);
-  float bMix = mix(0.28, 0.16, vBloomSharp);
+  float hoverGlow = clamp(vHover, 0.0, 1.0);
+  float bMix = mix(0.28, 0.16, vBloomSharp) + hoverGlow * 0.42;
+  bMix = clamp(bMix, 0.0, 0.88);
+  float bloomStr = 0.22 + hoverGlow * 0.38;
   color.rgb = mix(
     color.rgb,
-    color.rgb + bloomed.rgb * 0.22,
+    color.rgb + bloomed.rgb * bloomStr,
     bMix
   );
   color.rgb *= vLightMul;
@@ -171,6 +183,7 @@ varying float vInstanceId;
 varying vec4 vTextureCoords;
 varying float vLightMul;
 varying float vBloomSharp;
+varying float vHover;
 
 uniform sampler2D uAtlas;
 

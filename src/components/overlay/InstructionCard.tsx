@@ -76,7 +76,8 @@ export default function InstructionCard() {
           <div className="instruction-card__eyebrow">How to play</div>
           <div className="instruction-card__body">
             <span className="kbd">drag</span> to orbit the covers,&nbsp;
-            <span className="kbd">scroll</span> to travel through depth,&nbsp;
+            <span className="kbd">scroll</span> (or two-finger vertical drag) for
+            depth,&nbsp;
             <span className="kbd">click</span> a cover to play it.
           </div>
         </motion.div>

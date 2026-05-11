@@ -41,12 +41,17 @@ export function attachElasticGallery(grid: HTMLElement): () => void {
 
   gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
 
+  ScrollTrigger.config({ ignoreMobileResize: true });
+
   let smootherInstance: any;
   try {
     smootherInstance = ScrollSmoother.create({
       smooth: 1,
       effects: true,
       normalizeScroll: true,
+      /** Default is no touch smoothing — match laptop catch-up (~1s). */
+      smoothTouch: 1,
+      ignoreMobileResize: true,
     });
   } catch {
     return noop;

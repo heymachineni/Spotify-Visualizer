@@ -77,28 +77,8 @@ export default function ControlCard({
     ? { className: "control-card__dock-anchor" as const }
     : ({ style: { display: "contents" as const } } as const);
 
-  return (
-    <motion.div
-      ref={cardRef}
-      className={dockEmbedded ? "control-card control-card--dock" : "control-card"}
-      // Framer sets `transform` for y/opacity; keep x: "-50%" in sync with
-      // .control-card { left: 50% } so the translateX(-50%) centering is not
-      // overwritten (otherwise the bar drifts off-center).
-      initial={
-        dockEmbedded ? false : { opacity: 0, y: 30, x: "-50%" }
-      }
-      animate={{
-        opacity: hidden && !open ? 0 : 1,
-        y: hidden && !open ? 24 : 0,
-        x: dockEmbedded ? 0 : "-50%",
-        pointerEvents: hidden && !open ? "none" : "auto",
-      }}
-      transition={{ duration: 0.32, ease: [0.22, 1, 0.36, 1] }}
-      // Interactions inside the card must not trigger the auto-hide.
-      onWheelCapture={(e) => e.stopPropagation()}
-      onTouchMoveCapture={(e) => e.stopPropagation()}
-    >
-      <div {...stackWrapperProps}>
+  const menuAndBar = (
+    <div {...stackWrapperProps}>
       <AnimatePresence initial={false}>
         {open && (
           <motion.div
@@ -187,7 +167,44 @@ export default function ControlCard({
           </span>
         </button>
       </div>
+    </div>
+  );
+
+  const chromeProps = {
+    onWheelCapture: (e: React.WheelEvent) => e.stopPropagation(),
+    onTouchMoveCapture: (e: React.TouchEvent) => e.stopPropagation(),
+  };
+
+  if (dockEmbedded) {
+    return (
+      <div
+        ref={cardRef}
+        className="control-card control-card--dock"
+        {...chromeProps}
+      >
+        {menuAndBar}
       </div>
+    );
+  }
+
+  return (
+    <motion.div
+      ref={cardRef}
+      className="control-card"
+      // Framer sets `transform` for y/opacity; keep x: "-50%" in sync with
+      // .control-card { left: 50% } so the translateX(-50%) centering is not
+      // overwritten (otherwise the bar drifts off-center).
+      initial={{ opacity: 0, y: 30, x: "-50%" }}
+      animate={{
+        opacity: hidden && !open ? 0 : 1,
+        y: hidden && !open ? 24 : 0,
+        x: "-50%",
+        pointerEvents: hidden && !open ? "none" : "auto",
+      }}
+      transition={{ duration: 0.32, ease: [0.22, 1, 0.36, 1] }}
+      {...chromeProps}
+    >
+      {menuAndBar}
     </motion.div>
   );
 }

@@ -198,24 +198,13 @@ export default function UserLibrarySheet({
     ? { className: "user-lib__dock-anchor" as const }
     : ({ style: { display: "contents" as const } } as const);
 
-  return (
-    <motion.div
-      ref={cardRef}
-      className={dockEmbedded ? "user-lib user-lib--dock" : "user-lib"}
-      initial={
-        dockEmbedded ? false : { opacity: 0, y: 30, x: "-50%" }
-      }
-      animate={{
-        opacity: hidden && !open ? 0 : 1,
-        y: hidden && !open ? 24 : 0,
-        x: dockEmbedded ? 0 : "-50%",
-        pointerEvents: hidden && !open ? "none" : "auto",
-      }}
-      transition={{ duration: 0.32, ease: [0.22, 1, 0.36, 1] }}
-      onWheelCapture={(e) => e.stopPropagation()}
-      onTouchMoveCapture={(e) => e.stopPropagation()}
-    >
-      <div {...stackWrapperProps}>
+  const chromeProps = {
+    onWheelCapture: (e: React.WheelEvent) => e.stopPropagation(),
+    onTouchMoveCapture: (e: React.TouchEvent) => e.stopPropagation(),
+  };
+
+  const panelAndBar = (
+    <div {...stackWrapperProps}>
       <AnimatePresence initial={false}>
         {open && (
           <motion.div
@@ -364,7 +353,36 @@ export default function UserLibrarySheet({
           </span>
         </button>
       </div>
+    </div>
+  );
+
+  if (dockEmbedded) {
+    return (
+      <div
+        ref={cardRef}
+        className="user-lib user-lib--dock"
+        {...chromeProps}
+      >
+        {panelAndBar}
       </div>
+    );
+  }
+
+  return (
+    <motion.div
+      ref={cardRef}
+      className="user-lib"
+      initial={{ opacity: 0, y: 30, x: "-50%" }}
+      animate={{
+        opacity: hidden && !open ? 0 : 1,
+        y: hidden && !open ? 24 : 0,
+        x: "-50%",
+        pointerEvents: hidden && !open ? "none" : "auto",
+      }}
+      transition={{ duration: 0.32, ease: [0.22, 1, 0.36, 1] }}
+      {...chromeProps}
+    >
+      {panelAndBar}
     </motion.div>
   );
 }

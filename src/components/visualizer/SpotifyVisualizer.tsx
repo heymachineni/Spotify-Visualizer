@@ -4,8 +4,8 @@
  * React port of J0SUKE/spotify-visualiser `src/canvas.ts` + `src/main.ts`.
  * Clicks are GPU-picked; texture slots map through `coverIndexMap` to the
  * correct playlist track (tracks without covers are not in the atlas).
- * World XY: infinite canvas drag via `uDrag` in Planes (see original repo
- * [spotify-visualiser](https://github.com/J0SUKE/spotify-visualiser)).
+ * World XY: infinite canvas drag via `uDrag` + horizontal/vertical `mod()`
+ * wrap (same field as [spotify-visualiser](https://github.com/J0SUKE/spotify-visualiser));
  */
 
 import { useEffect, useMemo, useRef } from "react";

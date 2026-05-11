@@ -1,9 +1,8 @@
 /**
  * Instanced album cards: one atlas of pre-rendered cards (cover + title +
- * artist, glass) + GPU pick. Each instance keeps a stable atlas row until
- * its Z-depth wrap cycle advances. Each instance cycles a slot 0..N-1; a
- * shuffled `perm` maps slot → atlas row so every cover appears before any
- * repeat in a full lap (with 550 > N, many instances still share a cover at once).
+ * artist) styled to align with Nyx UI MusicPlayer `theme="midnight"` surface
+ * (slate/neutral/zinc gradient, slate border) — see nyxui.com/components/music-player.
+ * GPU pick; each instance maps through a shuffled atlas row on Z wrap.
  */
 
 import * as THREE from "three";
@@ -37,10 +36,9 @@ interface ImageInfo {
 }
 
 const FALLBACK_SIZE = 512;
-/** Proportions match `createGeometry` (1 × CARD_ASPECT) */
+/** Portrait card — height chosen for tall artwork + compact text (no controls strip). */
 const CARD_PX_W = 230;
-/** Portrait card — keep a hair taller than wide */
-const CARD_PX_H = 290;
+const CARD_PX_H = 252;
 const MAX_ATLAS_HEIGHT = 15000;
 
 /** Z range for instance placement; must match `visualizerVertexShader` minZ / maxZ. */
@@ -380,7 +378,7 @@ function drawArtistLine(
     while (s.length > 1 && ctx.measureText(s + ell).width > maxW) s = s.slice(0, -1);
     s += ell;
   }
-  ctx.fillStyle = "rgba(255,255,255,0.6)";
+  ctx.fillStyle = "rgba(255,255,255,0.70)";
   ctx.fillText(s, cx, y0);
 }
 
@@ -451,6 +449,11 @@ export default class Planes {
   private pointerDown?: (e: PointerEvent) => void;
   private pointerMove?: (e: PointerEvent) => void;
   private pointerUp?: (e: PointerEvent) => void;
+  /** Two-finger vertical pan → same depth scroll as mouse wheel (touch has no wheel). */
+  private twoFingerDepth = { active: false, lastMidY: 0 };
+  private twoTouchStart?: (e: TouchEvent) => void;
+  private twoTouchMove?: (e: TouchEvent) => void;
+  private twoTouchEnd?: (e: TouchEvent) => void;
   private onWheelBound: (e: WheelEvent) => void;
 
   /** Smoothed NDC pointer (-1..1, +Y up) for GPU proximity. */
@@ -588,16 +591,16 @@ export default class Planes {
     const W = Math.max(32, Math.floor(CARD_PX_W * scale));
     const H = Math.max(40, Math.floor(CARD_PX_H * scale));
 
-    const coverPad = Math.max(6, 12 * scale);
+    const coverPad = Math.max(5, 10 * scale);
     const coverW = W - 2 * coverPad;
-    const titleFs = Math.max(12, Math.round(15 * scale));
-    const artistFs = Math.max(10, Math.round(12 * scale));
-    const titleLineH = Math.max(15, Math.round(19 * scale));
+    /** ~ Nyx MusicPlayer title `text-lg` / `font-bold`, artist `text-sm opacity-70`. */
+    const titleFs = Math.max(13, Math.round(17 * scale));
+    const artistFs = Math.max(11, Math.round(13 * scale));
+    const titleLineH = Math.max(14, Math.round(17 * scale));
     const titleBlockH = titleLineH * 2;
-    // Tighter than before (~2px) so cover and title read as one block
-    const labelGap = Math.max(6, 8 * scale);
-    const artistGap = Math.max(4, 6 * scale);
-    const textBlockH = titleBlockH + artistGap + artistFs + 4;
+    const labelGap = Math.max(5, 6 * scale);
+    const artistGap = Math.max(3, 5 * scale);
+    const textBlockH = titleBlockH + artistGap + artistFs + 2;
     const coverH = Math.max(
       24,
       Math.min(coverW, H - 2 * coverPad - labelGap - textBlockH)
@@ -646,7 +649,8 @@ export default class Planes {
     let currentY = 0;
     const xOff = (atlasWidth - W) / 2;
     const out: ImageInfo[] = [];
-    const radius = 18 * scale;
+    /** Nyx card uses `rounded-2xl` (~16px). */
+    const radius = 16 * scale;
     for (let i = 0; i < items.length; i++) {
       const item = items[i]!;
       const img = images[i]!;
@@ -661,26 +665,54 @@ export default class Planes {
 
       const { primary, secondary } = extractAlbumPalette(img);
 
-      // (1) Color-driven vertical gradient base — album-derived, no flat gray
+      // Nyx UI `theme="midnight"` dark surface (tailwind): `bg-gradient-to-br`
+      // from-slate-900/95 via-neutral-800/95 to-zinc-900/95 — see
+      // https://nyxui.com/components/music-player — plus a whisper of album tint.
+      const slate900 = { r: 15, g: 23, b: 42 };
+      const neutral800 = { r: 38, g: 38, b: 38 };
+      const zinc900 = { r: 24, g: 24, b: 27 };
+      const tintA = softenAlbumColor(primary);
+      const tintB = softenAlbumColor(secondary);
+      const tintW = 0.08;
+      const a0 = {
+        r: slate900.r * (1 - tintW) + tintA.r * tintW,
+        g: slate900.g * (1 - tintW) + tintA.g * tintW,
+        b: slate900.b * (1 - tintW) + tintA.b * tintW,
+      };
+      const a1 = {
+        r: neutral800.r * (1 - tintW) + tintB.r * tintW,
+        g: neutral800.g * (1 - tintW) + tintB.g * tintW,
+        b: neutral800.b * (1 - tintW) + tintB.b * tintW,
+      };
+      const a2 = {
+        r: zinc900.r * (1 - tintW) + tintB.r * tintW,
+        g: zinc900.g * (1 - tintW) + tintB.g * tintW,
+        b: zinc900.b * (1 - tintW) + tintB.b * tintW,
+      };
       {
-        const gr = ctx.createLinearGradient(bgX, bgY, bgX, bgY + h);
-        gr.addColorStop(0, toCssColor(darken(primary, 0.38)));
-        gr.addColorStop(1, toCssColor(secondary));
+        const gr = ctx.createLinearGradient(bgX, bgY, bgX + w, bgY + h);
+        const al = 0.95;
+        const r0 = `rgba(${Math.round(a0.r)},${Math.round(a0.g)},${Math.round(a0.b)},${al})`;
+        const r1 = `rgba(${Math.round(a1.r)},${Math.round(a1.g)},${Math.round(a1.b)},${al})`;
+        const r2 = `rgba(${Math.round(a2.r)},${Math.round(a2.g)},${Math.round(a2.b)},${al})`;
+        gr.addColorStop(0, r0);
+        gr.addColorStop(0.5, r1);
+        gr.addColorStop(1, r2);
         ctx.fillStyle = gr;
         ctx.fillRect(bgX, bgY, w, h);
       }
 
-      // (2) Soft blur overlay: album color bleed, restrained saturation
+      // Soft art wash (restrained)
       try {
-        const ambScale = 1.26;
+        const ambScale = 1.18;
         const ambW = w * ambScale;
         const ambH = h * ambScale;
         const ambX = bgX - (ambW - w) / 2;
         const ambY = bgY - (ambH - h) / 2;
         ctx.save();
         (ctx as CanvasRenderingContext2D & { filter: string }).filter =
-          "blur(58px) saturate(1.12)";
-        ctx.globalAlpha = 0.26;
+          "blur(52px) saturate(1.08)";
+        ctx.globalAlpha = 0.2;
         ctx.drawImage(img, ambX, ambY, ambW, ambH);
         ctx.restore();
       } catch {
@@ -689,35 +721,35 @@ export default class Planes {
       ctx.globalAlpha = 1;
       (ctx as CanvasRenderingContext2D & { filter: string }).filter = "none";
 
-      // (3) Radial focus — center clear, edge vignette
+      // Subtle vignette (lighter than before — Nyx relies on flat gradient + border)
       {
         const gcx = bgX + w / 2;
         const gcy = bgY + h / 2;
-        const r0 = Math.max(w, h) * 0.12;
+        const r0 = Math.max(w, h) * 0.2;
         const r1 = Math.max(w, h) * 0.92;
         const vig = ctx.createRadialGradient(gcx, gcy, r0, gcx, gcy, r1);
         vig.addColorStop(0, "rgba(0,0,0,0)");
-        vig.addColorStop(0.55, "rgba(0,0,0,0.08)");
-        vig.addColorStop(1, "rgba(0,0,0,0.4)");
+        vig.addColorStop(0.65, "rgba(0,0,0,0.04)");
+        vig.addColorStop(1, "rgba(0,0,0,0.18)");
         ctx.fillStyle = vig;
         ctx.fillRect(bgX, bgY, w, h);
       }
 
-      // (4) Minimal glass so gradient + art stay visible
-      ctx.fillStyle = "rgba(255,255,255,0.025)";
+      // backdrop-blur feel: very light frost (`backdrop-blur-sm` analogue)
+      ctx.fillStyle = "rgba(255,255,255,0.04)";
       ctx.fillRect(bgX, bgY, w, h);
       ctx.restore();
 
-      // soft inner highlight (single hairline, no strong border)
       pathRoundRect(ctx, bgX + 0.5, bgY + 0.5, w - 1, h - 1, radius - 0.5);
-      ctx.strokeStyle = "rgba(255,255,255,0.07)";
+      // `border-slate-400/40`
+      ctx.strokeStyle = "rgba(148,163,184,0.40)";
       ctx.lineWidth = 1;
       ctx.stroke();
 
       const cX = bgX + coverPad;
       const cY = bgY + coverPad;
       ctx.save();
-      pathRoundRect(ctx, cX, cY, coverW, coverH, 10 * scale);
+      pathRoundRect(ctx, cX, cY, coverW, coverH, 12 * scale);
       ctx.clip();
       try {
         ctx.drawImage(img, cX, cY, coverW, coverH);
@@ -729,8 +761,8 @@ export default class Planes {
       const textBandH = h - 2 * coverPad - coverH - labelGap;
       const labelY = bgY + coverPad + coverH + labelGap;
       const titleTextW = w - 2 * coverPad;
-      ctx.fillStyle = "rgba(255,255,255,0.95)";
-      ctx.font = `500 ${titleFs}px Inter, system-ui, sans-serif`;
+      ctx.fillStyle = "rgba(255,255,255,0.98)";
+      ctx.font = `700 ${titleFs}px Inter, system-ui, sans-serif`;
       const titleLines = layoutFittedTitleLines(
         ctx,
         item.title,
@@ -1029,13 +1061,42 @@ export default class Planes {
     element.addEventListener("pointerdown", this.pointerDown);
     window.addEventListener("pointermove", this.pointerMove);
     window.addEventListener("pointerup", this.pointerUp);
+
+    this.twoTouchStart = (e: TouchEvent) => {
+      if (e.touches.length === 2) {
+        this.twoFingerDepth.active = true;
+        this.twoFingerDepth.lastMidY =
+          (e.touches[0]!.clientY + e.touches[1]!.clientY) / 2;
+      }
+    };
+    this.twoTouchMove = (e: TouchEvent) => {
+      if (!this.twoFingerDepth.active || e.touches.length !== 2) return;
+      const mid =
+        (e.touches[0]!.clientY + e.touches[1]!.clientY) / 2;
+      const dy = mid - this.twoFingerDepth.lastMidY;
+      this.twoFingerDepth.lastMidY = mid;
+      this.applyDepthScrollFromWheelDelta(dy);
+    };
+    this.twoTouchEnd = (e: TouchEvent) => {
+      if (e.touches.length < 2) this.twoFingerDepth.active = false;
+    };
+    element.addEventListener("touchstart", this.twoTouchStart, {
+      passive: true,
+    });
+    element.addEventListener("touchmove", this.twoTouchMove, { passive: true });
+    element.addEventListener("touchend", this.twoTouchEnd);
+    element.addEventListener("touchcancel", this.twoTouchEnd);
+  }
+
+  /** Same mapping as `wheel` `deltaY` (positive ≈ scroll down / fingers move down). */
+  applyDepthScrollFromWheelDelta(deltaY: number) {
+    const scrollY = (deltaY * this.sizes.height) / window.innerHeight;
+    this.scrollY.target += scrollY;
+    this.material.uniforms.uSpeedY.value += scrollY;
   }
 
   onWheel(event: WheelEvent) {
-    const delta = event.deltaY;
-    const scrollY = (delta * this.sizes.height) / window.innerHeight;
-    this.scrollY.target += scrollY;
-    this.material.uniforms.uSpeedY.value += scrollY;
+    this.applyDepthScrollFromWheelDelta(event.deltaY);
   }
 
   render(delta: number) {
@@ -1145,6 +1206,12 @@ export default class Planes {
     if (this.pointerMove) window.removeEventListener("pointermove", this.pointerMove);
     if (this.pointerUp) window.removeEventListener("pointerup", this.pointerUp);
     window.removeEventListener("wheel", this.onWheelBound);
+    if (this.dragElement && this.twoTouchStart && this.twoTouchMove && this.twoTouchEnd) {
+      this.dragElement.removeEventListener("touchstart", this.twoTouchStart);
+      this.dragElement.removeEventListener("touchmove", this.twoTouchMove);
+      this.dragElement.removeEventListener("touchend", this.twoTouchEnd);
+      this.dragElement.removeEventListener("touchcancel", this.twoTouchEnd);
+    }
 
     this.scene.remove(this.mesh);
     this.geometry.dispose();

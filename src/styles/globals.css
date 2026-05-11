@@ -2160,6 +2160,27 @@ code {
     0 0 0 1px rgba(255, 255, 255, 0.09);
 }
 
+@media (max-width: 739px) {
+  /* Dock playlist / library sheets: edge-to-edge bottom sheet (guest + premium). */
+  .control-card__menu.control-card__menu--dock-float,
+  .user-lib__panel.user-lib__panel--dock-float {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    min-width: 0;
+    max-width: none;
+    max-height: min(85vh, 100dvh);
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+    padding-bottom: calc(14px + env(safe-area-inset-bottom, 0px));
+    border: 1px solid rgba(255, 255, 255, 0.09);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    box-sizing: border-box;
+  }
+}
+
 .control-card--dock {
   position: relative;
   left: auto;
