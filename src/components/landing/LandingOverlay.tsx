@@ -37,7 +37,7 @@
 import { useCallback, useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import type { PlaylistFetchProgress } from "@/hooks/useSpotifyPlaylist";
-import { spotifyCallbackErrorMessage } from "@/lib/spotifyLoginErrors";
+import { spotifyCallbackErrorMessage, oauthDevDetail } from "@/lib/spotifyLoginErrors";
 
 type Tab = "spotify" | "preview";
 
@@ -149,7 +149,9 @@ export default function LandingOverlay({
               onEnterWhileMePending();
             } else {
               setLoginNotice(
-                "Spotify is temporarily rate-limiting API traffic (HTTP 429). Wait 1–2 minutes, then refresh this page — your login cookie is usually still valid. Preview Mode still works below."
+                oauthDevDetail()
+                  ? "Spotify is temporarily rate-limiting API traffic (HTTP 429). Wait 1–2 minutes, then refresh — your login cookie is often still valid. Try Preview below."
+                  : "Spotify is busy right now. Wait a minute, refresh the page, and try again. Try Preview works anytime."
               );
               setTab("preview");
             }
@@ -159,20 +161,26 @@ export default function LandingOverlay({
               onEnterWhileMePending();
             } else {
               setLoginNotice(
-                "Spotify rate limit (429). Wait a minute, refresh, and try again. Preview Mode still works below."
+                oauthDevDetail()
+                  ? "Spotify rate limit (429). Wait a minute, refresh, and try again. Try Preview below."
+                  : "Too many requests to Spotify. Wait a bit, refresh, and try again, or use Try Preview."
               );
               setTab("preview");
             }
             return;
           } else if (res.status === 502 && msg) {
             setLoginNotice(
-              `Spotify: ${msg.slice(0, 200)}${
-                msg.length > 200 ? "…" : ""
-              } — If the app is in Development mode, add your Spotify user under “Users and groups” in the developer dashboard. Preview Mode still works.`
+              oauthDevDetail()
+                ? `Spotify: ${msg.slice(0, 200)}${
+                    msg.length > 200 ? "…" : ""
+                  } — If the app is in Development mode, add your Spotify user under “Users and groups” in the developer dashboard. Try Preview below.`
+                : "We couldn’t reach Spotify for your account. If you’re testing a private app, make sure your Spotify account is on the app’s user list. Try Preview below."
             );
           } else if (res.status === 401) {
             setLoginNotice(
-              "Not logged in or session expired. Open the app at the same host as SPOTIFY_REDIRECT_URI (e.g. http://127.0.0.1:3000) and try Connect again."
+              oauthDevDetail()
+                ? "Not logged in or session expired. Open the app at the same host as SPOTIFY_REDIRECT_URI (e.g. http://127.0.0.1:3000) and try Connect again."
+                : "Your sign-in didn’t stick. Try Continue with Spotify again, or use Try Preview."
             );
           } else {
             setLoginNotice(
