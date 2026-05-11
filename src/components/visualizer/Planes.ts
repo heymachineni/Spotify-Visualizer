@@ -40,6 +40,8 @@ const FALLBACK_SIZE = 512;
 const CARD_PX_W = 230;
 const CARD_PX_H = 252;
 const MAX_ATLAS_HEIGHT = 15000;
+/** Touch vertical swipe → depth scroll feels slower than wheel per pixel; boost to match desired snappiness. */
+const TOUCH_DEPTH_SWIPE_MULTIPLIER = 3.25;
 
 /** Z range for instance placement; must match `visualizerVertexShader` minZ / maxZ. */
 const Z_BOUNDS = { max: 8, min: -18 };
@@ -1040,7 +1042,7 @@ export default class Planes {
       this.drag.xTarget += wx;
       // Touch: no mouse wheel — vertical swipe drives depth (scrollY) like the wheel; horizontal still pans X.
       if (e.pointerType === "touch") {
-        this.applyDepthScrollFromWheelDelta(dy);
+        this.applyDepthScrollFromWheelDelta(dy * TOUCH_DEPTH_SWIPE_MULTIPLIER);
       } else {
         this.drag.yTarget += dy * worldPerPixelY;
       }

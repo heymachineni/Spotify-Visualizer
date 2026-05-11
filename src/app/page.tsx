@@ -946,15 +946,17 @@ export default function HomePage() {
               onQueueClick={handleSelectTrack}
               onLeaveBack={handleExitTrackMode}
             />
-            <InAppNowPlayingPill
-              track={activeTrack}
-              sdkPlayback={userProductType === "premium" ? sdkPlayback : null}
-              pausedApproxPreview={pausedApproxForTrackChrome}
-              canSkipQueue={canSkipQueue}
-              onTogglePlay={() => void handlePlaybackToggle()}
-              onPreviousInQueue={skipQueuePrev}
-              onNextInQueue={skipQueueNext}
-            />
+            {userProductType === "premium" ? (
+              <InAppNowPlayingPill
+                track={activeTrack}
+                sdkPlayback={sdkPlayback}
+                pausedApproxPreview={pausedApproxForTrackChrome}
+                canSkipQueue={canSkipQueue}
+                onTogglePlay={() => void handlePlaybackToggle()}
+                onPreviousInQueue={skipQueuePrev}
+                onNextInQueue={skipQueueNext}
+              />
+            ) : null}
           </motion.div>
         )}
       </AnimatePresence>
