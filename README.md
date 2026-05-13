@@ -5,8 +5,10 @@ WebGL universe. Album covers drift behind you as instanced 3D planes; when you
 click a track, the whole interface distorts into a focal album with infinite
 scrolling text columns and a sideways queue of upcoming tracks.
 
-Demo:
-https://github.com/user-attachments/assets/1980af52-b36e-45ca-82ee-1079eb350b9d
+## Demo
+
+<video src="https://github.com/user-attachments/assets/1980af52-b36e-45ca-82ee-1079eb350b9d" controls="controls" autoplay="autoplay" loop="loop" muted="muted" style="max-width: 100%;">
+</video>
 
 Built on top of two open source visual systems:
 
